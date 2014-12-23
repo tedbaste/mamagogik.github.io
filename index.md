@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Letzte Einträge"
+title: "Alle Artikel"
 ---
 
 <div class="tiles">
