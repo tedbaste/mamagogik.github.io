@@ -27,7 +27,7 @@ author:
   last_name: ''
 ---
 <figure>
-  <img src="http://0.0.0.0:4000/images/photo-album-235603_150.jpg" alt="fotoalbum"/>
+  <img src="{{ site.url }}/images/photo-album-235603_150.jpg" alt="fotoalbum"/>
 </figure>
 Schon als junges Mädchen war ich mir sicher: wenn ich groß bin, möchte ich Kinder haben.
 In der Pubertät habe ich dann einen genauen Plan gehabt: mit 23 wollte ich mein Studium abgeschlossen haben, dann locker zwei Jahre arbeiten gehen, um Berufserfahrung zu sammeln und mit spätestens 26 wollte ich den ersten Wonneproppen durch die Gegend schaukeln.
@@ -37,7 +37,7 @@ Jede Wahl die man so trifft, wirkt sich auf die eigene Geschichte aus.
 Und egal was man plant, es kommt doch viel zu häufig alles ganz anders als gedacht.
 
 <figure>
-  <img src="http://0.0.0.0:4000/images/20140415-200835.jpg" alt="20140415-200835.jpg" />
+  <img src="{{ site.url }}/images/20140415-200835.jpg" alt="20140415-200835.jpg" />
 </figure>
 
 Und so war ich mit 26 gerade erst mit dem Studium fertig, steckte in einer Beziehung die an eine Kinderplanung gar nicht denken ließ und die Eingewöhnung ins Berufsleben war doch einnehmender als vorerst angenommen.
@@ -50,7 +50,7 @@ Aber da die Mamagogin ein Herzmensch ist, konnte sie sich damit nur schlecht zuf
 Man darf sich vorstellen, wie der kleine Rechenschieber unter der Ungeduld von der Pläneschmiedin so manches Mal zu leiden hatte (Ich kann bei sowas nämlich wirklich wieder in die Trotzphase zurück fallen).
 
 <figure>
-  <img src="http://0.0.0.0:4000/images/chance_change.jpg" alt="chance change" />
+  <img src="{{ site.url }}/images/chance_change.jpg" alt="chance change" />
 </figure>
 
 Und als ich mich so langsam damit abgefunden hatte, als alte kinderlose Jungfer dahin zu vegetieren, da entschied ich: Wenn schon jetzt kein Kind, dann aber bitte sofort berufliche Weiterentwicklung!

@@ -39,7 +39,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p><a href="https://mamagogik.files.wordpress.com/2014/06/babyfc3bcssekussmund-e1403022519124.jpg"><img class="alignleft size-full wp-image-348" src="http://0.0.0.0:4000/images/babyfc3bcssekussmund-e1403022519124.jpg" alt="BabyfüsseKussmund" width="250" height="274" /></a>Seit Montag bin ich offiziell in der 27. Schwangerschaftswoche und ich habe das Gefühl die Wochen verstreichen wie mit einem Wimpernschlag. Noch ca. 13 Wochen und wir haben unsere kleine Knutschkugel endlich bei uns.</p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/06/babyfc3bcssekussmund-e1403022519124.jpg"><img class="alignleft size-full wp-image-348" src="{{ site.url }}/images/babyfc3bcssekussmund-e1403022519124.jpg" alt="BabyfüsseKussmund" width="250" height="274" /></a>Seit Montag bin ich offiziell in der 27. Schwangerschaftswoche und ich habe das Gefühl die Wochen verstreichen wie mit einem Wimpernschlag. Noch ca. 13 Wochen und wir haben unsere kleine Knutschkugel endlich bei uns.</p>
 <p>Das heißt im Umkehrschluss jedoch auch: uns bleiben nur noch etwa 13 Wochen für Vorbereitungen und andere wichtige Dinge, die nach dem Schlüpftag wahrscheinlich erstmal hinten anstehen werden.</p>
 <p>Im Moment genieße ich die vollkommene Unabhängigkeit und die Flexibilität. Durch meine Berufserfahrung als Sozialpädagogin weiß ich jedoch, dass eine Tagesstruktur und Rituale für Kinder enorm wichtig sind, da sie Sicherheit und Verlässlichkeit vermitteln.</p>
 <p>Ich dachte mir also: Warum sollte ich nicht schon mal mit einer gewissen Portion Struktur die nächsten Wochen angehen? Und da die Zeit nur so rennt und ich es liebe Listen abzuarbeiten (erledigte Dinge wegzustreichen finde ich großartig!) habe ich mir folgendes überlegt:</p>

@@ -31,7 +31,7 @@ author:
   last_name: ''
 ---
 <p>Endlich komme ich dazu unser neues Familienmitglied vorzustellen:</p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/06/20140603-182207-66127496.jpg"><img class="alignright size-full" src="http://0.0.0.0:4000/images/20140603-182207-66127496.jpg" alt="20140603-182207-66127496.jpg" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/06/20140603-182207-66127496.jpg"><img class="alignright size-full" src="{{ site.url }}/images/20140603-182207-66127496.jpg" alt="20140603-182207-66127496.jpg" /></a></p>
 <p>Das ist Ben, mein Baby-Cousin. Er wurde am 28. Mai um 19:46 Uhr geboren (3690g, 54 cm) und ist ein richtiger Schatz. Er scheint rundum zufrieden zu sein, schläft ruhig und lässt seine Mami sogar in der Nacht relativ viel schlafen. Ich hoffe nur, dass Ben keine unrealistischen Vorstellungen in mir weckt ;)</p>
 <p><!--more--></p>
 <p>Das Tolle ist nicht nur, dass Ben und das Krümelinchen nur einige Monate auseinander sein werden, sondern dass meine Tante seit meiner Schwangerschaft natürlich eine ganz tolle Ansprechpartnerin für mich ist, wenn es darum geht, mich mal wieder auf den Boden der Tatsachen zurück zu holen, wenn ich mal wieder Frau Unsicher spiele oder ich mir vor Sorgen beinahe den Kopf zerbreche. Außerdem durften der Krümelinchen-Papa und ich schon fleißig üben: Wickeln, Temperatur messen, die Brust als Bettchen umfunktionieren und den Arm als Relaxing-Zone einrichten. Und ich kann euch eines sagen: wir sind hin und weg! Wenn es schon so schön ist, ein Baby-Cousin auf dem Arm zu halten, dann kann ich mir kaum vorstellen, wie es sein wird, wenn das eigene Töchterchen dann bei uns liegt.</p>

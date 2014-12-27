@@ -34,7 +34,7 @@ author:
   last_name: ''
 ---
 <p>Vor einigen Wochen habe ich euch mein <a title="Schwangerschaftstagebuch" href="http://wp.me/p4xndi-5Y" target="_blank">Schwangerschaftstagebuch</a> vorgestellt. Im Zuge dessen habe ich ein kleines Gewinnspiel geschaltet, in dem ihr ein <a title="Stempelset der Firma Project Life" href="http://www.danipeuss.de/index.php?page=shop.product_details&amp;flypage=flypage.tpl&amp;product_id=40851&amp;category_id=583&amp;option=com_virtuemart&amp;Itemid=640" target="_blank">Stempelset der Firma Project Life</a> gewinnen könnt, welches mir der Internetshop <a title="danipeuss.de" href="http://www.danipeuss.de/" target="_blank">danipeuss.de </a>netterweise zur Verfügung stellt.</p>
-<p><img class="aligncenter size-medium wp-image-694" src="http://0.0.0.0:4000/images/klartext_stempel_53ad937dad4b2.jpg" alt="Stempelset Project Life" width="205" height="300" /></p>
+<p><img class="aligncenter size-medium wp-image-694" src="{{ site.url }}/images/klartext_stempel_53ad937dad4b2.jpg" alt="Stempelset Project Life" width="205" height="300" /></p>
 <p>Mit diesem Stempelset zum Thema 'Baby' könnt ihr euer Schwangerschaftstagebuch, Karten oder andere Bastelarbeiten verschönern und euch kreativ auslassen.</p>
 <p>Da ich auch noch anderen von euch die Chance geben möchte, an diesem Gewinnspiel teilzunehmen, werde ich die Deadline bis zum 15.10.2014 verlängern.</p>
 <p>Also ran an die Tasten und macht mit!</p>

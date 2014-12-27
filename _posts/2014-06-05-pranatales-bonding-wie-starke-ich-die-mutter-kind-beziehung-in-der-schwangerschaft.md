@@ -34,7 +34,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p>[caption id="attachment_300" align="alignleft" width="150"]<a href="https://mamagogik.files.wordpress.com/2014/05/pregnant-244662_150.jpg"><img class="size-full wp-image-300" src="http://0.0.0.0:4000/images/pregnant-244662_150.jpg" alt="Mutterglück" width="150" height="99" /></a> Quelle: pixabay.com, von:Tasha[/caption]</p>
+<p>[caption id="attachment_300" align="alignleft" width="150"]<a href="https://mamagogik.files.wordpress.com/2014/05/pregnant-244662_150.jpg"><img class="size-full wp-image-300" src="{{ site.url }}/images/pregnant-244662_150.jpg" alt="Mutterglück" width="150" height="99" /></a> Quelle: pixabay.com, von:Tasha[/caption]</p>
 <p>Es gibt Tage, da mache ich mir sehr viele Gedanken und Sorgen. Ich frage mich, ob das Baby gesund ist? Wie es wohl sein wird, wenn das Krümelinchen da ist? Ob ich vielleicht vergessen werde, die Ohren regelmäßig sauber zu halten? Und wie ich in Stresssituationen reagieren werde?<br />
 Und dann gibt es da diese Abende, an denen ich mich schon gar nicht mehr darüber wundere, dass die kleine Turnerin mal wieder strampelt und ich merke, dass ich den ganzen Tag nicht darüber nachgedacht habe, dass ich schwanger bin.<br />
 Und dann frage ich mich, ob ich wirklich schon eine Bindung zu meinem Baby habe? Was ist eigentlich dieses 'Mutterglück'? Darf ich traurig darüber sein, dass ich dieses Jahr unser heißgeliebtes Festival zum 'Wohl des Babys' verpassen werde?</p>

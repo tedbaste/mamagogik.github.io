@@ -33,7 +33,7 @@ author:
   last_name: ''
 ---
 <figure>
-  <img src="http://0.0.0.0:4000/images/bc3bccher.jpg" alt="bücher" />
+  <img src="{{ site.url }}/images/bc3bccher.jpg" alt="bücher" />
 </figure>
 Ich arbeitete also ca 10 Monate in dem Kinderheim für traumatisierte Kinder und Jugendliche.
 Die Arbeit war intensiv und nicht immer leicht bekömmlich, aber ich fühlte mich wohl und es freute mich, dass ich einen guten Draht zu den Kindern und meinem Team hatte.
@@ -45,7 +45,7 @@ Erst als ich in der dritten Praxis anrief hatte ich eine engagierte Arzthelferin
 Als sie mich fragte, wann denn meine letzte Periode gewesen wäre, musste ich nachdenken...
 
 <figure>
-  <img src="http://0.0.0.0:4000/images/time-273857_1501.jpg" alt="datum" />
+  <img src="{{ site.url }}/images/time-273857_1501.jpg" alt="datum" />
 </figure>
 
 Ich merkte plötzlich das dies wohl Mitte Dezember gewesen sein musste.
@@ -90,7 +90,7 @@ Daraufhin folgten etliche Smileys mit großen Augen, lachenden Mündern bis zu d
 Befremdlich.
 
 <figure>
-  <img src="http://0.0.0.0:4000/images/fractal-298461_150.jpg" alt="chaos im kopf" />
+  <img src="{{ site.url }}/images/fractal-298461_150.jpg" alt="chaos im kopf" />
 </figure>
 
 In der Nacht lag ich im Bereitschaftszimmer und kämpfte mit dem Chaos in meinem Kopf.

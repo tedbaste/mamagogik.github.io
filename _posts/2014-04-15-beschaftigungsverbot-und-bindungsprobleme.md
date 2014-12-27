@@ -37,7 +37,7 @@ author:
   last_name: ''
 ---
 <figure>
-  <img src="http://0.0.0.0:4000/images/abschied.jpg" alt="abschied" />
+  <img src="{{ site.url }}/images/abschied.jpg" alt="abschied" />
 </figure>
 Heute war ich zum Abschied auf meinem alten Arbeitsplatz eingeladen.
 Die Kinder aus dem Kinderheim (heutzutage Wohngruppe genannt) sollten die Möglichkeit haben, sich von mir zu verabschieden, nachdem ich vor ca. 11 Wochen überstürzt in das Beschäftigungsverbot gehen musste.
@@ -56,7 +56,7 @@ Ich fuhr vorher also noch in ein Spielwarengeschäft und schaute mich nach Grupp
 Da es für den Gruppenprozess und die sozialen Kompetenzen empfehlenswert ist, kommunikative Spiel auszuwählen, habe ich mich für das Spiel: Greg's Tagebuch - Eiermatsch entschieden.
 
 <figure>
-<img src="http://0.0.0.0:4000/images/eiermatsch-spiel.jpg" alt="eiermatsch-spiel" />
+<img src="{{ site.url }}/images/eiermatsch-spiel.jpg" alt="eiermatsch-spiel" />
 </figure>
 
 Als ich in der Wohngruppe ankam, wurde ich von einigen Kids bereits an der Tür stürmisch begrüßt.
@@ -69,8 +69,8 @@ typisch Anna[^1], da sprach die Pubertät und die eisige Coolness aus ihr ;)
 Ich reichte meine Ultraschallfotos herum und erklärte den Kindern was und vor allem wo, man da das Baby sehen konnte.
 
 <figure class="half">
-<img src="http://0.0.0.0:4000/images/20140415-121904.jpg" alt="20140415-121904.jpg" />
-<img src="http://0.0.0.0:4000/images/20140415-122145.jpg" alt="20140415-122145.jpg" />
+<img src="{{ site.url }}/images/20140415-121904.jpg" alt="20140415-121904.jpg" />
+<img src="{{ site.url }}/images/20140415-122145.jpg" alt="20140415-122145.jpg" />
 <figcaption>Die ersten Schnappschüsse vom Krümmel.</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Ich machte Scherze über meine kurzen Beine, die wegen dem Kugelbauch dann viell
 Sie lachten.
 
 <figure>
-  <img src="http://0.0.0.0:4000/images/junge_traurig.jpg" alt="junge_traurig" />
+  <img src="{{ site.url }}/images/junge_traurig.jpg" alt="junge_traurig" />
 </figure>
 
 Nach einer kurzen Pause fragte der 9 jährige Yannis[^1] mich traurig, warum ich denn schwanger geworden wäre.
@@ -114,7 +114,7 @@ Danach war der Knoten geplatzt und wir setzten uns zu den anderen an den Tisch, 
 Ich blieb noch eine Stunde, bis zum Abendessen und genoss die Harmonie und das Gefühl, als wenn ich gar nicht weg gewesen wäre.
 
 <figure>
-  <img src="http://0.0.0.0:4000/images/20140415-194030.jpg" alt="20140415-194030.jpg" />
+  <img src="{{ site.url }}/images/20140415-194030.jpg" alt="20140415-194030.jpg" />
 </figure>
 
 [^1]: aus Datenschutzgründen werden die Namen von mir geändert.

@@ -32,7 +32,7 @@ author:
 ---
 <p>Nachdem ich in den letzten zwei Wochen regelrecht dem Shoppingwahn verfallen bin, wurde ich von Verwandten und Freunden gefragt, ob ich ihnen denn noch etwas übrig gelassen hätte von dem, was die kleine Zuckerschnute denn so benötigt.</p>
 <p>Somit habe ich hier meine persönlichen Must Haves aufgelistet:</p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/08/img_1152.png"><img src="http://0.0.0.0:4000/images/img_1152.png" alt="IMG_1152.PNG" class="aligncenter size-full" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/08/img_1152.png"><img src="{{ site.url }}/images/img_1152.png" alt="IMG_1152.PNG" class="aligncenter size-full" /></a></p>
 <p><!--more--></p>
 <p>1. Die Babyhängematte <a href="http://www.lasiesta.com/de/babyhaengematte-yayita/">Yayita von La Siesta</a> - da wir auf eine Babywippe verzichten möchten und sie sich im Wohnzimmer zu den Holzbalken bestimmt ganz toll machen wird</p>
 <p>2. <a href="http://www.koeka.com/de-de/product/0721/shop-online/bettwäsche/1015--44-011/color-535--533/kinderdecke-waffel-flanell-antwerp.aspx">Kinderdecke Antwerp von Koeka</a> in mint (aus Waffelstoff und Flanell) 100cmx150cm - ich bin so verknallt in den niederländischen Babyausstatter, weil die Farben und das Material einfach traumhaft sind<strong></strong></p>

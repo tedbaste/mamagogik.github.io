@@ -33,7 +33,7 @@ author:
 <p>Diagnose: Verdacht auf <strong><em>Zervixinsuffizienz</em></strong>.<br />
 Auf deutsch heißt das soviel wie: Gebärmutterhalsschwäche.</p>
 <p><strong>Was genau ist eine Zervixinsuffizienz ?</strong></p>
-<p>[caption id="attachment_544" align="alignleft" width="300"]<a href="https://mamagogik.files.wordpress.com/2014/07/image4.jpg"><img class="size-full wp-image-544" src="http://0.0.0.0:4000/images/image4.jpg" alt="Quelle: http://commons.wikimedia.org/wiki/File:Gray1167_de.svg" width="300" height="250" /></a> Quelle: http://commons.wikimedia.org/wiki/File:Gray1167_de.svg[/caption]</p>
+<p>[caption id="attachment_544" align="alignleft" width="300"]<a href="https://mamagogik.files.wordpress.com/2014/07/image4.jpg"><img class="size-full wp-image-544" src="{{ site.url }}/images/image4.jpg" alt="Quelle: http://commons.wikimedia.org/wiki/File:Gray1167_de.svg" width="300" height="250" /></a> Quelle: http://commons.wikimedia.org/wiki/File:Gray1167_de.svg[/caption]</p>
 <p>Das habe ich mich auch gefragt. <em>Eine Zervixinsuffizienz zeichnet sich durch einen verkürzten und weichen Gebärmutterhals aus.</em></p>
 <p>Mein Gebärmutterhals hat sich nun während der Schwangerschaft enorm verkürzt. Dies innerhalb der letzten 2 Wochen von 4,2cm auf 1,8cm, wie die Frauenärztin feststellte. Bei einer Länge von 2,5cm und darunter (im Normalfall liegt er bei ca. 4cm) wird diese Diagnose gestellt.</p>
 <p>&nbsp;</p>
@@ -56,7 +56,7 @@ Es kann zu sogenannten Übungswehen kommen, bei denen die Gebärmutter sich zusa
 <p>Ebenso wird der Muttermund mit einem Spekulum (eine Metall"zange", die den Scheideneingang spreizt) begutachtet und ggf. auch abgetastet.</p>
 <p>Um eine mögliche Infektion untersuchen zu können, nimmt der Arzt einen Gewebeabstrich.</p>
 <p>Die Wehentätigkeit wird mit einem CTG gemessen, bei dem auch die Herztöne des Babys gemessen werden.</p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/07/image5-e1406406080388.jpg"><img class="aligncenter size-full wp-image-545" src="http://0.0.0.0:4000/images/image5-e1406406080388.jpg" alt="UniklinikAachenUntersuchungsraum" width="350" height="350" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/07/image5-e1406406080388.jpg"><img class="aligncenter size-full wp-image-545" src="{{ site.url }}/images/image5-e1406406080388.jpg" alt="UniklinikAachenUntersuchungsraum" width="350" height="350" /></a></p>
 <p>Meine Frauenärztin hat ja bereits am Dienstag eine Länge von 2,4cm ausgemessen und gestern kam sie auf eine Länge von 1,8cm. Aus diesem Grund schickte sie mich in die Klinik.</p>
 <p>Die Untersuchung im Krankenhaus ergab, nach mehrmaligen Ultraschalluntersuchungen einen Durchschnittswert von 2,6cm. Daraufhin erklärte die Ärztin mir, dass es immer wieder zu ungenauen Messungen kommen kann, da das Ultraschallgerät das Gewebe verschiebt.</p>
 <p>Das verwirrt mich natürlich ein bisschen, denn der Unterschied des Risikos zwischen 1,8cm und 2,6cm sind schon irgendwie enorm, wie ich finde. Blöd, dass es da noch keine andere Möglichkeit gibt (ein CT ist ja aufgrund der Schwangerschaft nicht möglich), um die Schwangere nicht unnötig in Panik verfallen zu lassen.</p>
@@ -72,7 +72,7 @@ Es kann zu sogenannten Übungswehen kommen, bei denen die Gebärmutter sich zusa
 <p>Ich habe heute außerdem sexy <strong>Thrombose-Strümpfe</strong> bekommen und <strong>Spritzen gegen Thrombose</strong>. Allerdings riet mir die Ärztin heute bei der Visite, mich ruhig zu bewegen, damit am Montag untersucht werden kann, ob mein Gebärmutterhals auch bei Belastung weiter stabil geblieben ist.</p>
 <p>Außerdem werde ich dreimal am Tag ans <strong>CTG</strong> angeschlossen und bekomme <strong>Magnesium</strong> gegen die Übungswehen.</p>
 <p>Am Montag soll dann noch einmal eine komplette Untersuchung laufen, die Ergebnisse des Abstriches sind dann vorhanden und dann wird entschieden wie es weiter geht.</p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/07/image6-e1406406132926.jpg"><img class="aligncenter size-full wp-image-546" src="http://0.0.0.0:4000/images/image6-e1406406132926.jpg" alt="KreißsaalUniklinikAachen" width="350" height="350" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/07/image6-e1406406132926.jpg"><img class="aligncenter size-full wp-image-546" src="{{ site.url }}/images/image6-e1406406132926.jpg" alt="KreißsaalUniklinikAachen" width="350" height="350" /></a></p>
 <p><strong>Wie geht es mir damit?</strong></p>
 <p>Ich musste mich gestern schon immer mal wieder beruhigen und mir sagen, dass wir hier in guten Händen sind. Sorgen macht man sich jedoch trotzdem irgendwie.</p>
 <p>Gegen 18 Uhr lagen meine Nerven jedoch gestern endgültig blank, da ich von 14 Uhr bis 18:30 Uhr darauf warten musste, bis endlich ein Zimmer auf der Station frei wurde und ich drei Stunden allein in einem Untersuchungszimmer des Kreißsaals lag und nicht wusste wie lang es noch dauern würde, mein Handy kein Empfang hatte, weil ich mich im Keller befand und ich mich einsam fühlte.</p>

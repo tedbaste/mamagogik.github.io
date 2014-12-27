@@ -42,12 +42,12 @@ author:
 <p><strong>Sünden</strong></p>
 <p>Nachdem wir am Donnerstagabend sehr eingebunden waren, was das Baby betrifft, haben wir zum Abendessen eine Pizza kommen lassen, die wir uns geteilt haben. Ich hatte kurze Zeit ein schlechtes Gewissen, allerdings habe ich mir gesagt, dass das nun mal zum Alltag gehört. Und da ich mein Monatsziel von 1,5Kg bereits in der folgenden Woche erreicht habe, wollte ich mich auch nicht stressen. Schließlich geht es darum, sich bewusst zu ernähren und dazu gehört auch, dass man mal einen Lieferdienst in Anspruch nimmt, sich aber dessen bewusst ist, dass es eine Ausnahme ist.</p>
 <p><strong>Lieblingsrezept</strong></p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/12/image2.jpg"><img class="aligncenter size-medium wp-image-969" src="http://0.0.0.0:4000/images/image2.jpg" alt="Muschelnudeln" width="229" height="300" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/12/image2.jpg"><img class="aligncenter size-medium wp-image-969" src="{{ site.url }}/images/image2.jpg" alt="Muschelnudeln" width="229" height="300" /></a></p>
 <p>Am besten fand ich diese Woche das Rezept der gefüllten Muschelnudeln mit einer Hackfleisch-Tomatensauce. Das Gericht war einfach zu zubereiten und hat toll geschmeckt. Auch wenn ich zusätzlich noch ein paar Gewürze hinzugegeben habe, die nicht im Rezept standen. Kräuter der Provence gehören für mich einfach in eine Tomatensauce.</p>
 <p><strong>Bemerkenswert</strong></p>
 <p>Ich muss noch einmal die Individualität der Wochenpläne und die Kundenfreundlichkeit von feelgood loben. Wirklich.<br />
 Herr Schatz hatte am letzten Wochenende einen Unfall und wurde von einem Hund gebissen. Auf Anfrage erhielt er ein spezielles Work-Out-Programm, bei dem seine Verletzung berücksichtigt wurde. Ich finde das Klasse und dadurch fühlen wir uns direkt noch besser aufgehoben. Wir haben wirklich das Gefühl, die Leute von dem Online-Dienst geben sich sehr viel Mühe unsere Motivation am Laufen zu halten. Mir ist das viel Wert.</p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/12/image3.jpg"><img class="aligncenter size-medium wp-image-970" src="http://0.0.0.0:4000/images/image3.jpg" alt="Antihundetraining" width="266" height="300" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/12/image3.jpg"><img class="aligncenter size-medium wp-image-970" src="{{ site.url }}/images/image3.jpg" alt="Antihundetraining" width="266" height="300" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Das habe ich gut gemacht</strong></p>
