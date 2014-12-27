@@ -131,7 +131,7 @@ author:
 ---
 <p>Bevor ich meinen Bericht über die Sturzgeburt zum Besten geben werde, möchte ich euch einen Artikel nicht vorenthalten, den ich eigentlich noch vor der Geburt der Milchschnute veröffentlichen wollte...</p>
 <p><!--more--></p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/09/stamp-114438_1280.jpg"><img class="aligncenter size-medium wp-image-761" src="../../images/stamp-114438_1280.jpg" alt="panikstempel" width="300" height="211" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/09/stamp-114438_1280.jpg"><img class="aligncenter size-medium wp-image-761" src="http://0.0.0.0:4000/images/stamp-114438_1280.jpg" alt="panikstempel" width="300" height="211" /></a></p>
 <p><strong>Verdrängung hilft</strong></p>
 <p>In den letzten Tagen vor der Geburt hatte ich so langsam Nervenflattern, da mir immer bewusster wurde, dass es bald so weit sein könnte. Die ganzen Monate zuvor konnte ich die Realität immer wieder schön unter den Teppich kehren.<br />
 Immer wenn ich an den Akt der Geburt dachte und mir Bilder von meinem hochroten Press-Kopf, blutigen Schleimmassen und ohrenbetäubenden Schmerzschreien in den Kopf schossen, packte ich sie ganz weit weg, in eine abschließbare Kiste, mit der Aufschrift: nicht vor der 40.SSW öffnen! Das hat auch ziemlich gut funktioniert. Bis zur 38.SSW.</p>

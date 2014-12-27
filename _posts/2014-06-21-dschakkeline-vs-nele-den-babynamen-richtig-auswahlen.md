@@ -27,7 +27,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p><a href="https://mamagogik.files.wordpress.com/2014/06/namen.jpg"><img class="alignleft size-thumbnail wp-image-359" src="../../images/namen.jpg" alt="Namenswahl_mamagogik" width="150" height="150" /></a>Ich bin mit meinem Vornamen zufrieden. Ich finde er passt gut zu mir. Er ist kurz, klingt sanft und er bietet keine Möglichkeit zu blöden Verniedlichungen.</p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/06/namen.jpg"><img class="alignleft size-thumbnail wp-image-359" src="http://0.0.0.0:4000/images/namen.jpg" alt="Namenswahl_mamagogik" width="150" height="150" /></a>Ich bin mit meinem Vornamen zufrieden. Ich finde er passt gut zu mir. Er ist kurz, klingt sanft und er bietet keine Möglichkeit zu blöden Verniedlichungen.</p>
 <p>Ich hatte aber auch echt Glück. Meinen Vornamen verdanke ich der emotionalen Verneblung meines Vaters, der auf die Frage der Hebamme nach meinem Namen, direkt nach der Geburt, nur noch mit Tränen in den Augen, mit Blick zu meiner Mutter gewandt, stammelte: "Entscheide du!". Und meiner Mutter kam dann der Name 'Sarah' zum ersten Mal in den Kopf und der sollte es sein. Rein intuitiv. Danke Mama; danke liebes neuronales Netz in Papas Kopf.</p>
 <p><!--more--></p>
 <p>Wäre es einige Stunden vorher nach meinem Vater gegangen, hätte ich Jaqueline oder Monique gehei<br />
@@ -50,7 +50,7 @@ Wäre es also nach meinem Vater gegangen, wäre mir wohl eine Karriere als Softp
 <li>der Vorname sollte ebenfalls <em>viel Raum für persönliche Interpretationen</em> lassen, schließlich soll es ihr einmal freigestellt sein, ob sie Astro-Physikerin oder Raumpflegerin werden möchte</li>
 </ul>
 <p>Für welchen Namen wir uns letztendlich entschieden haben, werde ich noch nicht verraten. Da könnt ihr euch jetzt etwas zusammen reimen, bis das Krümelinchen dann endlich bei uns ist.</p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/06/namen.jpg"><img class="aligncenter size-medium wp-image-359" src="../../images/namen.jpg" alt="Namenswahl_mamagogik" width="300" height="300" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/06/namen.jpg"><img class="aligncenter size-medium wp-image-359" src="http://0.0.0.0:4000/images/namen.jpg" alt="Namenswahl_mamagogik" width="300" height="300" /></a></p>
 <p><strong>Weitere Tipps zur Namenswahl</strong></p>
 <p>Da Männer und Frauen ja sehr unterschiedlich sein können, wird es wahrscheinlich auch häufig zu Schwierigkeiten bei der Einigung auf einen Namen kommen. So war es bei uns jedenfalls. Ihr wisst ja, Kopfmensch versus Herzmensch. Und ich hätte jedesmal verzweifeln können, wenn die anderen 50% Entscheidungsträger jeden einzelnen meiner Wunschnamen abschmetterten. Vor lauter Verzweiflung, weil wir dachten dass wir würden uns nie einig würden, legten wir schon einen Back-up Namen fest: Nr. 1 - zumindest lässt er viel Raum für Interpretationen und ist nicht negativ besetzt - die Nr. 1 ist jeder gern. Wir haben also folgendes gemacht:</p>
 <ol>

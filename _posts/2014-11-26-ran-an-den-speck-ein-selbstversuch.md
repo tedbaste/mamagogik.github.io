@@ -25,7 +25,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p><a href="https://mamagogik.files.wordpress.com/2014/11/cat.png"><img class="alignleft size-thumbnail wp-image-898" src="../../images/cat.png" alt="RanAnDenSpeck" width="150" height="150" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/11/cat.png"><img class="alignleft size-thumbnail wp-image-898" src="http://0.0.0.0:4000/images/cat.png" alt="RanAnDenSpeck" width="150" height="150" /></a></p>
 <blockquote><p>Warum ist dein Bauch noch so dick, wenn das Baby doch schon da ist?<br />
 <em>-ein Mädchen aus der Wohngruppe in der ich vor der Schwangerschaft gearbeitet habe-</em></p></blockquote>
 <p>Kindermund tut Wahrheit kund. Und wenn man erst einmal die Wahrheit so um die Ohren geschmettert bekommen hat, dann muss man sich damit mal auseinander setzen.<!--more--></p>

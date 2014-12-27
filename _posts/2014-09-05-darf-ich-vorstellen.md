@@ -23,7 +23,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p><a href="https://mamagogik.files.wordpress.com/2014/09/img_4562.jpg"><img class="alignnone size-full" src="../../images/img_4562.jpg" alt="IMG_4562.JPG" /></a><br />
+<p><a href="https://mamagogik.files.wordpress.com/2014/09/img_4562.jpg"><img class="alignnone size-full" src="http://0.0.0.0:4000/images/img_4562.jpg" alt="IMG_4562.JPG" /></a><br />
 diese Zuckerschnute rockte mit mir in nur 4 Stunden den Kreißsaal und kam auf natürlichem Wege heute morgen um 06.28 Uhr zur Welt!!!</p>
 <p>Die flotte Lotte ;) wiegt 2800g und misst zierliche 48cm!</p>
 <p>Wir sind K.O., stolz und voller Liebe für dieses kleine Fröschlein.</p>

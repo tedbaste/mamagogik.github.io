@@ -24,7 +24,7 @@ author:
   last_name: ''
 ---
 <p>Die liebe Nadja vom Blog <a href="http://www.kindundkoffer.com" target="_blank">kindundkoffer</a> hat mich nominiert und ich freue mich immer noch wie Bolle. Ich finde diesen Blog-Award schön, weil man dadurch die Gelegenheit bekommt sich selbst ein wenig vorzustellen und auch die Möglichkeit hat, andere kleine Blogs vorzustellen.</p>
-<p><a href="https://mamagogik.files.wordpress.com/2014/09/liebster2.png"><img class="aligncenter size-full wp-image-645" src="../../images/liebster2.png" alt="liebster2" width="200" height="199" /></a></p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/09/liebster2.png"><img class="aligncenter size-full wp-image-645" src="http://0.0.0.0:4000/images/liebster2.png" alt="liebster2" width="200" height="199" /></a></p>
 <p><!--more--></p>
 <p>Aus diesem Grund beantworte ich gern die Fragen, die Nadja sich u.a. für den bloggenden Papa Sebastian vom Blog  <a title="I am your father" href="http://www.iamyourfather.de" target="_blank">iamyourfather</a>, Lena vom Reise-Blog <a href="http://www.outandindoor.wordpress.com" target="_blank">Out and Indoor</a> und natürlich für mich ausgedacht hat.</p>
 <p><strong>1. Worum geht es in deinem Blog?</strong></p>

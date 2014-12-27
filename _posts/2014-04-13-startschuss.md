@@ -27,11 +27,11 @@ author:
   first_name: ''
   last_name: ''
 ---
-<!-- <figure>
-  <img src="../../images/20140414-114815.jpg" alt="Bild eines Notizblocks und dem Wort Start" />
-</figure> -->
-
 Nach langer Planung, nächtelangen Wachliegens bis zum Kopfzerbrechen, Stundenlangen recherchierens und plattgesessenem Po darf ich das Artikelbuffet endlich eröffnen!
+
+<figure>
+<img src="http://0.0.0.0:4000/images/20140414-114815.jpg" alt="Bild eines Notizblocks und dem Wort Start" />
+</figure>
 
 Ich freue mich wirklich wahnsinnig über meinen ersten Blogpost und die Möglichkeit nun, so oft ich will und kann, diesen Blog hier mit Leben zu füllen.
 

@@ -34,7 +34,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p><a href="https://mamagogik.files.wordpress.com/2014/05/door-349807_150.jpg"><img class="alignleft size-full wp-image-242" src="../../images/door-349807_150.jpg" alt="krankenhausgang" width="150" height="99" /></a>Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen.</p>
+<p><a href="https://mamagogik.files.wordpress.com/2014/05/door-349807_150.jpg"><img class="alignleft size-full wp-image-242" src="http://0.0.0.0:4000/images/door-349807_150.jpg" alt="krankenhausgang" width="150" height="99" /></a>Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen.</p>
 <p><!--more--></p>
 <p><strong>Auswahlkriterien für die Geburtsklinik</strong></p>
 <p><em>Zunächst habe ich mich mal gefragt, was mir denn wichtig an <strong>dem </strong> Krankenhaus ist:</em></p>
