@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Ran an den Speck -Wochenrückblick #2'
+title: 'Ran an den Speck - Wochenrückblick #2'
 date: 2014-12-14 20:21:11.000000000 +01:00
 categories:
 - Mama
@@ -30,11 +30,9 @@ Mein Ziel ist es, meine Schwangerschaftspfunde abzuschütteln, indem ich mich au
 Außerdem möchte ich mich mehr Bewegen und den Sport zu meinem Ausgleich in meinen Mami-Alltag integrieren.
 
 Nun ist die 2. Woche des 10-Wochenprogramms von [feelgood.de](http://www.feelgood.de) vorbei und wurde von der Milchschnute in der vergangenen Woche hart getestet.
-
 Das Frollein Baby hatte nämlich in der letzten Woche vermehrt schlechte Laune und es fiel mir täglich schwer, mich an das Programm zu halten.
 
 Bereits am Montag musste ich das Essen improvisieren, weil die Milchschnute launetechnisch nicht transportfähig war und ich erst am Dienstag für die Woche einkaufen gehen konnte.
-
 Auch den Sport musste ich an 2 Tagen leider ad Acta legen, weil sie sich den ganzen Tag an meiner Milchbar festgesaugt hatte.
 
 Aber ich habe die Punkte gut zusammen gesammelt, sodass ich von der Anfangsphase in der ich 10 Punkte sammeln sollte, nun in die zweite Phase wechseln konnte und somit ein anderes Work-Out zugewiesen bekommen habe.
