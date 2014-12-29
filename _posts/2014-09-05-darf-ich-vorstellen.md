@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Darf ich vorstellen...
 date: 2014-09-05 16:33:47.000000000 +02:00
 categories:
@@ -22,12 +22,23 @@ author:
   display_name: mamagogik
   first_name: ''
   last_name: ''
+excerpt: "Diese Zuckerschnute rockte mit mir in nur 4 Stunden den Kreißsaal und kam auf natürlichem Wege heute morgen um 06.28 Uhr zur Welt!!!"
 ---
-<p><a href="https://mamagogik.files.wordpress.com/2014/09/img_4562.jpg"><img class="alignnone size-full" src="{{ site.url }}/images/img_4562.jpg" alt="IMG_4562.JPG" /></a><br />
-diese Zuckerschnute rockte mit mir in nur 4 Stunden den Kreißsaal und kam auf natürlichem Wege heute morgen um 06.28 Uhr zur Welt!!!</p>
-<p>Die flotte Lotte ;) wiegt 2800g und misst zierliche 48cm!</p>
-<p>Wir sind K.O., stolz und voller Liebe für dieses kleine Fröschlein.</p>
-<p>Unfassbar, ab jetzt sind wir eine Familie.</p>
-<p><em>Einen ausführlichen Bericht gibt es in ein paar Tagen - jetzt wird gekuschelt und die Energie getankt</em></p>
-<p>Bis bald,</p>
-<p>eure überglückliche Sarah</p>
+<figure>
+	<img src="{{ site.url }}/images/img_4562.jpg" alt="Milchschnute" />
+</figure>
+
+Diese Zuckerschnute rockte mit mir in nur 4 Stunden den Kreißsaal und kam auf natürlichem Wege heute morgen um 06.28 Uhr zur Welt!!!
+
+Die flotte Lotte ;) wiegt 2800g und misst zierliche 48cm!
+
+Wir sind K.O., stolz und voller Liebe für dieses kleine Fröschlein.
+
+Unfassbar, ab jetzt sind wir eine Familie.
+
+Einen ausführlichen [Bericht]({{ site.url }}/unverblumt-der-geburtsbericht) gibt es in ein paar Tagen - jetzt wird gekuschelt und die Energie getankt
+
+Bis bald,
+
+eure überglückliche Sarah
+

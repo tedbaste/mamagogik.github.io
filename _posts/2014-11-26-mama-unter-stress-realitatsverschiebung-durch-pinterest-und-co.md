@@ -3,7 +3,7 @@ layout: article
 title: 'Mama unter Stress: Realitätsverschiebung durch Pinterest und Co?'
 date: 2014-11-26 16:38:20.000000000 +01:00
 categories:
-- Trends&amp;Themen
+- TrendsThemen
 tags:
 - bloggen
 - facebook depressionen

@@ -35,10 +35,13 @@ author:
   display_name: mamagogik
   first_name: ''
   last_name: ''
+excerpt: "Heute war ich zum Abschied auf meinem alten Arbeitsplatz eingeladen.
+Die Kinder aus dem Kinderheim (heutzutage Wohngruppe genannt) sollten die Möglichkeit haben, sich von mir zu verabschieden, nachdem ich vor ca. 11 Wochen überstürzt in das Beschäftigungsverbot gehen musste."
 ---
 <figure>
   <img src="{{ site.url }}/images/abschied.jpg" alt="abschied" />
 </figure>
+
 Heute war ich zum Abschied auf meinem alten Arbeitsplatz eingeladen.
 Die Kinder aus dem Kinderheim (heutzutage Wohngruppe genannt) sollten die Möglichkeit haben, sich von mir zu verabschieden, nachdem ich vor ca. 11 Wochen überstürzt in das Beschäftigungsverbot gehen musste.
 
@@ -61,9 +64,7 @@ Da es für den Gruppenprozess und die sozialen Kompetenzen empfehlenswert ist, k
 
 Als ich in der Wohngruppe ankam, wurde ich von einigen Kids bereits an der Tür stürmisch begrüßt.
 Im Essbereich war der Tisch liebevoll gedeckt und ein Kuchen und Muffins warteten drauf von den etlichen Augenpaaren, die sie bereits hypnotisiert hatten, aufgegessen zu werden. Wir setzten uns hin und ich sollte direkt wieder aufstehen, damit alle meinen kleinen Babybauch sehen konnten.
-
->"Das ist ja gar nicht so viel. Bist du dir sicher dass da noch was drin ist?"
-
+*"Das ist ja gar nicht so viel. Bist du dir sicher dass da noch was drin ist?"*
 typisch Anna[^1], da sprach die Pubertät und die eisige Coolness aus ihr ;)
 
 Ich reichte meine Ultraschallfotos herum und erklärte den Kindern was und vor allem wo, man da das Baby sehen konnte.

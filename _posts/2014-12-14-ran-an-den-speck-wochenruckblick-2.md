@@ -75,6 +75,7 @@ Am besten fand ich diese Woche das Rezept der gefüllten Muschelnudeln mit einer
 Das Gericht war einfach zu zubereiten und hat toll geschmeckt.
 Auch wenn ich zusätzlich noch ein paar Gewürze hinzugegeben habe, die nicht im Rezept standen.
 Kräuter der Provence gehören für mich einfach in eine Tomatensauce.
+
 ## Bemerkenswert
 Ich muss noch einmal die Individualität der Wochenpläne und die Kundenfreundlichkeit von feelgood loben.
 Wirklich.  

@@ -29,8 +29,8 @@ author:
 toc: true
 excerpt: Aller Anfang ist schwer und wenn es um einen neuen Lebenswandel geht, hat so ein neuer Anfang etwas einschlagendes.
 ---
-{: .notice}
 Aus Sicherheitsgründen möchte euch darauf aufmerksam machen, dass der folgende Blogpost Spuren von Werbung enthalten kann.
+{: .notice}
 
 Aller Anfang ist schwer und wenn es um einen neuen Lebenswandel geht, hat so ein neuer Anfang etwas einschlagendes.
 

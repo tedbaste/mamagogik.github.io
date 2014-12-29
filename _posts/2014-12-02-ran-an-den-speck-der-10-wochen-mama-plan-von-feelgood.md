@@ -32,8 +32,8 @@ author:
 toc: true
 excerpt: Du brauchst in der Schwangerschaft 9 bis 10 Monate, um dich an deinen Babybauch zu gewöhnen. Mit jeder Woche in der er wächst, freust du dich ein bisschen mehr über die Kugel, denn du trägst dein Baby darin. Doch wenn du nach der Geburt immer noch aussiehst, als wärst du im 5. Monat schwanger, dann willst du von den Überbleibseln der Schwangerschaft nichts mehr wissen. Du möchtest so schnell wie möglich wieder in deine alten Klamotten passen.
 ---
-{: .notice}
 Achtung! Der folgende Artikel kann Spuren von Werbung enthalten.
+{: .notice}
 
 Du brauchst in der Schwangerschaft 9 bis 10 Monate, um dich an deinen Babybauch zu gewöhnen. Mit jeder Woche in der er wächst, freust du dich ein bisschen mehr über die Kugel, denn du trägst dein Baby darin. Doch wenn du nach der Geburt immer noch aussiehst, als wärst du im 5. Monat schwanger, dann willst du von den Überbleibseln der Schwangerschaft nichts mehr wissen. Du möchtest so schnell wie möglich wieder in deine alten Klamotten passen.
 
@@ -70,7 +70,7 @@ Ich bin also motiviert, meine Ziele habe ich mir gut überlegt, Herr Schatz ist 
   <img src="{{ site.url }}/images/feelgoodlogo.jpg" alt="feelgoodlogo" />
 </figure>
 
-Ich gebe es zu: ich bin ein Werbe-Opfer! Wenn die Werbung interessant ist und mir nicht nur im Fernsehen, sondern auch im Netz begegnet, dann kann es schon mal sein dass ich mich frage: Was ist das überhaupt? So ging es mir auch mit <a href="http://www.feelgood.de" target="_blank" rel="nofollow">feelgood.de</a>
+Ich gebe es zu: ich bin ein Werbe-Opfer! Wenn die Werbung interessant ist und mir nicht nur im Fernsehen, sondern auch im Netz begegnet, dann kann es schon mal sein dass ich mich frage: Was ist das überhaupt? So ging es mir auch mit [feelgood.de](http://www.feelgood.de")
 
 Nachdem ich mir angesehen hatte, wie das Online-Programm funktioniert, dachte ich mir: Na dann probier ich das mal aus.
 
@@ -138,7 +138,7 @@ Bis dahin,
 
 eure Sarah
 
-Bilderquellen: <a href="http://www.pixabay.com" target="_blank" rel="nofollow">pixabay.com</a> und <a href="http://www.feelgood.de" target="_blank" rel="nofollow">feelgood.de</a>
+Bilderquellen: [pixabay.com](http://www.pixabay.com") und [feelgood.de](http://www.feelgood.de")
 
-{: .notice}
 Auch wenn dies ein sponsored Post ist, möchte ich noch einmal betonen, dass die Meinung in diesem Artikel meiner persönlichen Überzeugung entspricht.
+{: .notice}

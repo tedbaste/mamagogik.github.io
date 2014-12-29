@@ -3,7 +3,7 @@ layout: article
 title: Startschuss
 date: 2014-04-13 18:40:14.000000000 +02:00
 categories:
-- Blogosphäre
+- Blogosphare
 tags:
 - Beschäftigungsverbot
 - Blog
