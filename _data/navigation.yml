@@ -2,7 +2,7 @@
 
 - title: About
   url: /about/
-  excerpt: "Mein Name ist Sarah, ich bin 29 Jahre alt und lebe gemeinsam mit meinem Freund und unserem Hundemädchen Leela und seit neuestem mit unserer Milchschnute, im Dreiländer-Eck."
+  excerpt: "Über mich und diesen Blog"
   image: Mamagogik-default-teaser.png
 
 - title: Arbeitsplatz
@@ -49,6 +49,11 @@
   url: /meckerkasten/
   excerpt: 
   image: Mamagogik-default-teaser.png
+
+- title: Rechtliches
+  url: /rechtliches/
+  excerpt:
+  image:
 
 - title: Schwangerschaft
   url: /schwangerschaft/

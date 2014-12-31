@@ -12,20 +12,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  publicize_twitter_url: http://t.co/4ySLJ7xLrJ
-  publicize_twitter_user: mamagogik
-  _wpas_done_7980721: '1'
-  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:2556123965;b:1;}}
-  _thumbnail_id: '545'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Nachdem ich gestern zur Vorsorgeuntersuchung musste, um den Gebärmutterhals kontrollieren zu lassen, wurden wir auf direktem Wege ins Uniklinikum geschickt."
 ---
@@ -126,7 +112,7 @@ Ich bekam aber noch Besuch von meinen Eltern, die extra angereist sind und Herr 
 
 Heute bin ich ein wenig beruhigter, weil die CTGs bis jetzt gut ausgefallen sind und eigentlich kein merkbarer Grund zur Besorgnis besteht.
 
-Meine allererste Nacht in einem Krankenhaus habe ich etwas unruhig verbracht, aber ich denke das ist normal. Das Personal ist super freundlichen, auch wenn ich den Stil des Krankenhauses hier etwas befremdlich und wenig gemütlich finde. Aber ich bin hier ja auch nicht im Hilton Hotel ;)
+Meine allererste Nacht in einem Krankenhaus habe ich etwas unruhig verbracht, aber ich denke das ist normal. Das Personal ist super freundlichen, auch wenn ich den Stil des Krankenhauses hier etwas befremdlich und wenig gemütlich finde. Aber ich bin hier ja auch nicht im Hilton Hotel :wink:
 
 Das Essen ist hier wider Erwarten recht gut und die Bettnachbarin auch ganz nett. Trotzdem hoffe ich natürlich am Montag wieder nach Hause zu können.
 

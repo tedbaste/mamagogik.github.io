@@ -16,17 +16,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _edit_last: '41750787'
-  geo_public: '0'
-  _thumbnail_id: '477'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: Wenn eine Vogelmutter ein Nest bauen möchte, sucht sie sich eine geeignete Stelle, die genügend Platz für das geplante Nest hergibt.
 ---

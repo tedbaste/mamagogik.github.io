@@ -15,16 +15,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Acht Wochen sind so gut wie vorbei. Da bin ich mal eben durchs Wochenbett geflogen. Es war eine Zeit voller Erste-Male, Gefühlschaos und neuem Alltag. Und weil bei mir die Still-Demenz einsetzt und ich diese Zeit weder meinem Zukunfts-Ich, noch euch vorenthalten möchte, gibt es hier nun ein kleines Resumee:"
 ---
 <figure>
@@ -33,7 +23,7 @@ excerpt: "Acht Wochen sind so gut wie vorbei. Da bin ich mal eben durchs Wochenb
 
 Acht Wochen sind so gut wie vorbei. Da bin ich mal eben durchs Wochenbett geflogen. Es war eine Zeit voller Erste-Male, Gefühlschaos und neuem Alltag. Und weil bei mir die Still-Demenz einsetzt und ich diese Zeit weder meinem Zukunfts-Ich, noch euch vorenthalten möchte, gibt es hier nun ein kleines Resumee:
 
-Vorher noch ein kleiner Tipp an die männlichen Leser des Blogs: Jetzt kommt jede Menge Weiber-Kram! Entweder Augen zu und durch (was das Lesen natürlich etwas einschränken könnte) oder seht es als eine Art Weiterbildung im Leistungskurs Frau. Aber ich habe Erbarmen und lasse Bildmaterial zur Unterstreichung weg ;)
+Vorher noch ein kleiner Tipp an die männlichen Leser des Blogs: Jetzt kommt jede Menge Weiber-Kram! Entweder Augen zu und durch (was das Lesen natürlich etwas einschränken könnte) oder seht es als eine Art Weiterbildung im Leistungskurs Frau. Aber ich habe Erbarmen und lasse Bildmaterial zur Unterstreichung weg :wink:
 
 ## Wochenbett im Krankenbett
 
@@ -83,7 +73,7 @@ Aber wenn ich nicht bald unter Leute komme, dann wird Herr Schatz eines Tages vo
 Also dann: ab zum Babykurs...(oder Rückbildung. Da soll doch glaub ich auch ein Auffangbecken für Mütter sein- logisch wär's!)
 
 P.S.: Wenn ihr euch fragt, warum ich euch hier mal wieder meine Privat- und Intimsphäre vor die Füße kotze?  
-Ich musste mich mit dem Mist auch befassen, ihr habt wenigstens die Wahl ;) Und vielleicht kann ich der einen oder anderen Schwangeren unter euch direkt mal den Zahn ziehen, dass das Wochenbett nur fluffig und relaxed ist.
+Ich musste mich mit dem Mist auch befassen, ihr habt wenigstens die Wahl :wink: Und vielleicht kann ich der einen oder anderen Schwangeren unter euch direkt mal den Zahn ziehen, dass das Wochenbett nur fluffig und relaxed ist.
 
 Bis dann,
 

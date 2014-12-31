@@ -20,17 +20,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '749'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Da schreibe ich vor ein paar Tagen noch über mein Anfänger-Baby und von einen über den anderen Tag: Zack - Wer hat mein Baby geklaut und gegen diese nimmersatte Raupe ersetzt, die nur noch quengelig ist und sich keinen Moment ablegen lässt?"
 ---
@@ -134,7 +123,7 @@ Für mich passt diese Theorie so gut, dass ich mir nun das Buch bestellt habe. D
 
 Das bringt mich direkt zu dem nächsten unbekannten Thema von dem ich zuvor noch nie etwas gehört habe: Clusterfeeding. Ich gebe zu, ich habe das [Stillbuch von Hannah Lohtrop](http://www.randomhouse.de/Paperback/Das-Stillbuch/Hannah-Lothrop/e244852.rhd) hier im Regal als Leihgabe stehen, aber bis jetzt noch nicht hinein geschaut. Ich dachte mir: Was soll da schon großartig drin stehen? Entweder das Baby und ich werden ein Team und das Stillen funktioniert gut, oder aber eben nicht.
 
-Nun ja, da wusste ich auch noch nicht, dass dieses Buch scheinbar eine Mami-Bibel ist und es offenbar zum guten Ton gehört, dieses Buch gelesen zu haben ;)
+Nun ja, da wusste ich auch noch nicht, dass dieses Buch scheinbar eine Mami-Bibel ist und es offenbar zum guten Ton gehört, dieses Buch gelesen zu haben :wink:
 
 <figure>
 	<img src="{{ site.url }}/images/baby-19295_1280.jpg" alt="müdes Baby" />
@@ -144,7 +133,7 @@ Jedenfalls berichteten mir einige Mamis aus meiner Umgebung von dem sogenannten 
 
 Das Clusterfeeding ist für mich eine Methode, die scheinbar zu den Bedürfnissen der Milchschnute gehört. Für mich ist es wichtig, dass sie bekommt, was sie wirklich benötigt. Mir fällt es einfach leichter über meine Grenzen der Belastbarkeit gehe, wenn ich mich ein wenig schlau mache und ich logische Erklärungen habe, warum es gerade so ist wie es ist.
 
-Ich merke jedenfalls dass nicht nur die Milchschnute noch einiges lernen und erfahren muss, sondern auch ich mich natürlich noch an allen Ecken und Kanten weiterentwickeln muss. Aber mit Papas Unterstützung werden wir das Kind schon schaukeln ;)
+Ich merke jedenfalls dass nicht nur die Milchschnute noch einiges lernen und erfahren muss, sondern auch ich mich natürlich noch an allen Ecken und Kanten weiterentwickeln muss. Aber mit Papas Unterstützung werden wir das Kind schon schaukeln :wink:
 
 Bis dahin,
 

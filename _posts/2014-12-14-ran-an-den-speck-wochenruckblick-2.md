@@ -12,17 +12,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _thumbnail_id: '967'
-  _publicize_pending: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 ---
 Vor zwei Wochen habe ich mit meinem Selbstversuch gestartet.

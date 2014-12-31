@@ -8,28 +8,13 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _edit_last: '41750787'
-  _thumbnail_id: '39'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '0'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
-excerpt: "Nachdem ich nun wusste, wie das Ding funktionierte, legte ich die Packung des Schwangerschaftstests zur Seite und tat meinen Job ;)"
+excerpt: "Nachdem ich nun wusste, wie das Ding funktionierte, legte ich die Packung des Schwangerschaftstests zur Seite und tat meinen Job :wink:"
 ---
 <figure>
 	<img src="{{ site.url }}/images/altes_buch.jpg" alt="altes_buch" />
 </figure>
 
-Nachdem ich nun wusste, wie das Ding funktionierte, legte ich die Packung des Schwangerschaftstests zur Seite und tat meinen Job ;)
+Nachdem ich nun wusste, wie das Ding funktionierte, legte ich die Packung des Schwangerschaftstests zur Seite und tat meinen Job :wink:
 
 Bis zu 10 Minuten kann es dauern, steht da, dachte ich so und sah mit einem Mal einen blassen zweiten Strich auf dem Fensterchen erscheinen. Das ist bestimmt normal, er ist ja blasser als der andere, sprach ich in Gedanken zu mir selbst. Ich ging also aus dem Bad ins Arbeitszimmer und sagte meiner besseren Hälfte, dass es jetzt noch 10 Minuten dauern würde.
 

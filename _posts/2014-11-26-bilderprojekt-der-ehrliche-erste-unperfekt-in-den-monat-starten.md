@@ -8,15 +8,6 @@ tags: []
 status: draft
 type: post
 published: false
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Wir sind alle nicht perfekt und viele unserer Macken sind liebenswürdig und die Menschen, die uns lieben, lieben auch gerade dieses unperfekte an uns. Sie machen uns authentisch und real.
 

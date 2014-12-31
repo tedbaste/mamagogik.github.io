@@ -23,21 +23,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '1'
-  _publicize_pending: '1'
-  _thumbnail_id: '210'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Seit einigen Wochen klagen mich nun schon Rückenschmerzen, besonders im Lendenwirbelbereich. Morgens nach dem Aufstehen brauche ich meist so zwei Minütchen, bis ich in gerader Haltung laufen kann. Ich fühl mich echt wie eine Omi. Wenn ich mich dann ein wenig bewegt habe, geht es auch wieder, aber bei längerer Belastung (Stehen oder Gehen) bekomme ich wieder massive Beschwerden."
 ---
@@ -57,13 +42,13 @@ Soweit, so gut. Nur leider bringt dies auch den Nachteil, dass die Bänder, die 
 
 ## Beraten lassen
 
-Meine Frauenärztin ist seit der Schwangerschaft nicht nur meine Gynäkologin, sondern auch die Kinderärztin, meine Allgemeinmedizinerin und meine Psychologin - zumindest verlange ich das im Moment von ihr ab ;)
+Meine Frauenärztin ist seit der Schwangerschaft nicht nur meine Gynäkologin, sondern auch die Kinderärztin, meine Allgemeinmedizinerin und meine Psychologin - zumindest verlange ich das im Moment von ihr ab :wink:
 Aus diesem Grund habe ich auch als erstes mit ihr über meine Beschwerden gesprochen. Sie empfahl mir Sport und Bewegung, legte mir ans Herz ein Stillkissen zur nächtlichen Lagerung zu kaufen, erklärte den Krümmelinchen-Papa von nun an zu meinem privaten Masseur und riet mir, dass ich meinen Rücken mit Wärme behandeln sollte. Und wenn das alles nichts bringen sollte, würde sie mir die Krankengymnastik verschreiben.
 
 ## Das hilft
 
 ###### Stillkissen zur Lagerung
-Ich habe mir vor einigen Wochen ein großes Stillkissen gekauft. Zwar nimmt das Ding soviel Platz im Bett ein, dass wir andauernd das gefühl haben, es liegt noch eine dritte Person im Bett, ABER so können wir uns wenigstens schon einmal daran gewöhnen, dass wir bald eine kleine Trulla in unserem Bett haben werden, die mindestens so viel Platz einnehmen wird ;)
+Ich habe mir vor einigen Wochen ein großes Stillkissen gekauft. Zwar nimmt das Ding soviel Platz im Bett ein, dass wir andauernd das gefühl haben, es liegt noch eine dritte Person im Bett, ABER so können wir uns wenigstens schon einmal daran gewöhnen, dass wir bald eine kleine Trulla in unserem Bett haben werden, die mindestens so viel Platz einnehmen wird :wink:
 Zurück zum Stillkissen! Ich lege das übergroße Hörnchen entweder vor mich und lege das Bein, das oben liegt, angewinkelt auf das Kissen oder ich lege es hinter mich sodass ich mich halb gekippt dagegen lehnen kann, ohne im Schlaf plötzlich doch auf dem Rücken zu landen. Denn die Rückenlage im Schlaf hatte letztens zur Folge, dass ich einen ganz schlimmen Alptraum hatte, in dem ich merkte dass mein Herz schneller schlug und davon aufgewacht bin. Wahrscheinlich hat das Team Baby-Plazenta schön auf meine Pfortader gedrückt. Hierdurch bekommen wir Schwangeren dann nämlich einen erhöhten Blutdruck und Schwindelanfälle.
 
 ###### Massage
@@ -83,7 +68,7 @@ Ein warmes Bad ist sicherlich auch eine gute Alternative und als es die letzten 
 Als erstes habe ich mich für den nächsten Kurs 'Wassergymnastik für Schwangere' angemeldet. Da dieser allerdings erst Ende Mai wieder beginnt, musste ich mir in der Zwischenzeit selbst Abhilfe verschaffen. Ich bestellte im Internet zwei DVD's die Übungen für Schwangere beinhalten. Ich nahm mir vor beide im Wechsel täglich anzuwenden. Und siehe da: es macht sogar Spaß!
 Und dann wäre da ja noch der Hund. Leela freut sich, weil unsere Spaziergänge nun etwas strammer und ausgedehnter ablaufen. So haben wir beide etwas davon.
 
-Weil ich leider in den vier Wochen zwischen den Vorsorgeuntersuchungen keine besondere Besserung bemerkt habe, bekam ich dann doch die Krankengymnastik verschrieben. Hierzu möchte ich jedoch im Anschluss einen seperaten Artikel mit einzelnen Alltagsübungen schreiben. Das Thema hat einfach viel Inhalt, den ich euch hier nicht auch noch um die Augen knallen möchte ;)
+Weil ich leider in den vier Wochen zwischen den Vorsorgeuntersuchungen keine besondere Besserung bemerkt habe, bekam ich dann doch die Krankengymnastik verschrieben. Hierzu möchte ich jedoch im Anschluss einen seperaten Artikel mit einzelnen Alltagsübungen schreiben. Das Thema hat einfach viel Inhalt, den ich euch hier nicht auch noch um die Augen knallen möchte :wink:
 
 
 

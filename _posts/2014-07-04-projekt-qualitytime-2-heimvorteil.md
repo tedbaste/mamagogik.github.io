@@ -13,17 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '464'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: Bis jetzt war diese Woche gezeichnet von einem vollen Terminkalender meinerseits und der regelmäßig wiederkehrenden Prüfungsvorbereitungspanik im unstrukturiert vorhanden Zeitplan meines Lieblingsmenschen.
 ---
 <figure>
@@ -43,7 +32,7 @@ Und manchmal ergeben sich schöne Momente ganz von allein.
   <img src="{{ site.url }}/images/image1-e1404451863999.jpg" alt="Malzbier Teilen" />
 </figure>
 
-Gestern Abend haben wir spontan zusammen gekocht. Dabei hatten wir gute Laune und haben gemeinsam viel gelacht. Und ganz romantisch das letzte Malzbier miteinander geteilt. Wenn das mal keine Liebe ist ;)
+Gestern Abend haben wir spontan zusammen gekocht. Dabei hatten wir gute Laune und haben gemeinsam viel gelacht. Und ganz romantisch das letzte Malzbier miteinander geteilt. Wenn das mal keine Liebe ist :wink:
 
 Anschließend haben wir es uns auf dem Sofa bequem gemacht und gemeinsam, händchenhaltend einen Film gesehen.
 
@@ -59,7 +48,7 @@ Und das ist es, was ich aus dem heutigen Projektteil mitgenommen habe und mir f�
 
 Schon allein dafür hat sich, wie ich finde, dieses Projekt schon gelohnt.
 
-Mal sehen wie es nächste Woche aussieht ;)
+Mal sehen wie es nächste Woche aussieht :wink:
 
 Bis dahin,
 

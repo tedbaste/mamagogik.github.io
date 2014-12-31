@@ -11,17 +11,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '703'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Die liebe Nadja vom Blog [kindundkoffer](http://www.kindundkoffer.com) hat mich nominiert und ich freue mich immer noch wie Bolle. Ich finde diesen Blog-Award schön, weil man dadurch die Gelegenheit bekommt sich selbst ein wenig vorzustellen und auch die Möglichkeit hat, andere kleine Blogs vorzustellen.
 
@@ -44,7 +33,7 @@ Auf der anderen Seite ist es mir wichtig, mich ständig neu zu hinterfragen und 
 
 **3. Was würde mit dir passieren, wenn Blogs auf einmal verboten wären?**
 
-> Vielleicht würden wir dann Tagebücher untereinander austauschen, so ganz heimlich auf den Spielplätzen und uns dann zusammen setzen und darüber diskutieren, was der andere geschrieben hat ;)
+> Vielleicht würden wir dann Tagebücher untereinander austauschen, so ganz heimlich auf den Spielplätzen und uns dann zusammen setzen und darüber diskutieren, was der andere geschrieben hat :wink:
 
 **4. Hast du manchmal Schreibblockaden? Was tust du dann dagegen?**
 
@@ -57,11 +46,11 @@ Was mich allerdings immer wieder Inspiriert sind andere Blogs, die ich gern lese
 
 **6. Wie würdest du deiner Ur-Oma erklären, was ein Blog ist und warum du das tust?**
 
-> Ich hab leider nicht mehr die Gelegenheit meiner Ur-Oma etwas zu erklären, aber meine Oma wollte vor kurzem wissen, was dieser BLOCK eigentlich soll ;) Ich habe ihr dann erklärt, dass ich im Internet so etwas wie ein Tagebuch und Sachbuch schreibe, viele Leute die Gelegenheit haben, dies zu lesen und sich mit mir darüber unterhalten können. Meine Oma nutzt auch Facebook, sie ist also up to date was das Internet angeht ;)
+> Ich hab leider nicht mehr die Gelegenheit meiner Ur-Oma etwas zu erklären, aber meine Oma wollte vor kurzem wissen, was dieser BLOCK eigentlich soll :wink: Ich habe ihr dann erklärt, dass ich im Internet so etwas wie ein Tagebuch und Sachbuch schreibe, viele Leute die Gelegenheit haben, dies zu lesen und sich mit mir darüber unterhalten können. Meine Oma nutzt auch Facebook, sie ist also up to date was das Internet angeht :wink:
 
 **7. Hast du nur einen Blog oder mehrere?**
 
-> Dieser Blog hier ist mein dritter. Ich habe vor 2 Jahren damit begonnen einen Blog zu schreiben, in dem es um meine Arbeit als Sozialpädagogin ging. Ich brauchte ein Ventil, da mir viele Fälle und Begegnungen mit den unterschiedlichsten Menschen im Kopf blieben und ich den Blog nutzte, um einiges zu verarbeiten. Leider habe ich zu schnell aufgegeben. Ich hatte nach 10-12 Stunden Arbeit selten die Lust noch etwas zu schreiben, wollte einfach abschalten. Den Blog [blasspolychrom](http://www.blasspolychrom.wordpress.com) gibt es allerdings immer noch und vielleicht wird er nach meiner Elternzeit wieder belebt ;)  
+> Dieser Blog hier ist mein dritter. Ich habe vor 2 Jahren damit begonnen einen Blog zu schreiben, in dem es um meine Arbeit als Sozialpädagogin ging. Ich brauchte ein Ventil, da mir viele Fälle und Begegnungen mit den unterschiedlichsten Menschen im Kopf blieben und ich den Blog nutzte, um einiges zu verarbeiten. Leider habe ich zu schnell aufgegeben. Ich hatte nach 10-12 Stunden Arbeit selten die Lust noch etwas zu schreiben, wollte einfach abschalten. Den Blog [blasspolychrom](http://www.blasspolychrom.wordpress.com) gibt es allerdings immer noch und vielleicht wird er nach meiner Elternzeit wieder belebt :wink:  
 Als wir uns letztes Jahr unser Labrador-Mädchen Leela ins Haus holten und ich geplant habe, sie als Therapiehund auszubilden, habe ich den Blog [didogtik](http://www.didogtik.wordpress.com) angefangen zu schreiben. Hier wollte ich Leelas Werdegang dokumentieren. Aufgrund meiner Schwangerschaft, die nur kurz danach festgestellt wurde und des Beschäftigungsverbotes, muss Leelas Ausbildung im Moment leider hinten anstehen. Nun wird sie erst einmal ein toller Familienhund und hoffentlich eine treue Freundin für unsere Tochter.
 
 **8. Haben sich aus Blog-Bekannschaften schon richtige Freundschaften entwickelt?**
@@ -71,7 +60,7 @@ Ich würde mich allerdings freuen mal andere Blogger kennen zu lernen, damit man
 
 **9. Hat dich jemand zum Bloggen gebracht oder war es deine eigene Idee?**
 
-> Den Entschluss habe ich selbst getroffen, aber mein Freund hat mich darin immer bestärkt, weil er gemerkt hat, wie gut es mir tutich kreativ zu beschäftigen und das Schreiben als Ventil zu benutzen. Er ist jedoch auch einer meiner größten Kritiker, besonders wenn es um Flüchtigkeits- oder Rechtschreibfehler geht ;) Aber ich finde es schön, dass er mich unterstützt und sich mit diesem Teil meiner Freizeit auseinandersetzt.
+> Den Entschluss habe ich selbst getroffen, aber mein Freund hat mich darin immer bestärkt, weil er gemerkt hat, wie gut es mir tutich kreativ zu beschäftigen und das Schreiben als Ventil zu benutzen. Er ist jedoch auch einer meiner größten Kritiker, besonders wenn es um Flüchtigkeits- oder Rechtschreibfehler geht :wink: Aber ich finde es schön, dass er mich unterstützt und sich mit diesem Teil meiner Freizeit auseinandersetzt.
 
 **10. Welchen Beruf hast du?**
 

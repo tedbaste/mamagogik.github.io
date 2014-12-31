@@ -25,17 +25,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '377'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Auch wenn meine Schwangerschaft nun schon so ziemlich das letzte Level erreicht hat, möchte ich euch heute mein Schwangerschaftstagebuch vorstellen. Ich freue mich außerdem, dass ich euch verkünden kann, dass ihr am Ende des Posts eine nette Kleinigkeit gewinnen könnt.
 

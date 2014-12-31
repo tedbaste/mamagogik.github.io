@@ -8,19 +8,6 @@ tags: []
 status: draft
 type: post
 published: false
-meta:
-  _wpas_skip_facebook: '1'
-  _wpas_skip_google_plus: '1'
-  _wpas_skip_twitter: '1'
-  _wpas_skip_linkedin: '1'
-  _wpas_skip_tumblr: '1'
-  _wpas_skip_path: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Als ich gestern Abend von der Innenstadt nach Hause fuhr, balancierte ich auf einem Hochseil der Emotionen zwischen Heulkrampf und Tobsuchtsanfall. Und das nur aus einem einzigen Grund: ich suchte zuvor nach neuer Kleidung für die Festtage.
 

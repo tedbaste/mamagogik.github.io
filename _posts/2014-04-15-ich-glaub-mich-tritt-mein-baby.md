@@ -13,15 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _thumbnail_id: '769'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Ich werd verrückt, ich hab dich zum ersten mal gespürt!
 Ich lag soeben auf dem Sofa und da war es plötzlich...
@@ -37,6 +28,6 @@ Schade, dass dein Papa das noch nicht spüren kann.
 Gefreut hat er sich trotzdem.
 
 Hallo Krümmelchen!
-:)
+:smile:
 
 Wie war das denn so bei euch als ihr es das erste Mal gespürt habt? Wie würdet ihr es beschreiben?

@@ -13,17 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '604'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Im November 2013 zog bei uns ein kleines Labradormädchen ein: Leela. Da war an Familienplanung noch gar nicht zu denken."
 ---
@@ -172,7 +161,7 @@ Bei uns hat es sich jedenfalls gelohnt!
 
 Wir haben mittlerweile ein sehr gutes Gefühl, was unser künftiges Zusammenleben angeht. Leela reagiert ruhig auf andere Babys und kann sich auch bei Lärm gut entspannen. Ich kann ihr mit der Hand in die Schnauze gehen oder ihr an den Ohren ziehen und sie zeigt sich völlig unbeeindruckt. Sie hört zum größten Teil auf das was wir ihr sagen (nun ja, auch ein Hund kann mal einen schlechten Tag haben) und auch die Leinenführigkeit hat sich enorm verbessert.
 
-Es wird sicherlich am Anfang nicht einfach, aber einfach kann ja auch Jeder ;)  
+Es wird sicherlich am Anfang nicht einfach, aber einfach kann ja auch Jeder :wink:  
 Wichtig ist, wir haben ein gutes Gefühl bei der Sache und haben uns auf die kommende Situation gut vorbereitet.
 
 <figure>

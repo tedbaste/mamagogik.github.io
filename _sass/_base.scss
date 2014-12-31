@@ -161,23 +161,34 @@ tr, td, th {
 // --------------------------------------------------
 
 // Line rules
+//hr {
+//	display: block;
+//	position: relative;
+//	margin: 0px + (2 * $doc-line-height) 0;
+//	margin: 0rem + ((2 * $doc-line-height) / $doc-font-size) 0;
+//	padding: 0;
+//	height: 5px;
+//	border: 0;
+//	&:before {
+//		content: '';
+//		position: absolute;
+//		top: 0;
+//		left: 0;
+//		width: 2 * $column;
+//		height: 1px;
+//		background: $border-color;
+//	}
+//}
+
 hr {
 	display: block;
-	position: relative;
 	margin: 0px + (2 * $doc-line-height) 0;
 	margin: 0rem + ((2 * $doc-line-height) / $doc-font-size) 0;
 	padding: 0;
-	height: 5px;
 	border: 0;
-	&:before {
-		content: '';
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 2 * $column;
-		height: 1px;
-		background: $border-color;
-	}
+	border-top: 2px solid $border-color;
+	width: 2 * $column;
+	clear: both;
 }
 
 // Figures and images

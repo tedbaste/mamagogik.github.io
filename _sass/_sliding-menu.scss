@@ -56,6 +56,14 @@
 		@include transform(translateX(0));
 		@include transition(500ms ease-in-out);
 	}
+	h5 {
+		margin: 0 20% 0 10%;
+		color: #fff;
+		font-size: 14px;
+		font-size: 0.875rem;
+		margin-bottom: 24px;
+		margin-bottom: 1.5rem;
+	}
 	ul {
 		margin: 0 10%;
 	}
@@ -67,6 +75,44 @@
 		display: block;
 		position: relative;
 		padding: 1em 0;
+	}
+	.author {
+		margin: 0 10%;
+		min-height: $avatar-size;
+		display: block;
+		position: relative;
+		a {
+				color: $white;
+				text-decoration: none;
+			}
+		.avatar {
+			width: $avatar-size;
+			height: $avatar-size;
+			border-radius: $circular;
+			border: 2px solid $white;
+			margin-bottom: ($gutter / 2);
+			@include media($medium) {
+				position: absolute;
+				left: 0;
+				margin-bottom: ($avatar-size);
+			}
+		}
+		.name {
+			display: block;
+			font-family: $alt-font;
+			@include font-size(20,no);
+			font-weight: 700;
+			@include media($medium) {
+				margin-left: ($avatar-size + 20px);
+			}
+		}
+		.bio {
+			color: $white;
+			margin-top: 0;
+			@include media($medium) {
+				margin-left: ($avatar-size + 20px);
+			}
+		}
 	}
 	.menu-item > li {
 		a {

@@ -14,17 +14,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '694'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Gestern lief die Deadline für das Gewinnspiel aus. Zu gewinnen gab es ein Stempelset zum Thema Baby der Firma Project Life, welches uns netterweise der Webshop von dannipeuss zur Verfügung gestellt hat."
 ---
 <figure>

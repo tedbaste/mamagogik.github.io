@@ -21,20 +21,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  publicize_twitter_user: mamagogik
-  publicize_twitter_url: http://t.co/LfrzLE4sR8
-  _wpas_done_7980721: '1'
-  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:2556123965;b:1;}}
-  _thumbnail_id: '497'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: Das Thema Achtsamkeit kam mir damals das erste Mal entgegen, als ich begann mich mit meinem Burn-Out zu beschäftigen und mich fürs Yoga zu interessieren.
 ---
 

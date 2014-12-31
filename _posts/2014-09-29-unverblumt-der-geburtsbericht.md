@@ -18,26 +18,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  geo_public: '0'
-  _publicize_pending: '1'
-  _edit_last: '41750787'
-  _wpas_skip_facebook: '1'
-  _wpas_skip_google_plus: '1'
-  _wpas_skip_twitter: '1'
-  _wpas_skip_linkedin: '1'
-  _wpas_skip_tumblr: '1'
-  _wpas_skip_path: '1'
-  _thumbnail_id: '751'
-  _oembed_1d63a2a86d74bca1d7113bb3ae7462e3: '{{unknown}}'
-  _oembed_414589209b30817893335ec04b86abdf: '{{unknown}}'
-  _oembed_5e4f6ad0277c3ecd70d9c26e87119461: '{{unknown}}'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Als ich jünger war, hab ich meine Mutter oft gefragt, wie das mit der Geburt so ist. Wie sehr tut es weh in den Wehen zu liegen? Wie sehr schmerzt es, wenn das Köpfchen DA durchtritt?"
 toc: true
 ---
@@ -94,7 +74,7 @@ Ich stand auf, guckte auf den Teil meines Bettes und stellte fest, dass noch all
 Während ich versuchte das Wasser zur Toilette zu manövrieren, hörte ich, wie der Milchschnuten-Papi ziemlich aufgescheucht nach einem Wischer suchte. Und als ich mich anzog, wischte der Fast-Papi den Boden und ich raunzte: *"Hör auf zu wischen und komm! Nimm die Tasche und den Hund, wir müssen los!"* Natürlich konnten wir den Hund mitten in der Nacht nirgendwo unterbringen, also musste er mit und im Auto bleiben - das arme Tier.  
 Ich rief im Kreißsaal an und musste auf die Frage, in welchen Abständen die Wehen kämen, antworten dass ich noch keine hätte. Komisch, das fiel mir da erstmal auf. Daher empfahl die Hebamme uns, dass wir uns langsam auf den Weg machen könnten, bloß keine Hast.  
 Als wir zur Tür hinaus wollten, merkte ich, dass Herr Schatz den Hund und die Tasche in der einen Hand und den Kindersitz in der anderen Hand hielt. *"Schatz, den brauchen wir jetzt noch nicht!"* Warum war ich eigentlich so ruhig und strukturiert? Ein paar Wochen zuvor hatte ich noch halbe Panikanfälle, wenn ich im Kopf genau diese Situation durchspielte.  
-Während wir zum Auto gingen, rief ich unsere Eltern an, die natürlich völlig schlaftrunken waren und nur ein *"Okay"* ins Telefon nuschelten und für sie der Startschuss war, los zu fahren. Dass sowohl meine Mutter als auch die Schwiegermutter noch einmal kurz eingeschlafen sind, werde ich der Milchschnute mit Genuss aufs Butterbrot schmieren, sobald sie alt genug ist und es versteht, vorwurfsvoll zu gucken ;)
+Während wir zum Auto gingen, rief ich unsere Eltern an, die natürlich völlig schlaftrunken waren und nur ein *"Okay"* ins Telefon nuschelten und für sie der Startschuss war, los zu fahren. Dass sowohl meine Mutter als auch die Schwiegermutter noch einmal kurz eingeschlafen sind, werde ich der Milchschnute mit Genuss aufs Butterbrot schmieren, sobald sie alt genug ist und es versteht, vorwurfsvoll zu gucken :wink:
 
 Auf der Fahrt ins Krankenhaus setzten dann die ersten Wehen ein, die schon unangenehmer waren, als die Übungswehen in den Monaten zuvor. Herr Schatz schaffte es mich hervorragend abzulenken und mich sogar zum Lachen zu bringen.
 

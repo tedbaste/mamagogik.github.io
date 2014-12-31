@@ -23,17 +23,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _thumbnail_id: '852'
-  _publicize_pending: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 ---
 Vor neun Monaten arbeitete ich noch in Vollzeit als Sozialpädagogin in einer Wohngruppe für traumatisierte Kinder und Jugendliche. Ich arbeitete in 24-Std.-Schichten, machte häufig Überstunden und hatte oftmals das Gefühl, mehr Zeit auf der Arbeit als Zuhause zu verbringen.

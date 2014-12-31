@@ -27,17 +27,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '348'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Seit Montag bin ich offiziell in der 27. Schwangerschaftswoche und ich habe das Gefühl die Wochen verstreichen wie mit einem Wimpernschlag. Noch ca. 13 Wochen und wir haben unsere kleine Knutschkugel endlich bei uns."
 ---
 <figure>
@@ -61,7 +50,7 @@ Die nächsten Wochen werde ich mich auf drei bestimmte Dinge konzentrieren:
 3.  **Achtsamkeitstage, an denen ich mir was Gutes tue**  
     Als Mama, besonders als stillende Mama, hat man wenig Zeit für sich. Oder man plant sie einfach nur selten ein, weil man wohl meint, dass alles andere Vorrang hat. So konnte ich zumindest die Haltung verschiedenster Mütter in meiner Umgebung wahrnehmen. Und weil ich durch meinen [Artikel]({{ site.url }}/pranatales-bonding-wie-starke-ich-die-mutter-kind-beziehung-in-der-schwangerschaft) weiß, dass es dem Baby besonders gut geht, wenn es mir als Mama auch gut geht, werde ich mir einmal pro Woche etwas Tolles gönnen. Nicht dass ich im Moment total gestresst wäre, aber ich möchte bewusster Zeit für mich haben - ohne Hausarbeit, Hund oder dem blöden Post-Stapel. Ich hoffe natürlich, dass ich dadurch auch ein bisschen sensibler dafür werde, diese Zeit auch nach der Geburt einzufordern.
 
-Ich werde in den kommenden Wochen also jeweils an bestimmten Tagen von diesen drei Themen berichten und somit drei Serien starten. Ich hoffe ihr seid genauso gespannt wie ich, was ich an diesen Tagen erleben werde, welche Auswirkungen das vielleicht haben wird und ob ich das alles so gewuppt bekomme, wie ich es mir jetzt gerade ausmale ;)
+Ich werde in den kommenden Wochen also jeweils an bestimmten Tagen von diesen drei Themen berichten und somit drei Serien starten. Ich hoffe ihr seid genauso gespannt wie ich, was ich an diesen Tagen erleben werde, welche Auswirkungen das vielleicht haben wird und ob ich das alles so gewuppt bekomme, wie ich es mir jetzt gerade ausmale :wink:
 
 Bis dahin,
 

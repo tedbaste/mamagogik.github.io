@@ -20,15 +20,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _thumbnail_id: '583'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Nachdem ich in den letzten zwei Wochen regelrecht dem Shoppingwahn verfallen bin, wurde ich von Verwandten und Freunden gefragt, ob ich ihnen denn noch etwas übrig gelassen hätte von dem, was die kleine Zuckerschnute denn so benötigt.
 

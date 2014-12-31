@@ -21,21 +21,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '1'
-  _publicize_pending: '1'
-  _thumbnail_id: '222'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Da wir ja nun endlich wissen, dass wir ein Mädchen erwarten, habe ich mich mit dem Gestalten des Babyzimmers beschäftigt. Ich plane immer gern ein bisschen im Voraus und wenn ich dann schon ein Bild im Kopf habe, wie alles aussehen soll, dann krame ich das ganze Internet um, damit ich das finde, was ich mir so vorgestellt habe."
 image:
@@ -88,7 +73,7 @@ Sind alle vom [Schweden](http://www.ikea.com/de/de/)
 der [Chevron-Stoff](http://de.dawanda.com/product/45308230-1380m-Riley-Blake-Chevron-tuerkis-large) in türkis (rechts oben) von Riley Blake kommt aus dem Shop von Regenbogen-Design und kostet 6,90€ pro halber Meter auf 112cm Breite; das [florale Gewebe](http://de.dawanda.com/product/62404479-Art-Gallery-Rapture-Euphloria-Coral) (links unten) von nadel-und-stoff greift verspielt die Farbkarte auf und kostet 8,50€ (110x50cm); der letzte Stoff des Stoffpakets (rechts unten) in [Koralle](http://de.dawanda.com/product/53705079-ab-50x110cm---Baumwollstoff-Bungalow-Empress) mit grafischem Muster kann im Shop Traumstaub – der Stoff aus dem Träume sind ist für 8,50€ (110x50cm) zu bestellen
 10.   Mit den abgebildeten Möbelknäufe möchte ich den Möbeln (Kleiderschrank und Wickelkommode) ein bisschen mehr Charme geben; sie stammen ebenfalls von [dawanda.de](http://www.dawanda.de/) aus dem Shop von [Deco-Cottage](http://de.dawanda.com/shop/Deco-Cottage) und kosten 3,70€ excl. Versandkosten
 
-Natürlich fehlen hier noch einige Dinge, wie zB Decken, Dekokissen, Wickelauflage etc. Aber darüber werde ich mir demnächst noch Gedanken machen. Ich freue mich schon darauf endlich anzufangen und das Zimmer zu gestalten. Über diese Phase werde ich euch ebenfalls auf dem Laufenden halten ;)
+Natürlich fehlen hier noch einige Dinge, wie zB Decken, Dekokissen, Wickelauflage etc. Aber darüber werde ich mir demnächst noch Gedanken machen. Ich freue mich schon darauf endlich anzufangen und das Zimmer zu gestalten. Über diese Phase werde ich euch ebenfalls auf dem Laufenden halten :wink:
 
 Eure Sarah
 

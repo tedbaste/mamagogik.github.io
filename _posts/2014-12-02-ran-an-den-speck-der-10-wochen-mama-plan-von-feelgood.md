@@ -12,23 +12,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _wpas_skip_facebook: '1'
-  _wpas_skip_google_plus: '1'
-  _wpas_skip_twitter: '1'
-  _wpas_skip_linkedin: '1'
-  _wpas_skip_tumblr: '1'
-  _wpas_skip_path: '1'
-  _edit_last: '41750787'
-  geo_public: '0'
-  _thumbnail_id: '898'
-  _publicize_pending: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: Du brauchst in der Schwangerschaft 9 bis 10 Monate, um dich an deinen Babybauch zu gewöhnen. Mit jeder Woche in der er wächst, freust du dich ein bisschen mehr über die Kugel, denn du trägst dein Baby darin. Doch wenn du nach der Geburt immer noch aussiehst, als wärst du im 5. Monat schwanger, dann willst du von den Überbleibseln der Schwangerschaft nichts mehr wissen. Du möchtest so schnell wie möglich wieder in deine alten Klamotten passen.
 ---
@@ -74,7 +57,7 @@ Ich gebe es zu: ich bin ein Werbe-Opfer! Wenn die Werbung interessant ist und mi
 
 Nachdem ich mir angesehen hatte, wie das Online-Programm funktioniert, dachte ich mir: Na dann probier ich das mal aus.
 
-Was mich besonders angesprochen hat, war die Kombination aus Ernährungsplan, Trainingseinheiten und Entspannung. Denn meiner Meinung nach sind das genau die drei Bereiche, die ein Ganzes daraus machen: Wohlbefinden. Und davon kann eine Mama nie genug haben ;)
+Was mich besonders angesprochen hat, war die Kombination aus Ernährungsplan, Trainingseinheiten und Entspannung. Denn meiner Meinung nach sind das genau die drei Bereiche, die ein Ganzes daraus machen: Wohlbefinden. Und davon kann eine Mama nie genug haben :wink:
 
 
 
@@ -84,7 +67,7 @@ Hiermit steigt man in das feelgood-Programm ein. Der Test ist kostenlos, dauert 
 
 Zuerst geht es um dein Essverhalten. Was ich besonders toll fand, war die Möglichkeit anzugeben, ob du Vegetarier/in bist, du Gluten-frei essen musst oder sonstige Einschränkungen in deinem Essensplan hast. Ebenfalls hilfreich war es, dass du bestimmte Lebensmittel aus deinem Ernährungsplan direkt streichen konntest (ich hasse Gurken und Pilze!). Weiter wird abgefragt wie dein Essverhalten so aussieht: Wie viel Obst und Gemüse ist du? Wie viel Fleisch und welches? Und welches deine Hauptmahlzeit ist. Die Ergebnisse werden hinterher in deinen Ernährungsplan eingebaut, was super praktisch ist, denn so bekommst du Rezepte, die dir auch wirklich schmecken. Und ganz toll für Mamis: Du kannst sogar angeben, wie viel Zeit du für das zubereiten deiner Mahlzeiten hast. Mit einem Baby ist das natürlich sehr wichtig!
 
-Danach bestimmst du deinen Fitness-Typ - oder findest heraus, dass du gar keiner bist ;) Hierbei geht es darum, zu schauen wie es um deine Ausdauer bestellt ist, ob du regelmäßig Sport machst etcpp. Bei dem Beantworten der Fragen war ich froh, dass niemand sehen konnte, wie ich vor Scham im Boden versunken bin.
+Danach bestimmst du deinen Fitness-Typ - oder findest heraus, dass du gar keiner bist :wink: Hierbei geht es darum, zu schauen wie es um deine Ausdauer bestellt ist, ob du regelmäßig Sport machst etcpp. Bei dem Beantworten der Fragen war ich froh, dass niemand sehen konnte, wie ich vor Scham im Boden versunken bin.
 
 Als nächstes wird dein Tagesablauf unter die Lupe genommen. Wann fühlst du dich am fittesten? Wie aktiv bist du im Alltag? Bei den Fragen wie viele Stunden am Tag ich arbeite und an wie vielen Tagen in der Woche ich arbeite wurde es etwas tricky, weil ich finde, dass ich 24/7 arbeite - so als Mama. Ich hab es letztendlich auf 4 Stunden täglich und 7 Tage die Woche gestellt, da ich fand, dass dies ein guter Mittelwert für eine Mama sein könnte.
 

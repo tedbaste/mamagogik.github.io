@@ -19,17 +19,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '723'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Meine liebe Milchschnute,
 
 jetzt bist du schon einen Monat alt - genauer gesagt 1 Monat und 8 Tage und die Zeit bis hier hin verging wie im Flug."

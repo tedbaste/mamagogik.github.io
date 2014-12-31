@@ -15,17 +15,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _thumbnail_id: '955'
-  _publicize_pending: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: Aller Anfang ist schwer und wenn es um einen neuen Lebenswandel geht, hat so ein neuer Anfang etwas einschlagendes.
 ---
@@ -83,7 +72,7 @@ Wir essen regelmäßiger.
 Morgens, mittags und abends.
 Klar, man orientiert sich an den Mahlzeiten und hangelt sich von einer Speise zur anderen.
 Ähnlich wie im Krankenhaus, wenn man das Gefühl hat, der Tag besteht nur aus dem Einnehmen von Mahlzeiten.
-Kennt ihr das? :)
+Kennt ihr das? :smile:
 Aber gerade in der Anfangszeit mit Baby ist so eine Tagesstruktur echt Mangelware und somit tut es echt gut, etwas zu haben, an dem man sich orientieren kann.
 
 <figure>

@@ -11,21 +11,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '1'
-  _thumbnail_id: '770'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Nach langer Planung, nächtelangen Wachliegens bis zum Kopfzerbrechen, Stundenlangen recherchierens und plattgesessenem Po darf ich das Artikelbuffet endlich eröffnen!
 
@@ -48,6 +33,6 @@ Seit ich dann angefangen habe, voll ins Berufsleben einzusteigen, blieb dieser T
 
 Aber nun habe ich die Zeit, die Motivation und den Kopf voll mit Ideen.
 
-Auf geht's, in die Blogosphäre :)
+Auf geht's, in die Blogosphäre :smile:
 
 Eure Sarah.

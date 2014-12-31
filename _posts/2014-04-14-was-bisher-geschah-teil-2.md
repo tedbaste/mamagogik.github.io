@@ -16,21 +16,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '0'
-  _thumbnail_id: '169'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 <figure>
   <img src="{{ site.url }}/images/bc3bccher.jpg" alt="bücher" />

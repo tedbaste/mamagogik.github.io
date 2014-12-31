@@ -27,17 +27,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '620'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Aufgrund meiner angeordneten Bettruhe und dem Schwangerschaftsendspurt, der mich zur Zeit wie ein Pinguin durch die Wohnung watscheln lässt, konnten wir das Projekt leider nicht mehr so regelmäßig ausführen, wie wir es geplant hatten."
 ---
@@ -83,13 +72,13 @@ Eine Mutter berichtete davon, dass sie ab Beginn der Schwangerschaft, bis zu die
 
 Eine andere Mutter erzählte ganz nebenbei, dass sich ihre Wohnung im 5. Stock befindet - ohne Aufzug! Horror! Ich glaube ich hätte lieber vor der Haustür kampiert, anstatt die gesamte Schwangerschaft alle 5 Etagen hoch zu kraxeln.
 
-Wer sich also in der Schwangerschaft schon regelrecht schäbig vorkommt, weil er die ganze Zeit nur über verschiedene Weh-wehchen klagt, der ist bei so einem Geburtsvorbereitungskurs richtig gut aufgehoben. Denn irgendeiner Mama geht es immer noch ein bisschen schlechter! Mitgefühl hin oder her - das tut einfach gut ;)
+Wer sich also in der Schwangerschaft schon regelrecht schäbig vorkommt, weil er die ganze Zeit nur über verschiedene Weh-wehchen klagt, der ist bei so einem Geburtsvorbereitungskurs richtig gut aufgehoben. Denn irgendeiner Mama geht es immer noch ein bisschen schlechter! Mitgefühl hin oder her - das tut einfach gut :wink:
 
-Was mir übrigens besonders viel Spaß in den fünf Wochen bereitet hat: Herrn Schatz dabei zuzusehen, wie er zum Papi des Jahres mutierte. Er war völlig interessiert bei der Sache, fürsorglich und hilfsbereit. Er brachte mich zum Lachen und verpasste mir eine 1A-Kreuzbeinmassage ;) Während andere Papis häufig mit Abwesenheit oder Desinteresse glänzten, machte mein Lieblingsmensch eine hervorragende Figur als Partner und Papi-to-be.
+Was mir übrigens besonders viel Spaß in den fünf Wochen bereitet hat: Herrn Schatz dabei zuzusehen, wie er zum Papi des Jahres mutierte. Er war völlig interessiert bei der Sache, fürsorglich und hilfsbereit. Er brachte mich zum Lachen und verpasste mir eine 1A-Kreuzbeinmassage :wink: Während andere Papis häufig mit Abwesenheit oder Desinteresse glänzten, machte mein Lieblingsmensch eine hervorragende Figur als Partner und Papi-to-be.
 
 Ich habe diese wöchentliche Qualitytime wirklich sehr genossen und bin unheimlich stolz auf ihn.
 
-Und auch auf mich, weil ich ihn so gut ausgesucht habe ;)
+Und auch auf mich, weil ich ihn so gut ausgesucht habe :wink:
 
 ## Fazit des Ganzen
 
@@ -100,7 +89,7 @@ Und auch auf mich, weil ich ihn so gut ausgesucht habe ;)
 Der Hechelkurs ist gar kein Hechelkurs. Eher ein Informationskurs mit Praxisübungen für den Ernstfall. Die Atemübungen haben mir jedenfalls bei den Übungswehen sehr gut geholfen. Ok, sie dienen jetzt als mutmaßliches Allheilmittel in den Augen des Zuckerschnuten-Papis. Den Satz: *"Du musst es wegatmen, Schatz!"* kann ich nicht mehr hören, denn selbst wenn ich mir den Fuß gestoßen habe, ist dies der erste Ratschlag des Möchtegern-Heilpraktikers an meiner Seite. Wahrscheinlich wird er nie wieder ein Betäubungsmittel brauchen, denn man kann den Schmerz ja einfach wegatmen!
 
 Jedenfalls war es total interessant diesen Kurs zu besuchen und ich fühle mich dadurch auch wesentlich vorbereiteter.  
-Außerdem wurde ich inspiriert. Ich habe mir felsenfest vorgenommen, wenn die Zuckerschnute in der Pubertät ihren ersten Freund anschleppt, werde ich zur Schwangerschaftsprävention mit ihr einen Geburtsvorbereitungskurs besuchen. Wäre ich nicht gerade selbst schwanger gewesen, hätte ich bei dem Teil über die verschiedenen Geburtsphasen und den dazugehörigen Bildern (welche seeeehr plastisch gestaltet waren), wahrscheinlich von Sex und Kinder kriegen erstmal den Mund gestrichen voll gehabt. Prädikat also besonders pädagogisch wertvoll ;)
+Außerdem wurde ich inspiriert. Ich habe mir felsenfest vorgenommen, wenn die Zuckerschnute in der Pubertät ihren ersten Freund anschleppt, werde ich zur Schwangerschaftsprävention mit ihr einen Geburtsvorbereitungskurs besuchen. Wäre ich nicht gerade selbst schwanger gewesen, hätte ich bei dem Teil über die verschiedenen Geburtsphasen und den dazugehörigen Bildern (welche seeeehr plastisch gestaltet waren), wahrscheinlich von Sex und Kinder kriegen erstmal den Mund gestrichen voll gehabt. Prädikat also besonders pädagogisch wertvoll :wink:
 
 Was ich jedoch ein wenig schade finde ist, dass ich durch diesen Kurs leider keiner anderen Mami so Best-Friends-mäßig näher gekommen bin. Lag wahrscheinlich daran, dass die Männer die ganze Zeit dabei sein konnten und wir somit nicht gezwungen waren, neue Kontakte aufzutun. Komfortbereich, ihr versteht...
 

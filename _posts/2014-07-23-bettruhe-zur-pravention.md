@@ -16,20 +16,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  publicize_twitter_user: mamagogik
-  publicize_twitter_url: http://t.co/ozSBGCGzKu
-  _wpas_done_7980721: '1'
-  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:2556123965;b:1;}}
-  _thumbnail_id: '537'
-  _edit_last: '41750787'
-  geo_public: '0'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Ich befinde mich nun in der 32. SSW und hatte gestern Mittag einen Termin zur Vorsorge bei meiner Frauenärztin. Ich hatte zuvor wieder Unterleibschmerzen und erzählte der Arzthelferin davon."
 ---
@@ -74,7 +60,7 @@ So eine unverständliche Regelung!
 
 Verharren, den nächsten Fastfood-Lieferanten austesten, den Hundi nur bei Bedarf kurz vor die Tür lassen und so wenig Müll und Chaos wie möglich verursachen. Sollte es gar nicht mehr gehen, muss Mama halt doch kommen.
 
-Ein positives hat die Sache allerdings doch: ich habe Zeit und die Muße zu bloggen bis ich umfalle ;)
+Ein positives hat die Sache allerdings doch: ich habe Zeit und die Muße zu bloggen bis ich umfalle :wink:
 
 Bis dahin,
 

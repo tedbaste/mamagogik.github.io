@@ -15,17 +15,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '359'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Ich bin mit meinem Vornamen zufrieden. Ich finde er passt gut zu mir. Er ist kurz, klingt sanft und er bietet keine Möglichkeit zu blöden Verniedlichungen."
 ---
@@ -80,7 +69,7 @@ Da Männer und Frauen ja sehr unterschiedlich sein können, wird es wahrscheinli
 2. **Namen aufgeschrieben** die uns gefallen haben (jeder fertigte eine eigene Liste an)
 3. **verglichen** - keine Übereinstimmung, wie sollte es auch anders sein! Ich möchte euch aber nicht den Mut nehmen, vielleicht seid ihr ja so seelenverwandt, dass es direkt klappt, dann braucht ihr Glücklichen die folgenden Punkte schon gar nicht mehr beachten
 4. **Kompromisse finden** - gibt es Namen auf der Liste meines Partners, die mir nur vielleicht auf Anhieb nicht gefallen, aber je öfter ich ihn ausspreche, desto besser finde ich ihn? Wir hatten uns für das Bewertungssystem: "geht gar nicht", "oh mein Gott, das arme Kind" und "ist das wirklich dein Ernst?!" entschieden (also zwangsläufig)
-5. wenn alle Stricke reißen hilft nur eines: **Zeit verweilen lassen** und immer mal wieder auf die Listen schauen, denn manchmal will Gutding eben Weile haben; und manchmal hat man Glück, dann taucht ein Name auf, der zuvor gar nicht auf der Liste stand, und beide finden ihn toll ;)
+5. wenn alle Stricke reißen hilft nur eines: **Zeit verweilen lassen** und immer mal wieder auf die Listen schauen, denn manchmal will Gutding eben Weile haben; und manchmal hat man Glück, dann taucht ein Name auf, der zuvor gar nicht auf der Liste stand, und beide finden ihn toll :wink:
 
 ## Und außerdem
 

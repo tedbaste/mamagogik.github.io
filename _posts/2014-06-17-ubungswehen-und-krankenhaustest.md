@@ -19,17 +19,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '350'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: Wir kommen gerade aus dem Hospital zurück und ich bin wirklich froh, dass alles wieder gut ist und ich beruhigt die Nacht angehen kann.
 ---
 <figure>

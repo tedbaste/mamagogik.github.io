@@ -15,17 +15,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _thumbnail_id: '796'
-  _publicize_pending: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Mit der Bindung ist das so: Man wird geboren und gewöhnt sich an seine Mutter und seinen Vater. Man liebt sie über alles und ist so abhängig von ihnen, dass man keine Sekunde ohne sie sein kann bzw. möchte."
 ---
 <figure>

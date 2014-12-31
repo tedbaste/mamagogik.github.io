@@ -18,21 +18,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '1'
-  _publicize_pending: '1'
-  _thumbnail_id: '272'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen.
 ---

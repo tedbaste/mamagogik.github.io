@@ -13,20 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  publicize_twitter_user: mamagogik
-  publicize_twitter_url: http://t.co/pVeZqN2Kft
-  _wpas_done_7980721: '1'
-  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:2556123965;b:1;}}
-  _thumbnail_id: '556'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Ich muss ganz ehrlich sagen, ich komme mit meiner derzeitigen Situation schlechter zurecht, als ich gedacht habe. Ich fühle mich eingesperrt, lethargisch und teilweise sogar nutzlos. Ich habe seit Tagen schlechte Laune und warte schon am Morgen darauf, dass der Tag zu Ende geht."
 ---

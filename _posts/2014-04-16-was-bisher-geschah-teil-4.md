@@ -13,21 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '0'
-  _thumbnail_id: '149'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "In den zwei Tagen, in denen wir auf die Untersuchung durch den FA warteten, musste ich meine Eltern, Schwiegereltern, meinen Bruder und natürlich den Papa von meinem möglichen Bauchbewohner immer wieder zur Vernunft bringen, da ich fand, das so ein Schwangerschaftstest, so ein komisches Ding aus Plastik, noch gar nichts beweisen würde."
 ---
 <figure>
@@ -41,7 +26,7 @@ Da meine Kopfschmerzen und auch meine Brustschmerzen nicht von mir ablassen woll
 Ich glaube rückblickend musste ich mich einfach immer wieder beruhigen, um nicht direkt von diesen Gefühlen überrumpelt zu werden. Ich hatte einfach zu viel Angst davor enttäuscht zu werden, wenn es vielleicht heißen würde, dass ich doch nicht schwanger wäre.
 
 Wir gingen gemeinsam zum Arzttermin. Ich gab eine Urinprobe ab und als wir uns ins Wartezimmer setzten, überkam mich irgendwie ein Glücksgefühl. Ich hatte soviel Endorphine in mir, dass ich die Auswertung gar nicht mehr abwarten brauchte.
-Nach kurzer Zeit würden wir ins Besprechungszimmer gerufen. Der Krümmel-Papa fragte ganz vorsichtig, ob er mit hinein dürfe... Was war er doch süß :)
+Nach kurzer Zeit würden wir ins Besprechungszimmer gerufen. Der Krümmel-Papa fragte ganz vorsichtig, ob er mit hinein dürfe... Was war er doch süß :smile:
 Die Ärztin war sehr freundlich, befragte mich nach meinem Befinden und ich erzählte ihr die Vorgeschichte. Sie fragte uns, ob wir das Baby haben wollen würden und wir sahen uns an, grinsten bis zu den Ohren und bejahten euphorisch.
 
 <figure>

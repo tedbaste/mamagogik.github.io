@@ -16,17 +16,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '664'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Es ist vollbracht und ich liebe es! Kennt ihr dieses Gefühl, wenn ihr etwas im Kopf hattet und es genau so geworden ist, wie ihr es euch vorgestellt habt? Ich bin wirklich überglücklich...
 
@@ -46,7 +35,7 @@ Jeder Anhänger des beliebten Schwedenhauses erkennt unschwer, dass die Kommode 
 
 Da wir ein Herbstbaby bekommen und es bereits jetzt in unserem Altbau immer mal wieder etwas kälter ist, haben wir uns dazu entschlossen eine mobile Wärmelampe anzuschaffen. So kann die Zuckerschnute auch mal getrost mit nackigem Hintern strampelnd auf dem Wickeltisch oder auf dem Sofa liegen, ohne dass sie sich verkühlt.
 
-Und natürlich haben wir uns einen von diesen High-Tech-Windeleimern bestellt, die nach dem Drucker-Prinzip verkauft werden (das Gerät ist spottgünstig, die Nachfüllobjekte unverschämt teuer!). Ich hoffe einfach er lindert den Mief und hält, was er verspricht ;)
+Und natürlich haben wir uns einen von diesen High-Tech-Windeleimern bestellt, die nach dem Drucker-Prinzip verkauft werden (das Gerät ist spottgünstig, die Nachfüllobjekte unverschämt teuer!). Ich hoffe einfach er lindert den Mief und hält, was er verspricht :wink:
 
 <figure>
 	<img src="{{ site.url }}/images/babyzimmerkleiderschrank.png" alt="Babyzimmer Kleiderschrank" />
@@ -60,7 +49,7 @@ Hier seht ihr die gegenüberliegende Zimmerseite mit dem Kleiderschrank und dem 
 
 Das Gästebett ist ein Überbleibsel aus der Zeit vor dem Babyzimmer und wird erst einmal noch dort stehen bleiben. Da wir weiter entfernt wohnen bekommen wir immer mal wieder Übernachtungsgäste und so lange die kleine Eule eh noch im Beistellbettchen bei uns im Schlafzimmer schlafen wird, können wir die Familie oder Freunde hier noch unterbringen.
 
-Den Kleiderschrank habe ich in einem Kleinanzeigen-Portal erstanden und mein Vater war so lieb und hat ihn ganz toll für mich umlackiert - mit Bio-Lack natürlich ;) Um dem Schrank noch eine persönliche Note zu geben, haben wir pastellfarbene Knäufe angebracht...
+Den Kleiderschrank habe ich in einem Kleinanzeigen-Portal erstanden und mein Vater war so lieb und hat ihn ganz toll für mich umlackiert - mit Bio-Lack natürlich :wink: Um dem Schrank noch eine persönliche Note zu geben, haben wir pastellfarbene Knäufe angebracht...
 
 <figure>
 	<img src="{{ site.url }}/images/babyzimmerschranktc3bcren.png" alt="Babyzimmer Schranktüren" />
@@ -89,7 +78,7 @@ Ich finde dadurch ist der einfache Kiefer-Schrank ein richtiger Mädchen-Kleider
 
 Meine Mum war fleißig als sie die 10 Tage bei uns war und uns nach meinem Krankenhausaufenthalt unterstützt hat. Sie hat mir nicht nur hervorragend den Haushalt geführt (ich suche bis heute noch Dinge, denen sie scheinbar eine neue Platzanweisung in unserer Wohnung gegeben hat :-P ), sondern sie konnte auch verdammt gut die Vorhänge umnähen und aufhängen, während ich auf dem Gästebett logierte.
 
-Das Gute an der verordneten Bettruhe: man kann zusehen, wie andere arbeiten und zwischen der einen Anweisung und der anderen Delegation kann man noch hervorragend seinen Senf dazu geben und blöde Kommentare absondern ;)
+Das Gute an der verordneten Bettruhe: man kann zusehen, wie andere arbeiten und zwischen der einen Anweisung und der anderen Delegation kann man noch hervorragend seinen Senf dazu geben und blöde Kommentare absondern :wink:
 
 <figure>
 	<img src="{{ site.url }}/images/babyzimmerfenster.png" alt="Babyzimmer Fenster" />
@@ -109,9 +98,9 @@ Um das Zimmer zu dekorieren habe ich Pompoms, Poster, einen Buchstaben-Banner, B
 
 Das Babybett im Jugendstil aus Massivholz haben wir glücklicherweise ebenfalls bei einem Kleinanzeigen-Portal gefunden. Das Schränkchen neben dem Bett habe ich schon länger. Allerdings bin ich mir noch nicht sicher, ob es im Zimmer stehen bleiben soll.
 
-Und mit diesem Foto habe ich dann wohl auch schon den Namen der Zuckerschnute verraten ;)
+Und mit diesem Foto habe ich dann wohl auch schon den Namen der Zuckerschnute verraten :wink:
 
-Ich hoffe wirklich, dass sich Lotti irgendwann mal genauso wohlfühlen wird, wie ich es bereits tue, denn ich muss mich wahnsinnig zusammenreißen und abends in mein eigenes Bett gehen, anstatt mich ins Babybett zu legen ;)
+Ich hoffe wirklich, dass sich Lotti irgendwann mal genauso wohlfühlen wird, wie ich es bereits tue, denn ich muss mich wahnsinnig zusammenreißen und abends in mein eigenes Bett gehen, anstatt mich ins Babybett zu legen :wink:
 
 Jetzt fehlt nur noch ein Teppich, eine Tagesdecke und ein paar Kissen für das Gästebett und ein Mobile über dem Wickeltisch.
 

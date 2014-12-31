@@ -103,7 +103,7 @@ Mir liefen die Tränen, jedes Mal, wenn ich diesen Augenblick in jedem einzelnen
 Natürlich ist es kein gemeingültiger Tipp, der wie ein Zauberstab die Panik jeder Schwangeren einfach so verschwinden lassen kann. Und wahrscheinlich war ich einfach mal wieder Hormonbetrunken. Aber ich wollte diese Videos gern mit euch teilen, weil sie einfach so wunderschön emotional sind. Sie nichts beschönigen und es auch nicht schlimmer machen, als es ist. Sie machen es zu dem, was die Geburt ist: natürlich,  
 realistisch und unfassbar emotional!
 
-Ich würde mich wirklich darüber freuen, wenn ihr mir erzählen würdet, was ihr von den Videos haltet und was sie in euch auslösen. Vielleicht ist es bei euch ja auch komplett gegenteilig und ihr bekommt noch mehr Angst vor der Geburt (das wäre natürlich fatal!) oder ihr findet es ekelig und haltet es als einen zu großen Einblick in die Intimsphäre einer Familie. Egal was ihr davon haltet: berichtet :)
+Ich würde mich wirklich darüber freuen, wenn ihr mir erzählen würdet, was ihr von den Videos haltet und was sie in euch auslösen. Vielleicht ist es bei euch ja auch komplett gegenteilig und ihr bekommt noch mehr Angst vor der Geburt (das wäre natürlich fatal!) oder ihr findet es ekelig und haltet es als einen zu großen Einblick in die Intimsphäre einer Familie. Egal was ihr davon haltet: berichtet :smile:
 
 Bis dann,
 

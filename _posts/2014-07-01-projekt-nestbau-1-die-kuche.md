@@ -17,24 +17,13 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '450'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Unser erstes Projekt zum Thema Nestbau stand also in der vergangenen Woche ganz im Zeichen der Verschönerung unserer Küche."
 ---
 <figure>
 	<img src="{{ site.url }}/images/essgruppevorhernachher.jpg" alt="Essgruppe Vorher Nachher" />
 </figure>
 
-Wie ich euch in meinem Artikel [Drei Wege das 3.Trimester richtig zu nutzen - Die Zeit vor dem Baby]({{ site.url }}/drei-wege-das-3-trimester-richtig-zu-nutzen-die-zeit-vor-dem-baby) bereits beschrieben habe, möchte ich die folgenden Wochen u.a. dazu nutzen meinem Nestbau-Trieb nach zu gehen. Bevor die kleine Knutschkugel unser Leben auf den Kopf stellt möchte ich die Dinge erledigen, die in der letzten Zeit leider auf der Strecke geblieben sind ( oder verdrängt wurden ;) )
+Wie ich euch in meinem Artikel [Drei Wege das 3.Trimester richtig zu nutzen - Die Zeit vor dem Baby]({{ site.url }}/drei-wege-das-3-trimester-richtig-zu-nutzen-die-zeit-vor-dem-baby) bereits beschrieben habe, möchte ich die folgenden Wochen u.a. dazu nutzen meinem Nestbau-Trieb nach zu gehen. Bevor die kleine Knutschkugel unser Leben auf den Kopf stellt möchte ich die Dinge erledigen, die in der letzten Zeit leider auf der Strecke geblieben sind ( oder verdrängt wurden :wink: )
 
 Unser erstes Projekt zum Thema Nestbau stand also in der vergangenen Woche ganz im Zeichen der Verschönerung unserer Küche.
 
@@ -84,8 +73,8 @@ Das Bild in der Mitte oben (siehe auch unten noch einmal) habe ich bei Dawanda i
 	<img src="{{ site.url }}/images/bildzuhause.jpg" alt="Bild Zuhause" />
 </figure>
 
-Natürlich ist Leela nicht leer ausgegangen, als wir bei Ikea shoppen waren. Sie hat so brav im Auto gewartet, dass sie dafür eine Belohnung bekam: Schwein gehabt ;)
-Sie steht total auf die Kuscheltiere vom Schweden. Sie hat bereits einen Panda, den sie, seit sie 9 Wochen alt ist, durch die Wohnung schleppt oder als Kopfkissen benutzt. Der Hund mag es halt sehr bequem! Und da der Panda so robust ist und ihre "Nackenschüttler" ohne Blessuren überlebt, haben wir ihr ein Back-up-Schweinchen gekauft. Sie mag die olle Sau total :)
+Natürlich ist Leela nicht leer ausgegangen, als wir bei Ikea shoppen waren. Sie hat so brav im Auto gewartet, dass sie dafür eine Belohnung bekam: Schwein gehabt :wink:
+Sie steht total auf die Kuscheltiere vom Schweden. Sie hat bereits einen Panda, den sie, seit sie 9 Wochen alt ist, durch die Wohnung schleppt oder als Kopfkissen benutzt. Der Hund mag es halt sehr bequem! Und da der Panda so robust ist und ihre "Nackenschüttler" ohne Blessuren überlebt, haben wir ihr ein Back-up-Schweinchen gekauft. Sie mag die olle Sau total :smile:
 
 <figure>
 	<img src="{{ site.url }}/images/leelaundschweinchen.png" alt="Leela Und Schweinchen" />
@@ -93,13 +82,13 @@ Sie steht total auf die Kuscheltiere vom Schweden. Sie hat bereits einen Panda, 
 
 ## Fazit
 Die Arbeiten an dem Make-over für unsere Küche waren nicht sehr schwierig und es war zudem auch nicht überaus teuer. Wir haben insgesamt knapp 80€ ausgegeben. Und der Effekt ist es allemal wert, wie ich finde.
-Ich bin froh, dass die Küche nun soweit fertig ist, dass sie einladender aussieht - und das Beste ist: ICH KANN ENDLICH ETWAS VON DER LISTE STREICHEN ;)
+Ich bin froh, dass die Küche nun soweit fertig ist, dass sie einladender aussieht - und das Beste ist: ICH KANN ENDLICH ETWAS VON DER LISTE STREICHEN :wink:
 
 <figure>
 	<img src="{{ site.url }}/images/kc3bcche180grad.jpg" alt="Küche180Grad" />
 </figure>
 
-Das Thema für das nächste Projekt Nestbau steht auch schon fest. Verraten wird es allerdings noch nicht ;)
+Das Thema für das nächste Projekt Nestbau steht auch schon fest. Verraten wird es allerdings noch nicht :wink:
 
 Bis dahin,
 

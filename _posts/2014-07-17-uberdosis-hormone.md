@@ -18,23 +18,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  publicize_twitter_url: http://t.co/pu215g9pCU
-  publicize_twitter_user: mamagogik
-  _wpas_done_7980721: '1'
-  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:2556123965;b:1;}}
-  _oembed_596a7ce7e9bd3211d2b12952d8ca683d: '{{unknown}}'
-  _oembed_9ecd51b446158a4ab130e41389563190: '{{unknown}}'
-  _oembed_918d09c0b8a6b4bbb47a39b3c9199aa0: '{{unknown}}'
-  _thumbnail_id: '518'
-  _edit_last: '41750787'
-  geo_public: '0'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: Im Moment ist mein Nervenkleid so dünn wie ein Negligé. Ein überaus Reizbares!
 ---
 <figure>

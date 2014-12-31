@@ -16,21 +16,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '1'
-  _publicize_pending: '1'
-  _thumbnail_id: '385'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Der Physiotherapeut erklärte mir als erstes, dass meine Statik durch die Schwangerschaft verändert wird. Die Wirbelsäule wird logischerweise immer mehr belastet und der Schwerpunkt verlagert sich nach vorn. Dadurch fallen wir Schwangeren häufig in ein Hohlkreuz und machen den Rücken rund, um eine vermeintliche Entlastung zu schaffen."
 ---
@@ -62,14 +47,14 @@ Um gerade zu stehen sollten die Schulterblätter aneinander gezogen werden, das 
 </figure>
 
 Um die gerade Haltung zu trainieren kann ich mich, z.B. beim Kochen am Herd oder beim Warten an der Bushaltestelle,den Rücken gerade halten (siehe oben gerade Haltung) und zusätzlich ein Bein angewinkelt mit dem Fußballen vor den anderen Fuß setzen. Das Gewicht lagert auf dem Standbein. Durch das ausbalancieren des Gewichtes wird die Haltemuskulatur im Rücken gefördert und die Lendenwirbel entlastet. Nach einigen Augenblicken (je nachdem wie lange ihr es auf einem Bein aushaltet) kann der Fuß gewechselt werden.
-Am Anfang ist das ausbalancieren noch ein wenig mühselig, aber wenn man einmal im Training ist, dann findet man den Schwerpunkt relativ schnell ;)
+Am Anfang ist das ausbalancieren noch ein wenig mühselig, aber wenn man einmal im Training ist, dann findet man den Schwerpunkt relativ schnell :wink:
 
 <figure>
 	<img src="{{ site.url }}/images/geradehaltungfc3bcc39fe.jpg" alt="GeradeHaltungFüße" />
   <figcaption>Diese Fußstellung unterstützt die gerade Haltung, durch das Verlagern des Gewichts und der Ausbalancierung.Die Füße nach kurzer Zeit wechseln.</figcaption>
 </figure>
 
-Wenn ich beide Arme im Stehen frei habe (z.B. während die Suppe gerade ein wenig köcheln soll ;)), dann breite ich beide Arme zur Seite hin aus, der Rumpf und die Arme bilden sozusagen eine T-Stellung, und lege meine Fingerspitzen dann auf meine Schultern. Die Oberarme sollten eine gerade Linie zu den Schultern bilden. Dadurch ziehen sich die Schulterblätter schön von allein zusammen und ich stehe gerade.
+Wenn ich beide Arme im Stehen frei habe (z.B. während die Suppe gerade ein wenig köcheln soll :wink:smile:, dann breite ich beide Arme zur Seite hin aus, der Rumpf und die Arme bilden sozusagen eine T-Stellung, und lege meine Fingerspitzen dann auf meine Schultern. Die Oberarme sollten eine gerade Linie zu den Schultern bilden. Dadurch ziehen sich die Schulterblätter schön von allein zusammen und ich stehe gerade.
 
 Wenn ich nun in einigen Wiederholungen die Oberarme senke, also die Achseln schließe, und sie anschließend wieder nach oben auf die Linie mit den Schultern bringe, dann trainiere ich meine Schultermuskulatur, die mich dabei unterstützt meinen Rücken zu entlasten.
 
@@ -81,7 +66,7 @@ Wenn ich nun in einigen Wiederholungen die Oberarme senke, also die Achseln schl
 ## Ein kleiner Tipp
 
 Die gerade Haltung muss man ständig üben, da sie nicht automatisch von uns eingenommen wird. Wir haben wahrscheinlich viel zu lange krumm gesessen oder die Schultern hängen lassen.
-Ich muss mich also, damit ich es ständig trainiere, immer wieder daran erinnern meine Haltung zu korrigieren. Deshalb habe ich mir eine Eselsbrücke gebaut: immer wenn ich unsere Hundedame anschaue, überprüfe ich meine Haltung. Da Hunde viel über die Körpersprache kommunizieren und einen Rudelführer nur dann akzeptieren, wenn seine Körperhaltung Selbstbewusstsein ausstrahlt, habe ich mir diese Erinnerung gesetzt. So kann ich auf beiden Seiten davon profitieren ;)
+Ich muss mich also, damit ich es ständig trainiere, immer wieder daran erinnern meine Haltung zu korrigieren. Deshalb habe ich mir eine Eselsbrücke gebaut: immer wenn ich unsere Hundedame anschaue, überprüfe ich meine Haltung. Da Hunde viel über die Körpersprache kommunizieren und einen Rudelführer nur dann akzeptieren, wenn seine Körperhaltung Selbstbewusstsein ausstrahlt, habe ich mir diese Erinnerung gesetzt. So kann ich auf beiden Seiten davon profitieren :wink:
 
 ***
 

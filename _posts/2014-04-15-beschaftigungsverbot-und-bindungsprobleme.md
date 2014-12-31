@@ -19,22 +19,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _post_restored_from: a:3:{s:20:"restored_revision_id";i:157;s:16:"restored_by_user";i:41750787;s:13:"restored_time";i:1400602893;}
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '1'
-  _thumbnail_id: '160'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Heute war ich zum Abschied auf meinem alten Arbeitsplatz eingeladen.
 Die Kinder aus dem Kinderheim (heutzutage Wohngruppe genannt) sollten die Möglichkeit haben, sich von mir zu verabschieden, nachdem ich vor ca. 11 Wochen überstürzt in das Beschäftigungsverbot gehen musste."
 ---
@@ -65,7 +49,7 @@ Da es für den Gruppenprozess und die sozialen Kompetenzen empfehlenswert ist, k
 Als ich in der Wohngruppe ankam, wurde ich von einigen Kids bereits an der Tür stürmisch begrüßt.
 Im Essbereich war der Tisch liebevoll gedeckt und ein Kuchen und Muffins warteten drauf von den etlichen Augenpaaren, die sie bereits hypnotisiert hatten, aufgegessen zu werden. Wir setzten uns hin und ich sollte direkt wieder aufstehen, damit alle meinen kleinen Babybauch sehen konnten.
 *"Das ist ja gar nicht so viel. Bist du dir sicher dass da noch was drin ist?"*
-typisch Anna[^1], da sprach die Pubertät und die eisige Coolness aus ihr ;)
+typisch Anna[^1], da sprach die Pubertät und die eisige Coolness aus ihr :wink:
 
 Ich reichte meine Ultraschallfotos herum und erklärte den Kindern was und vor allem wo, man da das Baby sehen konnte.
 

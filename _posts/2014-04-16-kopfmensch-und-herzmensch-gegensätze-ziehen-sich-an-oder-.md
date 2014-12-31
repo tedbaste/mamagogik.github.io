@@ -8,12 +8,5 @@ tags: []
 status: draft
 type: post
 published: false
-meta: {}
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 

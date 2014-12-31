@@ -18,17 +18,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '439'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 Ich hatte euch bereits vor einigen Tagen hier angekündigt, dass ich die Zeit bis zur Geburt u.a. dazu nutzen möchte, mir regelmäßig etwas Gutes zu tun. Nicht dass ich durch das Beschäftigungsverbot total gestresst wäre, aber neben der Hausarbeit, dem Hund und anderen organisatorischen Dingen, möchte ich die Zeit die ich habe noch ein bisschen anders nutzen. Denn bald ist das Baby da und dann wird es, wie man so hört und liest, sehr schwierig mal ein wenig Zeit nur für sich zu buchen.
 
@@ -51,7 +40,7 @@ Ich wollte mir die gesamte Wellness-Packung geben. Dazu gehörte auch ein Bad. D
 7.  **Gesichtsmaske** - mein Gesicht mit einer Maske zu verwöhnen gehört für mich absolut zum Verwöhne-dich-Tag, da es bei mir kein alltägliches Pflegeprodukt ist (um mir Arbeit zu ersparen, habe ich auf eine Fertigmaske zurück gegriffen, obwohl selbst gemachte Masken auch ganz toll sind)
 8.  **Maniküren-/Pediküren-Set** -  um von Kopf bis Fuß gepflegt zu sein, gehören diese Artikel natürlich dazu
 9.  **Nagellack** - meine Nägel lackiere ich mir meistens Abends, da mir sonst die Geduld fehlt so lang zu warten, bis der Lack getrocknet ist da mir sonst immer etwas dazwischen kommt, was mich dazu veranlasst, doch noch mal eben kurz etwas in die Hand zu nehmen und dann natürlich ein großes Fluchen auslöst, weil ich mir in einem Nagel doch wieder eine Macke rein gehauen habe -.-
-10. **Massage** - nachdem ich die ganze Zeit im Bad verschwunden war, konnte ich bei dem Krümelinchen-Papa noch eine kleine Rückenmassage raus schlagen :)
+10. **Massage** - nachdem ich die ganze Zeit im Bad verschwunden war, konnte ich bei dem Krümelinchen-Papa noch eine kleine Rückenmassage raus schlagen :smile:
 
 <figure>
 	<img src="{{ site.url }}/images/collagewellness1-e1404081525674.png" alt="CollageWellness1" />
@@ -63,12 +52,12 @@ Ich wollte mir die gesamte Wellness-Packung geben. Dazu gehörte auch ein Bad. D
 
 ## Fazit
 Da es kurz vor Monatsende war und das Projekt-Nestbau auch ein bisschen Budget forderte, habe ich mich entschlossen den Achtsamkeitstag Zuhause zu zelebrieren und brauchte dafür glücklicherweise kein Geld, da ich alles noch vorrätig hatte.
-Es war schön mal wieder in der Badewanne zu entspannen und ein Buch zu lesen, irgendwie mache ich das doch viel zu selten. Der Knutschkugel hat es scheinbar auch sehr gut gefallen, denn ich konnte das Buch kurz zur Seite packen und ihr bei ihren Turnübungen zu sehen. Also gab es einen schönen Bonding-Moment noch gratis dazu ;)
+Es war schön mal wieder in der Badewanne zu entspannen und ein Buch zu lesen, irgendwie mache ich das doch viel zu selten. Der Knutschkugel hat es scheinbar auch sehr gut gefallen, denn ich konnte das Buch kurz zur Seite packen und ihr bei ihren Turnübungen zu sehen. Also gab es einen schönen Bonding-Moment noch gratis dazu :wink:
 Als ich mit allem fertig war und, auf der Couch vor dem Fernseher, meine Hände zum Trocknen von mir gestreckt hatte, fühlte ich mich richtig frisch und wohlig. Die Massage rundete es natürlich zusätzlich ab - Warum also so viel Geld für eine professionelle Wellnessbehandlung ausgeben, wenn es Zuhause doch auch geht?
 
 
 
-Für die nächste Woche habe ich mir auch schon etwas Schönes ausgesucht, bei dem es nur darum gehen wird, mir etwas Gutes zu tun. Was es sein wird, werde ich natürlich noch nicht verraten ;)
+Für die nächste Woche habe ich mir auch schon etwas Schönes ausgesucht, bei dem es nur darum gehen wird, mir etwas Gutes zu tun. Was es sein wird, werde ich natürlich noch nicht verraten :wink:
 
 Bis dahin,
 

@@ -8,13 +8,6 @@ tags: []
 status: draft
 type: post
 published: false
-meta: {}
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 <li>Liegen
 Ich habe oben ja bereits geschrieben, dass ich besonders nach dem Schlafen immer wieder Probleme mit dem Rücken habe. Bevor die kleine Bauchbewohnerin einzog, schlief ich gern auf dem Bauch. Das ist nun seit einigen Wochen nicht mehr möglich. In Rückenlage fängt das Krümelinchen schnell an zu treten und mein Blutdruck erhöht sich merklich. Also bleibt mir nur die Seitenlage. Dafür habe ich mir vor einigen Wochen ein großes Stillkissen gekauft (das Ding nimmt soviel Platz im Bett ein, dass ich jetzt schon weiß, wie eng es wird, wenn wir zu dritt im Bett schlafen werden!).

@@ -19,15 +19,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _thumbnail_id: '242'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Wir wurden in der Empfangshalle des katholischen Krankenhauses von einer jungen Hebamme abgeholt und da war schon klar, die Gruppe sollte bedeutend kleiner sein, als die am Montag. Mit uns waren noch sieben andere Paare interessiert an einer Kreißsaalführung. Es war sehr angenehm mit so einer überschaubaren Gruppe die Geburtsklinik zu besichtigen. "
 ---
 <figure>
@@ -38,7 +29,7 @@ Nachdem wir uns am Montag die erste Geburtsklinik angesehen hatten (das könnt i
 
 Wir wurden in der Empfangshalle des katholischen Krankenhauses von einer jungen Hebamme abgeholt und da war schon klar, die Gruppe sollte bedeutend kleiner sein, als die am Montag. Mit uns waren noch sieben andere Paare interessiert an einer Kreißsaalführung. Es war sehr angenehm mit so einer überschaubaren Gruppe die Geburtsklinik zu besichtigen. 
 
-Wir folgten der sympathischen Hebamme auf die Wöchnerinnen-Station und machten uns einen ersten Eindruck. Die Gänge waren breiter, weitläufiger und ungeschmückter, als in dem evangelischen Krankenhaus. Das Doppelzimmer war sehr geräumig, ein wenig spartanisch eingerichtet (es ist ja auch kein Hotelzimmer ;)) und leider blätterte an manchen Wandstellen die Farbe bereits ab. Trotz des Wickelraumes, über den jedes Zimmer eigens verfügte und das eigene Bad (welches durch die graumelierten, 80er-Jahre-Fliesen wenig einladend aussah), konnte ich dieser Station keine Gemütlichkeit abgewinnen. Mir fehlte eine freundliche und etwas intimere Atmosphäre, wie ich sie bereits am Montag gesehen hatte.
+Wir folgten der sympathischen Hebamme auf die Wöchnerinnen-Station und machten uns einen ersten Eindruck. Die Gänge waren breiter, weitläufiger und ungeschmückter, als in dem evangelischen Krankenhaus. Das Doppelzimmer war sehr geräumig, ein wenig spartanisch eingerichtet (es ist ja auch kein Hotelzimmer :wink:smile: und leider blätterte an manchen Wandstellen die Farbe bereits ab. Trotz des Wickelraumes, über den jedes Zimmer eigens verfügte und das eigene Bad (welches durch die graumelierten, 80er-Jahre-Fliesen wenig einladend aussah), konnte ich dieser Station keine Gemütlichkeit abgewinnen. Mir fehlte eine freundliche und etwas intimere Atmosphäre, wie ich sie bereits am Montag gesehen hatte.
 
 Die Hebamme war so ehrlich und erzählte direkt zu Beginn, dass sich ab dem 15. Juli der Kreißsaal im Umbau befinden würde. Der Umbau würde ca.8 Wochen dauern (wenn ich also Glück hätte, wäre er fertig, wenn die Kleine schlüpft) und in der Zwischenzeit würden zwei Zimmer auf der Wochenbett-Station provisorisch umfunktioniert werden. Spätestens jetzt war für mich klar, dass es für die Hebamme schwierig werden würde, mich von einer Geburt in dieser Klinik zu überzeugen. 
 

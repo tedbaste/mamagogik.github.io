@@ -16,15 +16,6 @@ tags:
 status: draft
 type: post
 published: false
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 ---
 
 <figure>
@@ -50,7 +41,7 @@ Ich habe in meiner Schwangerschaft auf einige Nahrungsmittel verzichtet, die ich
 <strong>Nähe</strong> ist nicht erst nach der Geburt eines Babys sehr wichtig. Ich habe meine Kugel täglich mehrmals gestreichelt und mit meinem Baby gesprochen, damit wir auch schon <a title="Pränatales Bonding – Wie stärke ich die Mutter-Kind-Beziehung in der Schwangerschaft?" href="http://mamagogik.wordpress.com/2014/06/05/pranatales-bonding-wie-starke-ich-die-mutter-kind-beziehung-in-der-schwangerschaft/" target="_blank">in der Schwangerschaft eine Bindung aufbauen</a> können. Ich habe aber auch den Papa dabei eingebunden und besonders in den ersten Wochen nach der Geburt darauf geachtet, dass es ganz viele Papa-Milchschnute-Zeit gibt, auch wenn mich das manchmal ein wenig eifersüchtig gemacht hat.
 
 <strong>Tapferkeit</strong> ist nicht nur eine ritterliche Eigenschaft, sondern auch eine mütterliche. Beginnend mit der morgendlichen Übelkeit, die einem den Tag bereits morgens so richtig versauern konnte. Aber ich habe sie überwunden.
-Zahnarztbesuche verlangen von mir einiges an Tapferkeit ab. Ich hätte allerdings nie gedacht, dass ich so tapfer sein kann, wie ich es unter der Geburt war. Jede Frau, die so etwas einmal durchgestanden hat, sollte eigentlich eine Tapferkeitsmedaille erhalten. Es ist unvergleichlich, heftig und unvorstellbar. Die Schmerzen, die Emotionen und das Gefühl, seine psychischen und körperlichen Grenzen neu gesteckt zu haben. Das macht mich stolz- und ein kleines bisschen unbesiegbar ;)
+Zahnarztbesuche verlangen von mir einiges an Tapferkeit ab. Ich hätte allerdings nie gedacht, dass ich so tapfer sein kann, wie ich es unter der Geburt war. Jede Frau, die so etwas einmal durchgestanden hat, sollte eigentlich eine Tapferkeitsmedaille erhalten. Es ist unvergleichlich, heftig und unvorstellbar. Die Schmerzen, die Emotionen und das Gefühl, seine psychischen und körperlichen Grenzen neu gesteckt zu haben. Das macht mich stolz- und ein kleines bisschen unbesiegbar :wink:
 
 <strong>Belastbarkeit</strong> spielt in den ersten Wochen und Monaten mit einem Baby eine große Rolle. Man schläft zu wenig, bekommt vom Babygeschrei Ohrensausen und der einzige Ort, an dem man mal für sich ist, ist das Badezimmer (und auch das ist kein Garant). Aber irgendwie steht man es durch. Denn immer dann, wenn man am Ende ist, schaut man in diese wunderschönen Augen, die dein Herz erwärmen und man atmet tief durch und macht weiter.
 

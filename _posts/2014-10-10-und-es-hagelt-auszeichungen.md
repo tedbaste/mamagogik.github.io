@@ -13,23 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _wpas_skip_facebook: '1'
-  _wpas_skip_google_plus: '1'
-  _wpas_skip_twitter: '1'
-  _wpas_skip_linkedin: '1'
-  _wpas_skip_tumblr: '1'
-  _wpas_skip_path: '1'
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '704'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 ---
 In den vergangenen Tagen wurde ich gleich drei mal ausgezeichnet. Darüber freue ich mich wahnsinnig. Und zwischen Windeln wechseln, Milchbar öffnen und ins Traumland schuckeln komme ich nun endlich dazu die Fragen meiner werten Kolleginnen [tafjora](http://www.tafjora.blogspot.de), [Sarah Jane von zwergenzimmer](http://www.zwergenzimmer.wordpress.com) und die liebe [kaluepso](http://www.kaluepso.wordpress.com) zu beantworten.
@@ -46,7 +29,7 @@ kaluepso hat [hier](http://kaluepso.com/2014/10/03/liebster-award/) ihre Fragen 
 
 **1. Welche drei Gegenstände kommen mit auf die einsame Insel?**
     
-> Oha, eine einsame Insel? Da kann ich mich gerade richtig gut hineinversetzen, da zwischen Babybauchweh und Hausputz ab und zu mal der Gedanke an so eine Insel eine Rettung darstellt ;)  
+> Oha, eine einsame Insel? Da kann ich mich gerade richtig gut hineinversetzen, da zwischen Babybauchweh und Hausputz ab und zu mal der Gedanke an so eine Insel eine Rettung darstellt :wink:  
 Da es sich um Gegenstände und nicht um Personen handelt wähle ich:
 
 > 1. mein iPad (damit ich euch hier darüber informieren kann, dass mir das Babygeschrei und Pragmatismus von Herrn Schatz fehlen und über meine neuen Freundschaften zu verlausten, aber knuffigen Äffchen berichten kann)
@@ -83,7 +66,7 @@ Bei Schmuddelwetter liebe ich es mich auf das Sofa zu knallen und mit Herrn Scha
 
 **7. Welches Tier wärst du gerne und warum?**
     
-> Ich glaube ich wäre gern mein Hund: keine Verpflichtungen, nur Spaß und Knuddelei und nebenbei den ganzen Tag schlafen ;)
+> Ich glaube ich wäre gern mein Hund: keine Verpflichtungen, nur Spaß und Knuddelei und nebenbei den ganzen Tag schlafen :wink:
 
 **8. Was tust du, um zu entspannen?**
     
@@ -112,7 +95,7 @@ Außerdem läd gutes Wetter immer auch zu guter Laune ein.
 
 **3. Welches ist das Lieblingsspielzeug deiner Kinder?**
 
-> Im Moment meine linke und rechte Milchtüte - ich hoffe das ändert sich noch ;)
+> Im Moment meine linke und rechte Milchtüte - ich hoffe das ändert sich noch :wink:
 
 **4. Wie lebst du?**
 

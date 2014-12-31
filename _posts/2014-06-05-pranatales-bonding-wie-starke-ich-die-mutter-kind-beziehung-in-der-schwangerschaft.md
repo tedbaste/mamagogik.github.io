@@ -22,17 +22,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '300'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Es gibt Tage, da mache ich mir sehr viele Gedanken und Sorgen. Ich frage mich, ob das Baby gesund ist? Wie es wohl sein wird, wenn das Krümelinchen da ist? Ob ich vielleicht vergessen werde, die Ohren regelmäßig sauber zu halten? Und wie ich in Stresssituationen reagieren werde?"
 ---
@@ -108,7 +97,7 @@ Ich bin wesentlich beruhigter. Ich weiß jetzt, dass die wechselnden Gefühle in
 Zuviel von Etwas ist nie gut, es gibt immer Extreme. Allerdings kann ich behaupten, dass meine Sorgen und Ängste keine Überhand nehmen. Ich gönne mir genug Ruhe (ein Hoch auf das Beschäftigungsverbot!) und der Stress ab und zu dürfte dem Baby nichts weiter ausmachen.
 
 Es ist schön zu wissen, dass man mit vielen Methoden bereits jetzt die Bindung zwischen Eltern und Kind besonders fördern kann. Ich lasse mich dadurch jedoch nicht unter Druck setzen. Ich versuche mich auf meinen Instinkt zu verlassen und bin zuversichtlich, dass alles gut wird. Ich weiß, dass die Muttergefühle durch bestimmte Hormone gefördert werden, die besonders nach der Geburt in großen Maßen ausgeschüttet werden.
-Wichtig ist für mich, dass ich mich mit der Rolle als Mama auseinander setze und das tue ich besonders, weil ich diesen Blog hier schreibe. Der Krümelinchen-Papa und auch die restliche Verwandschaft, wir alle freuen uns alle auf die Zuckerschnute und ich glaube, dass das Baby gar nicht anders kann, als sich erwünscht zu fühlen ;)
+Wichtig ist für mich, dass ich mich mit der Rolle als Mama auseinander setze und das tue ich besonders, weil ich diesen Blog hier schreibe. Der Krümelinchen-Papa und auch die restliche Verwandschaft, wir alle freuen uns alle auf die Zuckerschnute und ich glaube, dass das Baby gar nicht anders kann, als sich erwünscht zu fühlen :wink:
 
 Ich freue mich auf den weiteren Verlauf der Schwangerschaft, das Einrichten des Babyzimmers, den Geburtsvorbereitungskurs, den anstehenden Schwangeren-Wassergymnastik-Kurs (ob mir mein Bikini noch passt?!) und natürlich darauf, endlich mein kleines Küken in den Armen zu halten.
 

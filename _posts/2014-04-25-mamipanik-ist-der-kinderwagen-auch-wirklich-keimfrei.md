@@ -16,22 +16,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _publicize_pending: '1'
-  _edit_last: '41750787'
-  geo_latitude: '0.000000'
-  geo_longitude: '0.000000'
-  geo_accuracy: '0'
-  geo_address: '0'
-  geo_public: '1'
-  _post_restored_from: a:3:{s:20:"restored_revision_id";i:139;s:16:"restored_by_user";i:41750787;s:13:"restored_time";i:1400597734;}
-  _thumbnail_id: '140'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "So, da war ich also schwanger und hatte ab dem Moment jede Menge Zeit. Ich klickte mich aus lauter Langeweile bereits in den ersten Tagen durchs Internet, auf der Suche nach Kinderzimmereinrichtungstipps, Trends für Babykleidung und Kinderwagen... Ja, Kinderwagen! Hätte mir da schon jemand gesagt, dass es scheinbar schwieriger ist, den richtigen Kinderwagen zu finden, als einen PKW-Neuwagen, dann wäre ich wahrscheinlich entspannter an die Sache heran gegangen..."
 ---
 <figure>
@@ -78,10 +62,10 @@ Ich begann darüber nachzudenken, ob das Öko-Siegel nicht doch nur das andere E
 </figure>
 
 Ich erkundigte mich also weiter und stieß auf das Siegel [Ökotex Standard 100](https://www.oeko-tex.com/de/manufacturers/concept/oeko_tex_standard_100/oeko_tex_standard_100.xhtml). Ein Zertifikat, das Produkte auf ihre Gesundheitunbedenklichkeit prüft. Und bei Babyartikeln besonders hohe Kriterien stellt.
-Und siehe da, einige namhafte Kinderwagenhersteller und deren Modelle waren mit diesem Siegel versehen worden. So könnten wir uns letztendlich doch mit ruhigem Gewissen einige Kinderwagen anschauen, die auch etwas modischer aussahen, leicht zu Händeln waren und trotzdem nicht aus krebserregenden Stoffen hergestellt werden. Na und die Babykleidung wird ein paar Mal gewaschen, wenn sie neu sind oder eben gebraucht gekauft ;)
+Und siehe da, einige namhafte Kinderwagenhersteller und deren Modelle waren mit diesem Siegel versehen worden. So könnten wir uns letztendlich doch mit ruhigem Gewissen einige Kinderwagen anschauen, die auch etwas modischer aussahen, leicht zu Händeln waren und trotzdem nicht aus krebserregenden Stoffen hergestellt werden. Na und die Babykleidung wird ein paar Mal gewaschen, wenn sie neu sind oder eben gebraucht gekauft :wink:
 
 Das Wichtigste für mich war jedoch, dass ich dadurch irgendwie doch meiner Linie treu bleiben konnte und nicht jetzt schon zu irgendeiner panikverbreitenden Mama geworden bin, die es manchmal einfach ein bisschen zu eng sieht.
-Aber wer weiß, die nächste Falle wartet vielleicht schon auf mich... Ich hab da gerade irgendwas über 'BPA' in Schnullern und Saugern gelesen ;)
+Aber wer weiß, die nächste Falle wartet vielleicht schon auf mich... Ich hab da gerade irgendwas über 'BPA' in Schnullern und Saugern gelesen :wink:
 
 Wie seht ihr das denn mit der Thematik? Muss es wirklich alles 'Öko' sein? Wusstet ihr von den Kinderwagen-Tests?
 

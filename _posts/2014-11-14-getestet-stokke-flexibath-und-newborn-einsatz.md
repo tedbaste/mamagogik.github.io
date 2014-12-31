@@ -13,17 +13,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _thumbnail_id: '863'
-  _publicize_pending: '1'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "Wenn ihr diesen Blog regelmäßig verfolgt, wisst ihr, dass die kleine Milchschnute es sehr eilig hatte uns kennen zu lernen. Da ist im Grunde auch nichts verwerfliches dran, allerdings kam die Trulla leider genau zwei Tage vor meiner geplanten Babyparty und brachte mich somit, um einen schönen Tag mit meinen Freundinnen und Verwandten und: um ein paar Geschenke (ich nehme es ihr nicht übel, allerdings erwarte ich am Muttertag eine große Entschädigung von ihr!)."
 image:
   teaser: flexibathwzartikelbild.png

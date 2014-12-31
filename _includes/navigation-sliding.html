@@ -1,4 +1,9 @@
 <nav role="navigation" class="js-menu sliding-menu-content">
+	<div class="author">
+		<a href="{{ site.url }}"><img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }}" class="avatar"></a>
+		<a href="{{ site.url }}" class="name">{{ site.owner.name }}</a>
+		<p class="bio">{{ site.owner.bio }}</p>
+	</div>
 	<ul class="menu-item">
 		{% for link in site.data.navigation %}<li>
       {% unless link.url contains 'http' %}

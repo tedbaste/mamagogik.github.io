@@ -25,17 +25,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _publicize_pending: '1'
-  _thumbnail_id: '620'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 toc: true
 excerpt: "Als Kriterium für diese wertvolle Zeit stand, dass wir (mind.) einmal pro Woche gemeinsam etwas unternehmen, was uns beiden Spaß macht. Auf diese Weise wollen wir unsere Beziehung nochmal intensiver pflegen, bevor wir dann bald zu dritt sind und es mit Sicherheit Zeiten geben wird, bei denen die Beziehung etwas auf der Strecke bleibt. Wir tanken also nochmal Liebeskraft!"
 ---
@@ -84,7 +73,7 @@ Und als wir so zusammen auf dem Boden saßen, er seinen Arm um mich legte, ich m
 
 Ich bin wirklich froh, dass wir dieses Projekt zusammen angehen und die Zeit nochmal gemeinsam genießen. Es tut wirklich gut, bewusst eine Zeit in der Woche zu verabreden, in der nur wir beide zählen.
 
-Nächste Woche geht es mit dem Projekt weiter und wir haben uns schon auf etwas Tolles geeinigt. Was, wird dann aber erst nächste Woche verraten ;)
+Nächste Woche geht es mit dem Projekt weiter und wir haben uns schon auf etwas Tolles geeinigt. Was, wird dann aber erst nächste Woche verraten :wink:
 
 Bis dahin,
 

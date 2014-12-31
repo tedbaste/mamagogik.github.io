@@ -27,33 +27,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '41750787'
-  geo_public: '0'
-  _oembed_c3c7a9c52cb9418efb4654f50c6f5871: '{{unknown}}'
-  _oembed_894ac66d8f4a6c9c2b3827e004aace38: '{{unknown}}'
-  publicize_twitter_user: mamagogik
-  publicize_twitter_url: http://t.co/QtXYft2ECy
-  _wpas_done_7980721: '1'
-  _publicize_done_external: a:1:{s:7:"twitter";a:1:{i:2556123965;b:1;}}
-  _oembed_2163818a4aaab82a0f2d50ed1a97008f: '{{unknown}}'
-  _oembed_3980ae2efab886e5ef3bede4b1144110: '{{unknown}}'
-  _oembed_77592f02f012ba2c1ca413f5c3fb3df8: '{{unknown}}'
-  _oembed_8dfac00a09ccdd6241d0e8e76ca420eb: '{{unknown}}'
-  _oembed_f20be2ee1bb81ab5eac4249b0321c7fa: '{{unknown}}'
-  _oembed_b5712e012baadcf1af29a900a29d1e38: '{{unknown}}'
-  _oembed_d34e7a941613f83c032b53a0fff19870: '{{unknown}}'
-  _oembed_43890c24498a324e8e6c07e3a11c889a: '{{unknown}}'
-  _oembed_ac2901519212d8780c2819ed5b7490b1: '{{unknown}}'
-  _oembed_13d97fe744e5b0a99c4a97e3904f19f3: '{{unknown}}'
-  _oembed_73e12adb8ad698dc05aa60a6d9efc3a9: '{{unknown}}'
-  _thumbnail_id: '524'
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
 excerpt: "In zahlreichen Eltern-Foren, Zeitschriften oder Spielplatz-Gesprächen taucht ein bestimmtes Thema seit einiger Zeit immer häufiger auf: Das Tragen."
 ---
 <figure>
