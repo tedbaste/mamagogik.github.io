@@ -65,8 +65,8 @@
 			position: relative;
 			display: block;
 			margin-right: $gutter;
-			padding: (0 * $masthead-height) 0 (.25 * $masthead-height) ;
-			height: (.2 * $masthead-height);
+			padding: (0.25 * $masthead-height) 0 (.25 * $masthead-height) ;
+			height: ( .25 * $masthead-height);
 			font-family: $alt-font;
 			&:before,
 			&:after {
@@ -415,7 +415,7 @@
 		@include font-size(12,no);
 	}
 	&:before {
-		content: 'Footnotes:';
+		content: 'Fußnoten:';
 		font-weight: 700;
 	}
 }

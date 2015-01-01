@@ -1,13 +1,8 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-  excerpt: "Über mich und diesen Blog"
-  image: Mamagogik-default-teaser.png
-
-- title: Arbeitsplatz
-  url: /arbeitsplatz/
-  excerpt: "Meine Rolle der Sozialpädagogin und berufliche Perspektive"
+- title: Artikel
+  url: /artikel/
+  excerpt: "Meine Artikel"
   image: Mamagogik-default-teaser.png
 
 - title: Blogosphäre
@@ -15,52 +10,12 @@
   excerpt: "Hier geht es um meinen Blog und den Kontakt zu anderen Bloggern"
   image: Mamagogik-default-teaser.png
 
-- title: Empfehlungen
-  url: /empfehlungen/
-  excerpt: "Produkte, die ich selbst getestet habe und andere Dinge, die ich für empfehlenswert halte"
-  image: Mamagogik-default-teaser.png
-
-- title: Entwicklung
-  url: /entwicklung/
-  excerpt: 
-  image: Mamagogik-default-teaser.png
-
-- title: Familienleben
-  url: /familienleben/
-  excerpt: 
-  image: Mamagogik-default-teaser.png
-
-- title: Infothek
-  url: /infothek/
-  excerpt: 
-  image: Mamagogik-default-teaser.png
-
-- title: Kreatives
-  url: /kreatives/
-  excerpt: 
-  image: Mamagogik-default-teaser.png
-
-- title: Mama
-  url: /mama/
-  excerpt: 
-  image: Mamagogik-default-teaser.png
-
-- title: Meckerkasten
-  url: /meckerkasten/
-  excerpt: 
-  image: Mamagogik-default-teaser.png
-
 - title: Rechtliches
   url: /rechtliches/
   excerpt:
   image:
 
-- title: Schwangerschaft
-  url: /schwangerschaft/
-  excerpt: 
+- title: About
+  url: /about/
+  excerpt: "Über mich und diesen Blog"
   image: Mamagogik-default-teaser.png
-
-- title: "Trends&Themen"
-  url: /trendsthemen/
-  excerpt: 
-  image: Mamagogik-default-teaser.png 

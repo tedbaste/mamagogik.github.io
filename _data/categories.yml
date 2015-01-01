@@ -1,0 +1,33 @@
+# categories
+- display: Arbeitsplatz
+  name: arbeitsplatz
+
+- display: Blogosphäre
+  name: blogosphare
+
+- display: Empfehlungen
+  name: empfehlungen
+
+- display: Entwicklung
+  name: entwicklung
+
+- display: Familienleben
+  name: familienleben
+
+- display: Infothek
+  name: infothek
+
+- display: Kreatives
+  name: kreatives
+
+- display: Mama
+  name: mama
+
+- display: Meckerkasten
+  name: meckerkasten
+
+- display: Schwangerschaft
+  name: schwangerschaft
+
+- display: "Trends&Themen"
+  name: trendsthemen
