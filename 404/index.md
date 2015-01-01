@@ -1,0 +1,20 @@
+---
+layout: article
+title: "Ups, die Seite wurde nicht gefunden"
+excerpt: "Die Seite konnte nicht gefunden oder geladen werden."
+image:
+  feature:
+  teaser:
+  thumb:
+ads: false
+share: false
+sitemap: false
+---
+
+Es tut mir leid. Die Seite konnte nicht gefunden werden. Vielleicht ist bei meinen [Artikeln]({{ site.url }}/artikel/) etwas für dich dabei.
+
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'de';
+  var GOOG_FIXURL_SITE = 'http://mamagogik.github.io'
+</script>
+<script type="text/javascript" src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
