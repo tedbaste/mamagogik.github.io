@@ -1,0 +1,8 @@
+<nav class="toc toc-left">
+	<ul>
+		<li><h6>Übersicht</h6></li>
+		{% for category in site.data.categories %}
+		<li><a href="#{{ category.name }}">{{ category.display }}</a></li>
+		{% endfor %}
+	</ul>
+</nav>
