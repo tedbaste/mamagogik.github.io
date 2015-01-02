@@ -16,6 +16,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Der Physiotherapeut erklärte mir als erstes, dass meine Statik durch die Schwangerschaft verändert wird. Die Wirbelsäule wird logischerweise immer mehr belastet und der Schwerpunkt verlagert sich nach vorn. Dadurch fallen wir Schwangeren häufig in ein Hohlkreuz und machen den Rücken rund, um eine vermeintliche Entlastung zu schaffen."
 ---

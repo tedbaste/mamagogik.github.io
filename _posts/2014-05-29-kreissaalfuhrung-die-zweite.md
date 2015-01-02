@@ -19,6 +19,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Wir wurden in der Empfangshalle des katholischen Krankenhauses von einer jungen Hebamme abgeholt und da war schon klar, die Gruppe sollte bedeutend kleiner sein, als die am Montag. Mit uns waren noch sieben andere Paare interessiert an einer Kreißsaalführung. Es war sehr angenehm mit so einer überschaubaren Gruppe die Geburtsklinik zu besichtigen. "
 ---
 <figure>

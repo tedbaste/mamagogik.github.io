@@ -21,6 +21,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Da wir ja nun endlich wissen, dass wir ein Mädchen erwarten, habe ich mich mit dem Gestalten des Babyzimmers beschäftigt. Ich plane immer gern ein bisschen im Voraus und wenn ich dann schon ein Bild im Kopf habe, wie alles aussehen soll, dann krame ich das ganze Internet um, damit ich das finde, was ich mir so vorgestellt habe."
 image:

@@ -8,5 +8,6 @@ tags: []
 status: draft
 type: post
 published: false
+ads: false
 ---
 

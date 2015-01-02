@@ -21,6 +21,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: Das Thema Achtsamkeit kam mir damals das erste Mal entgegen, als ich begann mich mit meinem Burn-Out zu beschäftigen und mich fürs Yoga zu interessieren.
 ---
 

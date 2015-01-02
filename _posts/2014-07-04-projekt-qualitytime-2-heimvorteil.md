@@ -13,6 +13,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: Bis jetzt war diese Woche gezeichnet von einem vollen Terminkalender meinerseits und der regelmäßig wiederkehrenden Prüfungsvorbereitungspanik im unstrukturiert vorhanden Zeitplan meines Lieblingsmenschen.
 ---
 <figure>

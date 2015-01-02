@@ -13,6 +13,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 ---
 Ich werd verrückt, ich hab dich zum ersten mal gespürt!
 Ich lag soeben auf dem Sofa und da war es plötzlich...

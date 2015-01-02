@@ -8,6 +8,7 @@ tags: []
 status: draft
 type: post
 published: false
+ads: false
 ---
 Meine Schulzeit war nie leicht. Ich fühlte mich ständig unter Leistungsdruck, obwohl der nie von meinen Eltern ausging. Ich machte ihn mir selbst.
 In der Grundschule war ich eine Träumerin, die oftmals aus dem Fenster schaute und ihren Gedanken hinterher hing, bis der Lehrer mich ermahnte mal einen Gang zu zulegen.

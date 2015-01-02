@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: About
+  url: /about/
+  excerpt: "Über mich und diesen Blog"
+  image: Mamagogik-default-teaser.png
+
 - title: Artikel
   url: /artikel/
   excerpt: "Meine Artikel"
@@ -10,12 +15,12 @@
   excerpt: "Hier geht es um meinen Blog und den Kontakt zu anderen Bloggern"
   image: Mamagogik-default-teaser.png
 
+- title: Empfehlungen
+  url: /empfehlungen/
+  excerpt: "Hier geht es um meinen Blog und den Kontakt zu anderen Bloggern"
+  image: Mamagogik-default-teaser.png
+
 - title: Rechtliches
   url: /rechtliches/
   excerpt:
   image:
-
-- title: About
-  url: /about/
-  excerpt: "Über mich und diesen Blog"
-  image: Mamagogik-default-teaser.png

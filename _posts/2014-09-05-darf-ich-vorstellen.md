@@ -11,6 +11,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Diese Zuckerschnute rockte mit mir in nur 4 Stunden den Kreißsaal und kam auf natürlichem Wege heute morgen um 06.28 Uhr zur Welt!!!"
 ---
 <figure>

@@ -15,6 +15,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Mit der Bindung ist das so: Man wird geboren und gewöhnt sich an seine Mutter und seinen Vater. Man liebt sie über alles und ist so abhängig von ihnen, dass man keine Sekunde ohne sie sein kann bzw. möchte."
 ---
 <figure>

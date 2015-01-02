@@ -8,6 +8,7 @@ tags: []
 status: draft
 type: post
 published: false
+ads: false
 ---
 In Teil 1 dieser Reihe habe ich im Allgemeinen etwas über die Veränderungen der Haltung während der Schwangerschaft geschrieben und euch Tipps gegeben, wie ihr eure Haltung etwas verbessern könnt, sodass die Rückenschmerzen mit der Zeit gelindert werden können. Im folgenden Teil möchte ich euch einige Übungen zum <strong>Sitzen</strong> vorstellen.
 

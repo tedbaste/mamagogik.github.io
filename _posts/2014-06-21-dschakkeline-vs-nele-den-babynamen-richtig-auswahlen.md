@@ -15,6 +15,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Ich bin mit meinem Vornamen zufrieden. Ich finde er passt gut zu mir. Er ist kurz, klingt sanft und er bietet keine Möglichkeit zu blöden Verniedlichungen."
 ---

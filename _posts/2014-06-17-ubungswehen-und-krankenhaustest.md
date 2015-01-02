@@ -19,6 +19,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: Wir kommen gerade aus dem Hospital zurück und ich bin wirklich froh, dass alles wieder gut ist und ich beruhigt die Nacht angehen kann.
 ---
 <figure>

@@ -17,6 +17,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 author:
   login: mamagogik
   email: Sarah.Lojewski@googlemail.com

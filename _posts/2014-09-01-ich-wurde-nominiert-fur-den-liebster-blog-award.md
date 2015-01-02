@@ -11,6 +11,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 ---
 Die liebe Nadja vom Blog [kindundkoffer](http://www.kindundkoffer.com) hat mich nominiert und ich freue mich immer noch wie Bolle. Ich finde diesen Blog-Award schön, weil man dadurch die Gelegenheit bekommt sich selbst ein wenig vorzustellen und auch die Möglichkeit hat, andere kleine Blogs vorzustellen.
 

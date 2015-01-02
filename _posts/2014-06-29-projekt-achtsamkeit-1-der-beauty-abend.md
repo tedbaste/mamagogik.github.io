@@ -18,6 +18,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 ---
 Ich hatte euch bereits vor einigen Tagen hier angekündigt, dass ich die Zeit bis zur Geburt u.a. dazu nutzen möchte, mir regelmäßig etwas Gutes zu tun. Nicht dass ich durch das Beschäftigungsverbot total gestresst wäre, aber neben der Hausarbeit, dem Hund und anderen organisatorischen Dingen, möchte ich die Zeit die ich habe noch ein bisschen anders nutzen. Denn bald ist das Baby da und dann wird es, wie man so hört und liest, sehr schwierig mal ein wenig Zeit nur für sich zu buchen.
 

@@ -13,6 +13,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Auch vor der Schwangerschaft war ich kein Supermodel. Ich bin relativ klein, esse und genieße unheimlich gerne und war nie eine Hochleistungssportlerin. Ich hätte mich zwar nie ernsthaft als zu dick beschrieben, aber ich hatte schon immer hier und da ein paar Problemzönchen, die mich ärgerten."
 ---

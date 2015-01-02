@@ -8,6 +8,7 @@ tags: []
 status: draft
 type: post
 published: false
+ads: false
 ---
 Wir sind alle nicht perfekt und viele unserer Macken sind liebenswürdig und die Menschen, die uns lieben, lieben auch gerade dieses unperfekte an uns. Sie machen uns authentisch und real.
 

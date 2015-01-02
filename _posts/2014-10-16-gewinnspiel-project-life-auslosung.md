@@ -14,6 +14,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Gestern lief die Deadline für das Gewinnspiel aus. Zu gewinnen gab es ein Stempelset zum Thema Baby der Firma Project Life, welches uns netterweise der Webshop von dannipeuss zur Verfügung gestellt hat."
 ---
 <figure>

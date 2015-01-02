@@ -4,7 +4,7 @@ title: Mamagogik
 description: "Pädagogenkind und Newbie-Eltern"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: Mamagogik-default-teaser.png # 400x250 px default teaser image used in image archive grid
-locale:
+locale: de_DE
 url: http://0.0.0.0:4000
 #url: http://mamagogik.github.io
 
@@ -14,6 +14,7 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: /:title/
+# lsi: true
 markdown: kramdown
 kramdown:
   toc_levels: 1..2
@@ -21,6 +22,34 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
   - jemoji
+  - jekyll-archives
+
+# Plugin: jekyll-assets
+
+assets:
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+  js_compressor: uglifier
+  css_compressor: sass
+  cachebust: hard
+  cache: true
+  debug: false
+  version: 1
+
+
+# Plugin: jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - tags
+    - year
+  layouts:
+    year: year_index
+    tag: tag_index
+  permalinks:
+    year: /:year/
+    tag: /tag/:name/
 
 # Site owner
 owner:
@@ -33,9 +62,10 @@ owner:
   google:
     ad-client:
     ad-slot:
+    analytics: UA-58117512-1
   bio: "Ich bin 29 Jahre alt und Sozialpädagogin in Elternzeit."
   avatar: bio_avatar.jpg # 160x160 px image for author byline
-disqus-shortname:
+disqus-shortname: mamagogik
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

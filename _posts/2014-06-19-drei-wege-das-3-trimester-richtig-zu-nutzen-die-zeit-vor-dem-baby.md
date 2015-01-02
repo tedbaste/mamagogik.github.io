@@ -27,6 +27,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Seit Montag bin ich offiziell in der 27. Schwangerschaftswoche und ich habe das Gefühl die Wochen verstreichen wie mit einem Wimpernschlag. Noch ca. 13 Wochen und wir haben unsere kleine Knutschkugel endlich bei uns."
 ---
 <figure>

@@ -3,7 +3,10 @@ layout: article
 permalink: /rechtliches/
 title: "Rechtliches"
 toc: true
+ads: false
 ---
+{% include toc.html %}
+
 ## Impressum
 Angaben gemäß § 5 TMG:
 

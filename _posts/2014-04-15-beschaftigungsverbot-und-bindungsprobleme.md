@@ -19,8 +19,9 @@ tags:
 status: publish
 type: post
 published: true
-excerpt: "Heute war ich zum Abschied auf meinem alten Arbeitsplatz eingeladen.
-Die Kinder aus dem Kinderheim (heutzutage Wohngruppe genannt) sollten die Möglichkeit haben, sich von mir zu verabschieden, nachdem ich vor ca. 11 Wochen überstürzt in das Beschäftigungsverbot gehen musste."
+ads: false
+excerpt: "Heute war ich zum Abschied auf meinem alten Arbeitsplatz eingeladen. Die Kinder aus dem Kinderheim (heutzutage Wohngruppe genannt) sollten die Möglichkeit haben, sich von mir zu verabschieden, nachdem ich vor ca. 11 Wochen überstürzt in das Beschäftigungsverbot gehen musste."
+sidebar: sidebar-about
 ---
 <figure>
   <img src="{{ site.url }}/images/abschied.jpg" alt="abschied" />

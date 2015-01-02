@@ -12,6 +12,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: Du brauchst in der Schwangerschaft 9 bis 10 Monate, um dich an deinen Babybauch zu gewöhnen. Mit jeder Woche in der er wächst, freust du dich ein bisschen mehr über die Kugel, denn du trägst dein Baby darin. Doch wenn du nach der Geburt immer noch aussiehst, als wärst du im 5. Monat schwanger, dann willst du von den Überbleibseln der Schwangerschaft nichts mehr wissen. Du möchtest so schnell wie möglich wieder in deine alten Klamotten passen.
 ---

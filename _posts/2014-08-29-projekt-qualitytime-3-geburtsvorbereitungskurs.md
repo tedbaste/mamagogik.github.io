@@ -27,6 +27,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Aufgrund meiner angeordneten Bettruhe und dem Schwangerschaftsendspurt, der mich zur Zeit wie ein Pinguin durch die Wohnung watscheln lässt, konnten wir das Projekt leider nicht mehr so regelmäßig ausführen, wie wir es geplant hatten."
 ---

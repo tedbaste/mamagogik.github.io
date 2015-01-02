@@ -13,6 +13,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Im November 2013 zog bei uns ein kleines Labradormädchen ein: Leela. Da war an Familienplanung noch gar nicht zu denken."
 ---

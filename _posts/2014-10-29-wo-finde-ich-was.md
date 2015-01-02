@@ -8,6 +8,7 @@ tags: []
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Du bist neu hier und brauchst eine kleine Orientierungshilfe?
 
 Dann lass mich dir kurz erklären, wo du hier was findest:

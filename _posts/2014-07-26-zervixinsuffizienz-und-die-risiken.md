@@ -12,6 +12,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Nachdem ich gestern zur Vorsorgeuntersuchung musste, um den Gebärmutterhals kontrollieren zu lassen, wurden wir auf direktem Wege ins Uniklinikum geschickt."
 ---

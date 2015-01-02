@@ -20,6 +20,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 ---
 Nachdem ich in den letzten zwei Wochen regelrecht dem Shoppingwahn verfallen bin, wurde ich von Verwandten und Freunden gefragt, ob ich ihnen denn noch etwas übrig gelassen hätte von dem, was die kleine Zuckerschnute denn so benötigt.
 

@@ -18,6 +18,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Als ich jünger war, hab ich meine Mutter oft gefragt, wie das mit der Geburt so ist. Wie sehr tut es weh in den Wehen zu liegen? Wie sehr schmerzt es, wenn das Köpfchen DA durchtritt?"
 toc: true
 ---

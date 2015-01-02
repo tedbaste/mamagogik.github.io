@@ -15,6 +15,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Acht Wochen sind so gut wie vorbei. Da bin ich mal eben durchs Wochenbett geflogen. Es war eine Zeit voller Erste-Male, Gefühlschaos und neuem Alltag. Und weil bei mir die Still-Demenz einsetzt und ich diese Zeit weder meinem Zukunfts-Ich, noch euch vorenthalten möchte, gibt es hier nun ein kleines Resumee:"
 ---
 <figure>

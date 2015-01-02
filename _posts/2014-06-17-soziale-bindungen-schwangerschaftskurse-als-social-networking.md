@@ -20,6 +20,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Soziale Bindungen sind für den Menschen unerlässlich. Wir streben danach uns Gruppen anzuschließen, die die gleichen Interessen haben und mit denen wir uns identifizieren können. Wir möchten uns austauschen und verstanden werden."
 ---

@@ -1,8 +1,10 @@
 ---
-layout: about
+layout: article
 permalink: /about/
 title: About
 excerpt: Über mich und diesen Blog
+ads: false
+sidebar: sidebar-about
 ---
 Mein Name ist Sarah, ich bin 29 Jahre alt und lebe gemeinsam mit meinem Freund und unserem Hundemädchen Leela und seit neuestem mit unserer Milchschnute, im Dreiländer-Eck.
 

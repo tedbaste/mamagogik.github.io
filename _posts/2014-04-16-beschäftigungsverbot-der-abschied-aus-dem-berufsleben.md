@@ -8,6 +8,7 @@ tags: []
 status: draft
 type: post
 published: false
+ads: false
 ---
 Wer im sozialen Bereich arbeitet, der weiß, dass so ein Job auch immer etwas mit Selbstaufgabe zu tun hat. Bin ich auf der Arbeit, zeige ich viel Engagement, hab Freude dabei in Kontakt mit anderen Menschen zu stehen und Überstunden werden gern einmal gemacht, wenn es dem Wohl der Klienten dient.
 

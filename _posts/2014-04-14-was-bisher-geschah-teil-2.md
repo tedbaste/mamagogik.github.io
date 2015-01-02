@@ -16,6 +16,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 ---
 <figure>
   <img src="{{ site.url }}/images/bc3bccher.jpg" alt="bücher" />

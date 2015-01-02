@@ -13,6 +13,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 ---
 In den vergangenen Tagen wurde ich gleich drei mal ausgezeichnet. Darüber freue ich mich wahnsinnig. Und zwischen Windeln wechseln, Milchbar öffnen und ins Traumland schuckeln komme ich nun endlich dazu die Fragen meiner werten Kolleginnen [tafjora](http://www.tafjora.blogspot.de), [Sarah Jane von zwergenzimmer](http://www.zwergenzimmer.wordpress.com) und die liebe [kaluepso](http://www.kaluepso.wordpress.com) zu beantworten.

@@ -27,6 +27,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "In zahlreichen Eltern-Foren, Zeitschriften oder Spielplatz-Gesprächen taucht ein bestimmtes Thema seit einiger Zeit immer häufiger auf: Das Tragen."
 ---
 <figure>

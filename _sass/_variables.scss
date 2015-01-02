@@ -1,6 +1,15 @@
 // SASS VARIABLES
 // --------------------------------------------------
 
+// Color Scheme
+
+$lichtgelb						: #fff378;
+$hellgrau 						: #d4d0d0;
+$mint 							: #93ffb1;
+$lila 							: #7655d6;
+$pink 							: #ff2b70;
+$orange 						: #ff8f53;
+
 // Image variables
 
 $circular						: 50%;
@@ -24,20 +33,22 @@ $border-radius               	: 3px;
 
 
 // Color variables
+$white                        : #fff;
+$black                        : #000;
 
-$body-color                  	: #ebebeb;
-$text-color                  	: #313130;
-$base-color                  	: #343434;    
-$comp-color                  	: complement($base-color); 
-$border-color                	: #ddd;
-$white                       	: #fff;
-$black                       	: #000;
-$link-color                  	: #222;
-$primary-color               	: $black;
-$success-color               	: #2ecc71;
-$warning-color               	: #f1c40f;
-$danger-color                	: #e74c3c;
-$info-color                  	: #3498db;
+$background-color             : #ebebeb;
+$body-color                   : $white;
+$text-color                   : rgba($black, 0.8);
+$caption-color                : lighten($black, 40);
+$base-color                   : #343434;
+$comp-color                   : complement($base-color);
+$border-color                 : #ddd;
+$link-color                   : lighten($black, 10);
+$primary-color                : lighten($black, 20);
+$success-color                : #2ecc71;
+$warning-color                : #f1c40f;
+$danger-color                 : #e74c3c;
+$info-color                   : #3498db;
 
 $table-border-color          	: $border-color;
 $table-border                	: 1px solid $table-border-color;
@@ -75,16 +86,17 @@ $form-font-family            	: $base-font;
 $form-font-size              	: $doc-font-size;
 
 
-// Sliding Menu Navigation
+// Sliding menu variables
 
-$sliding-menu-border-color	 	: $black;
-$sliding-menu-background 		: $black;
-$sliding-menu-color 	 		: $white;
-$sliding-menu-background-hover	: $black;
-$sliding-menu-color-hover	 	: $white;
-$sliding-menu-border   			: 1px solid $sliding-menu-border-color;
-$button-size		         	: 30px; 
-$transition						: .3s; // increase this to see the transformations in slow-motion
+$sliding-menu-border-color    : $black;
+$sliding-menu-background      : $black;
+$sliding-menu-color           : $white;
+$sliding-menu-background-hover: $black;
+$sliding-menu-color-hover     : $white;
+$sliding-menu-border          : 1px solid $sliding-menu-border-color;
+$button-size                  : 30px;
+$transition                   : .3s; /* increase this to see the transformations in slow-motion */
+$sliding-menu-animation       : all 500ms ease-in-out;
 
 
 // Masthead

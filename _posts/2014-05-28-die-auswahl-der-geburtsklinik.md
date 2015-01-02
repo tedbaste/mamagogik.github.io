@@ -18,6 +18,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen.
 ---

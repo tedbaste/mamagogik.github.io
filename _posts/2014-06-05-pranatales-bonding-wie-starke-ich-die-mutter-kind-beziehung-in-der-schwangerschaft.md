@@ -22,6 +22,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Es gibt Tage, da mache ich mir sehr viele Gedanken und Sorgen. Ich frage mich, ob das Baby gesund ist? Wie es wohl sein wird, wenn das Krümelinchen da ist? Ob ich vielleicht vergessen werde, die Ohren regelmäßig sauber zu halten? Und wie ich in Stresssituationen reagieren werde?"
 ---

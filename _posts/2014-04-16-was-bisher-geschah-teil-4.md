@@ -13,6 +13,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "In den zwei Tagen, in denen wir auf die Untersuchung durch den FA warteten, musste ich meine Eltern, Schwiegereltern, meinen Bruder und natürlich den Papa von meinem möglichen Bauchbewohner immer wieder zur Vernunft bringen, da ich fand, das so ein Schwangerschaftstest, so ein komisches Ding aus Plastik, noch gar nichts beweisen würde."
 ---
 <figure>

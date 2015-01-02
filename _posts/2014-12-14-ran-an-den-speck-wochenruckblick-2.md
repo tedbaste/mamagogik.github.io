@@ -12,6 +12,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 ---
 Vor zwei Wochen habe ich mit meinem Selbstversuch gestartet.

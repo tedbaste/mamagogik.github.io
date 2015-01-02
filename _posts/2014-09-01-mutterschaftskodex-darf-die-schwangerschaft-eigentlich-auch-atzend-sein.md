@@ -28,6 +28,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 ---
 Heute war es tatsächlich so weit: als ich aufwachte, war der Platz neben mir leer. Weder Kissen noch Mann waren anwesend und das, obwohl wir zusammen ins Bett gegangen waren und heute morgen auch keine Termine anstanden. Ich konnte mir denken, wo er war und warum er lieber woanders schlief...

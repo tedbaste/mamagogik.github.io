@@ -13,6 +13,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 toc: true
 excerpt: "Ich muss ganz ehrlich sagen, ich komme mit meiner derzeitigen Situation schlechter zurecht, als ich gedacht habe. Ich fühle mich eingesperrt, lethargisch und teilweise sogar nutzlos. Ich habe seit Tagen schlechte Laune und warte schon am Morgen darauf, dass der Tag zu Ende geht."
 ---

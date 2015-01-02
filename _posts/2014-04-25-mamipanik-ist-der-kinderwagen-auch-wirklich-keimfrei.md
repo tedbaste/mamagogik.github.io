@@ -16,6 +16,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "So, da war ich also schwanger und hatte ab dem Moment jede Menge Zeit. Ich klickte mich aus lauter Langeweile bereits in den ersten Tagen durchs Internet, auf der Suche nach Kinderzimmereinrichtungstipps, Trends für Babykleidung und Kinderwagen... Ja, Kinderwagen! Hätte mir da schon jemand gesagt, dass es scheinbar schwieriger ist, den richtigen Kinderwagen zu finden, als einen PKW-Neuwagen, dann wäre ich wahrscheinlich entspannter an die Sache heran gegangen..."
 ---
 <figure>

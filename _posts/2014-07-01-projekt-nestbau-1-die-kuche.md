@@ -17,6 +17,7 @@ tags:
 status: publish
 type: post
 published: true
+ads: false
 excerpt: "Unser erstes Projekt zum Thema Nestbau stand also in der vergangenen Woche ganz im Zeichen der Verschönerung unserer Küche."
 ---
 <figure>
