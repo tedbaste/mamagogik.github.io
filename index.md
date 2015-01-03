@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: mamagogik
+title: Mamagogik
 excerpt: "Wurzeln, Flügel und ein Netz"
 image:
   feature: home-feature.png
@@ -16,9 +16,9 @@ image:
 	</div><!-- ./tile -->
 </div>
 
-***
+---
 
-##### Neuste Artikel
+#### Neuste Artikel
 
 <div class="tiles">
 {% for post in site.posts limit:4 %}
