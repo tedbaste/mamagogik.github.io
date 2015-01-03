@@ -19,12 +19,13 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
-excerpt: Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen.
+excerpt: "Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen."
 ---
 <figure>
 	<img src="{{ site.url }}/images/door-349807_150.jpg" alt="krankenhausgang" />
 </figure>
+
+{% include toc.html %}
 
 Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen.
 

@@ -2,16 +2,15 @@
 layout: archive
 permalink: /artikel/
 title: "Artikel"
-excerpt: "Hier findet ihr alle Artikel"
+excerpt: "Hier findet ihr alle Artikel thematisch sortiert"
 ---
-{% for category in site.data.categories %}
 <div class="tiles">
-	<h2 id="{{ category.name }}">{{ category.display }}</h2>
+	{% for category in site.data.categories %}
+	<div class="tile">
+		<h2 class="post-title" id="{{ category.name }}">{{ category.display }}</h2>
+	</div>
 	{% for post in site.categories.[category.name] %}
   		{% include post-grid.html %}
 	{% endfor %}
+	{% endfor %}
 </div><!-- /.tiles -->
-{% if category != site.data.categories.last %}
-<hr />
-{% endif %}
-{% endfor %}

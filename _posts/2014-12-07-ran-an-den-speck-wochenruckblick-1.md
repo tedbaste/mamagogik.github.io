@@ -17,7 +17,8 @@ type: post
 published: true
 ads: false
 toc: true
-excerpt: Aller Anfang ist schwer und wenn es um einen neuen Lebenswandel geht, hat so ein neuer Anfang etwas einschlagendes.
+excerpt: "Aller Anfang ist schwer und wenn es um einen neuen Lebenswandel geht, hat so ein neuer Anfang etwas einschlagendes."
+comments: true
 ---
 Aus Sicherheitsgründen möchte euch darauf aufmerksam machen, dass der folgende Blogpost Spuren von Werbung enthalten kann.
 {: .notice}

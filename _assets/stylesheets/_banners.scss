@@ -19,14 +19,14 @@
   padding: 10px 0 20px;
   background: lighten($border-color,5);
   &:after {
-    content: 'Advertisement';
+    content: 'Werbung';
     position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
     display: block;
     @include font-size(9,no);
-    font-family: $alt-font;
+    font-family: $base-font;
   }
   ins {
     border-width: 0;

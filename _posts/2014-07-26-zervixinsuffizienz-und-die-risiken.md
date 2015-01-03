@@ -13,15 +13,15 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Nachdem ich gestern zur Vorsorgeuntersuchung musste, um den Gebärmutterhals kontrollieren zu lassen, wurden wir auf direktem Wege ins Uniklinikum geschickt."
 ---
->Meine sehr geehrten Damen und Herren, die folgende Sendung erhalten Sie live und (mehr oder weniger) in Farbe aus dem Uni-Klinikum in Aachen.
+{% include toc.html %}
 
+>Meine sehr geehrten Damen und Herren, die folgende Sendung erhalten Sie live und (mehr oder weniger) in Farbe aus dem Uni-Klinikum in Aachen.
 
 Nachdem ich gestern zur Vorsorgeuntersuchung musste, um den Gebärmutterhals kontrollieren zu lassen, wurden wir auf direktem Wege ins Uniklinikum geschickt.
 
-Diagnose: Verdacht auf *Zervixinsuffizienz*  
+Diagnose\: Verdacht auf *Zervixinsuffizienz*  
 Auf deutsch heißt das soviel wie: *Gebärmutterhalsschwäche*
 
 ## Was genau ist eine Zervixinsuffizienz?

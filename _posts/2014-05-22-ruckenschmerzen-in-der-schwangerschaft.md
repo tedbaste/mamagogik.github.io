@@ -24,12 +24,13 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Seit einigen Wochen klagen mich nun schon Rückenschmerzen, besonders im Lendenwirbelbereich. Morgens nach dem Aufstehen brauche ich meist so zwei Minütchen, bis ich in gerader Haltung laufen kann. Ich fühl mich echt wie eine Omi. Wenn ich mich dann ein wenig bewegt habe, geht es auch wieder, aber bei längerer Belastung (Stehen oder Gehen) bekomme ich wieder massive Beschwerden."
 ---
 <figure>
 	<img src="{{ site.url }}/images/body-143798_640.jpg" alt="Frauenrücken" />
 </figure>
+
+{% include toc.html %}
 
 Seit einigen Wochen klagen mich nun schon Rückenschmerzen, besonders im Lendenwirbelbereich. Morgens nach dem Aufstehen brauche ich meist so zwei Minütchen, bis ich in gerader Haltung laufen kann. Ich fühl mich echt wie eine Omi. Wenn ich mich dann ein wenig bewegt habe, geht es auch wieder, aber bei längerer Belastung (Stehen oder Gehen) bekomme ich wieder massive Beschwerden.
 

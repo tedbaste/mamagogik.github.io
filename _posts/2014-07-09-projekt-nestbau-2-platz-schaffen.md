@@ -18,11 +18,13 @@ type: post
 published: true
 ads: false
 toc: true
-excerpt: Wenn eine Vogelmutter ein Nest bauen möchte, sucht sie sich eine geeignete Stelle, die genügend Platz für das geplante Nest hergibt.
+excerpt: "Wenn eine Vogelmutter ein Nest bauen möchte, sucht sie sich eine geeignete Stelle, die genügend Platz für das geplante Nest hergibt."
 ---
 <figure>
 	<img src="{{ site.url }}/images/book-shelf-349934_640.jpg" alt="Nest Im Regal" />
 </figure>
+
+{% include toc.html %}
 
 Wenn eine Vogelmutter ein Nest bauen möchte, sucht sie sich eine geeignete Stelle, die genügend Platz für das geplante Nest hergibt.
 

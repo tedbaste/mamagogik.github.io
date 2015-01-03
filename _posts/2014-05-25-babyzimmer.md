@@ -22,11 +22,11 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Da wir ja nun endlich wissen, dass wir ein Mädchen erwarten, habe ich mich mit dem Gestalten des Babyzimmers beschäftigt. Ich plane immer gern ein bisschen im Voraus und wenn ich dann schon ein Bild im Kopf habe, wie alles aussehen soll, dann krame ich das ganze Internet um, damit ich das finde, was ich mir so vorgestellt habe."
 image:
   teaser: 20140525-134133-49293069.jpg
 ---
+{% include toc.html %}
 Da wir ja nun endlich wissen, dass wir ein Mädchen erwarten, habe ich mich mit dem Gestalten des Babyzimmers beschäftigt. Ich plane immer gern ein bisschen im Voraus und wenn ich dann schon ein Bild im Kopf habe, wie alles aussehen soll, dann krame ich das ganze Internet um, damit ich das finde, was ich mir so vorgestellt habe.
 
 Das Babyzimmer ist zur Zeit noch das Arbeits- und Gästezimmer. Sobald wir das Zimmer für das Baby jedoch herrichten, wird der Arbeitsplatz in die obere Etage, ins Wohnzimmer, verlegt. Das Gästebett wird Anfangs noch im Babyzimmer stehen bleiben. Das ist uns wichtig, da wir von unserer Familie und dem Großteil unserer Freunde weit entfernt wohnen und unser Besuch somit auch mal ein paar Tage bei uns bleiben kann.

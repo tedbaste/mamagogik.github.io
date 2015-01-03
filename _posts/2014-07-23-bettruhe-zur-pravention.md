@@ -17,9 +17,10 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Ich befinde mich nun in der 32. SSW und hatte gestern Mittag einen Termin zur Vorsorge bei meiner Frauenärztin. Ich hatte zuvor wieder Unterleibschmerzen und erzählte der Arzthelferin davon."
 ---
+{% include toc.html %}
+
 > Willkommen im Lazarett! Seit gestern stagnieren wir. Alles muss, nichts geht.
 
 Ich befinde mich nun in der 32. SSW und hatte gestern Mittag einen Termin zur Vorsorge bei meiner Frauenärztin. Ich hatte zuvor wieder Unterleibschmerzen und erzählte der Arzthelferin davon.

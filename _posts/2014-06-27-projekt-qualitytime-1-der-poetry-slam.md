@@ -26,12 +26,13 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Als Kriterium für diese wertvolle Zeit stand, dass wir (mind.) einmal pro Woche gemeinsam etwas unternehmen, was uns beiden Spaß macht. Auf diese Weise wollen wir unsere Beziehung nochmal intensiver pflegen, bevor wir dann bald zu dritt sind und es mit Sicherheit Zeiten geben wird, bei denen die Beziehung etwas auf der Strecke bleibt. Wir tanken also nochmal Liebeskraft!"
 ---
 <figure>
 	<img src="{{ site.url }}/images/image1-e1403907882865.jpg" alt="Ludwig Forum Aachen" />
 </figure>
+
+{% include toc.html %}
 
 Wie in meinem Artikel [Drei Wege das 3. Trimester richtig zu nutzen - Die Zeit vor dem Baby]({{ site.url }}/drei-wege-das-3-trimester-richtig-zu-nutzen-die-zeit-vor-dem-baby) bereits versprochen, haben der Krümelinchen-Papa und ich gemeinsam die Zweisamkeit genossen.
 

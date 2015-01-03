@@ -23,12 +23,13 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Es gibt Tage, da mache ich mir sehr viele Gedanken und Sorgen. Ich frage mich, ob das Baby gesund ist? Wie es wohl sein wird, wenn das Krümelinchen da ist? Ob ich vielleicht vergessen werde, die Ohren regelmäßig sauber zu halten? Und wie ich in Stresssituationen reagieren werde?"
 ---
 <figure>
 	<img src="{{ site.url }}/images/pregnant-244662_150.jpg" alt="Mutterglück" />
 </figure>
+
+{% include toc.html %}
 
 Es gibt Tage, da mache ich mir sehr viele Gedanken und Sorgen. Ich frage mich, ob das Baby gesund ist? Wie es wohl sein wird, wenn das Krümelinchen da ist? Ob ich vielleicht vergessen werde, die Ohren regelmäßig sauber zu halten? Und wie ich in Stresssituationen reagieren werde?
 Und dann gibt es da diese Abende, an denen ich mich schon gar nicht mehr darüber wundere, dass die kleine Turnerin mal wieder strampelt und ich merke, dass ich den ganzen Tag nicht darüber nachgedacht habe, dass ich schwanger bin.

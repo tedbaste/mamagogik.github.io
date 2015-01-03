@@ -21,12 +21,13 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Soziale Bindungen sind für den Menschen unerlässlich. Wir streben danach uns Gruppen anzuschließen, die die gleichen Interessen haben und mit denen wir uns identifizieren können. Wir möchten uns austauschen und verstanden werden."
 ---
 <figure>
   <img src="{{ site.url }}/images/20140617-132122-48082751-e1403007921866.jpg" alt="Frauengruppe" />
 </figure>
+
+{% include toc.html %}
 
 Soziale Bindungen sind für den Menschen unerlässlich. Wir streben danach uns Gruppen anzuschließen, die die gleichen Interessen haben und mit denen wir uns identifizieren können. Wir möchten uns austauschen und verstanden werden.
 

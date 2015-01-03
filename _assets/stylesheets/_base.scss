@@ -38,39 +38,39 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
 }
 h1 {
-  @include font-size(24);
+  @include font-size(36);
   @include media($medium) {
-    @include font-size(36);
+    @include font-size(54);
   }
 }
 h2 {
-  @include font-size(22);
+  @include font-size(33);
   @include media($medium) {
-    @include font-size(32);
+    @include font-size(48);
   }
 }
 h3 {
-  @include font-size(18);
+  @include font-size(27);
   @include media($medium) {
-    @include font-size(28);
+    @include font-size(42);
   }
 }
 h4, h5, h6 {
-  @include font-size(16);
+  @include font-size(24);
 }
 h4 {
   @include media($medium) {
-    @include font-size(26);
+    @include font-size(39);
   }
 }
 h5 {
   @include media($medium) {
-    @include font-size(24);
+    @include font-size(36);
   }
 }
 h6 {
   @include media($medium) {
-    @include font-size(20);
+    @include font-size(30);
   }
 }
 
@@ -244,7 +244,7 @@ figcaption {
     padding-left: 0;
     padding-right: 0;
   }
-  font-family: $alt-font;
+  font-family: $base-font;
   @include font-size(14,yes);
   color: $caption-color;
   clear: both;

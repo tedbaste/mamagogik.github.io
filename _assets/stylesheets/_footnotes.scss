@@ -5,7 +5,7 @@
 .footnotes {
   position: relative;
   padding-top: 1em;
-  font-family: $alt-font;
+  font-family: $base-font;
   
   p, li {
     @include font-size(14,no);

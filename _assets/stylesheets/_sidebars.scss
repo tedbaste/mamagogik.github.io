@@ -14,7 +14,7 @@
     margin-bottom: 0;
   }
   h3 {
-    @include font-size(22,no);
+    @include font-size(33,no);
     margin-top: $gutter;
     padding-bottom: $gutter / 4;
     border-bottom: 1px solid $border-color;
@@ -26,7 +26,7 @@
   }
   li {
     list-style: none;
-    @include font-size(14,14,1);
+    @include font-size(21,14,1);
     font-family: $heading-font;
     span {
       font-family: $base-font;
@@ -36,6 +36,10 @@
   }
   a {
     text-decoration: none;
+  }
+  figure {
+    margin-left: 0;
+    margin-right: 0;
   }
   img {
     border-radius: 50%;

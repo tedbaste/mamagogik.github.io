@@ -22,15 +22,15 @@
   }
 
   .entry-date {
-    margin-top: 0;
-    font-family: $alt-font;
+    margin-top: 2px;
+    font-family: $base-font;
     @include font-size(12,no);
     text-transform: uppercase;
     color: lighten($caption-color,10);
   }
 
   .post-title {
-    @include font-size(18,no);
+    @include font-size(27,no,32);
     a {
       text-decoration: none;
     }
