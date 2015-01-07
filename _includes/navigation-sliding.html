@@ -1,6 +1,8 @@
 <nav role="navigation" id="js-menu" class="sliding-menu-content">
+  <a href="{{ site.url }}">
   <h5>{{ site.title }}<span>Übersicht</span></h5>
   <ul class="menu-item">
+  <a>
     {% for link in site.data.navigation %}<li>
       <a href="{{ link.url }}">
         {% if link.image %}<img src="/images/{{ link.image }}" alt="teaser" class="teaser">{% endif %}

@@ -2,7 +2,7 @@
 layout: archive
 permalink: /artikel/
 title: "Artikel"
-excerpt: "Hier findet ihr alle Artikel thematisch sortiert"
+excerpt: "Hier findest du alle Artikel thematisch sortiert"
 ---
 {% include toc.html %}
 {% for category in site.data.categories %}

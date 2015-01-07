@@ -17,10 +17,10 @@
 
 - title: Empfehlungen
   url: /empfehlungen/
-  excerpt: "Hier geht es um meinen Blog und den Kontakt zu anderen Bloggern"
+  excerpt: "Dinge, die ich gut finde"
   image: Mamagogik-default-teaser.png
 
 - title: Rechtliches
   url: /rechtliches/
-  excerpt:
-  image:
+  excerpt: "Impressum, Haftungsausschluss, Datenschutzerklärung"
+  image: Mamagogik-default-teaser.png

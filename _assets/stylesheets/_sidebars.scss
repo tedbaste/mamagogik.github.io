@@ -26,8 +26,8 @@
   }
   li {
     list-style: none;
-    @include font-size(21,14,1);
-    font-family: $heading-font;
+    @include font-size(14,14,1);
+    font-family: $base-font;
     span {
       font-family: $base-font;
       @include font-size(12,no,14);

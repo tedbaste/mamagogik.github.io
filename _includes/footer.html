@@ -30,7 +30,13 @@
 				  <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
 				</span>
 			</a></li>
-		</ul>
+			<li><a href="{{ site.url }}/atom.xml" onclick="ga('send', 'event', 'link', 'click', 'Feed follow');">
+				<span class="rss fa-stack fa-lg">
+				  <i class="fa fa-circle fa-stack-2x"></i>
+				  <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+				</span>
+			</a></li>
+		</ul>	
 	</nav><!-- /.menu -->
 	<p class="copyright">&#169; 2014&#8211;{{ site.time | date: '%Y' }} {{ site.title }} powered by <a href="http://jekyllrb.com/">Jekyll</a> + <a href="http://mmistakes.github.io/skinny-bones-jekyll/">Skinny Bones</a>.
 </footer>

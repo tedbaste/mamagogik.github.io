@@ -25,7 +25,13 @@ layout: default
           {% unless page.sidebar %}
           {% if page.categories %}{% include page-author.html %}{% endif %}{% endunless %}
           {% include page-meta-footer.html %}
+          {% if page.categories %}
+          <hr />
+          {% include pagination.html %}
+          {% endif %}
         </footer><!-- /.footer -->
+        <!-- <hr /> -->
+        <!-- {% include pagination.html %} -->
       </div><!-- /.content -->
     </div><!-- /.inner-wrap -->
     <div class="sidebar">

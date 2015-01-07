@@ -57,6 +57,14 @@
   .page-footer,
   .pagination {
     @include fill-parent;
+    @include clearfix;
+     .next {
+      float: right;
+    }
+
+    .prev {
+      float: left;
+    }
   }
 }
 

@@ -1,8 +1,8 @@
 {
-  "name": "made-mistakes",
+  "name": "Mamgogik",
   "description": "Based on Skinny Bones Jekyll starter",
   "author": "Michael Rose",
-  "homepage": "http://mademistakes.com/",
+  "homepage": "http://www.mamagogik.de/",
   "license": "The MIT License (MIT)",
   "devDependencies": {
     "grunt": "~0.4.2",
