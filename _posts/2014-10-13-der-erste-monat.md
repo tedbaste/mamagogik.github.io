@@ -3,7 +3,7 @@ layout: article
 title: Der erste Monat
 date: 2014-10-13 13:57:03.000000000 +02:00
 categories:
-- Entwicklung
+- "Private Einblicke"
 tags:
 - Baby
 - Babytragen

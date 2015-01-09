@@ -3,7 +3,7 @@ layout: article
 title: Soziale Bindungen - Schwangerschaftskurse als Social Networking
 date: 2014-06-17 11:59:05.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Babybauch
 - Dates

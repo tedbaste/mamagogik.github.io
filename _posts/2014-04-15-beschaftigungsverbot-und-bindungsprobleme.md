@@ -3,8 +3,7 @@ layout: article
 title: Beschäftigungsverbot und Bindungsprobleme
 date: 2014-04-15 11:03:38.000000000 +02:00
 categories:
-- Arbeitsplatz
-- Schwangerschaft
+- "Private Einblicke"
 tags:
 - Abschied
 - Arbeitsplatz

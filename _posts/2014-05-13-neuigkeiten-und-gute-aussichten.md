@@ -3,8 +3,7 @@ layout: article
 title: Neuigkeiten und gute Aussichten
 date: 2014-05-13 11:56:26.000000000 +02:00
 categories:
-- Blogosphare
-- Schwangerschaft
+- "Private Einblicke"
 tags:
 - Baby
 - Babyparty

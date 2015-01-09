@@ -3,7 +3,7 @@ layout: article
 title: 'Projekt Qualitytime #3 Geburtsvorbereitungskurs'
 date: 2014-08-29 19:48:28.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Atemübungen
 - Baby

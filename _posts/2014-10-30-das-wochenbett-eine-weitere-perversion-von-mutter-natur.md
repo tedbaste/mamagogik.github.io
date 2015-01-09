@@ -3,7 +3,7 @@ layout: article
 title: Das Wochenbett - eine weitere Perversion von Mutter Natur?
 date: 2014-10-30 11:32:38.000000000 +01:00
 categories:
-- Mama
+- "Private Einblicke"
 tags:
 - Baby
 - Babyblues

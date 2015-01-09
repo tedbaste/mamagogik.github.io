@@ -3,7 +3,7 @@ layout: article
 title: 'Projekt: Qualitytime #1: Der Poetry Slam'
 date: 2014-06-27 21:25:57.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - 3. Trimester
 - Aachen

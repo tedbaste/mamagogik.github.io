@@ -3,7 +3,7 @@ layout: article
 title: Was bisher geschah...Teil 4 oder Endorphine und Siegerurkunden
 date: 2014-04-16 21:34:56.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Private Einblicke"
 tags:
 - Arztbesuch
 - Baby

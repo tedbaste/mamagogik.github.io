@@ -3,7 +3,7 @@ layout: article
 title: Darf ich vorstellen...
 date: 2014-09-05 16:33:47.000000000 +02:00
 categories:
-- Entwicklung
+- "Private Einblicke"
 tags:
 - Baby
 - Familie

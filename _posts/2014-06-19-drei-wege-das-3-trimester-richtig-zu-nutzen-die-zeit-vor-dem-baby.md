@@ -3,7 +3,7 @@ layout: article
 title: Drei Wege das 3. Trimester richtig zu nutzen - Die Zeit vor dem Baby
 date: 2014-06-19 19:50:15.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - 3. Trimester
 - Achtsamkeit

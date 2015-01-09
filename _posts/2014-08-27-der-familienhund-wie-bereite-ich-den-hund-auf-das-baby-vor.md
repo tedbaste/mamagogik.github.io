@@ -3,7 +3,8 @@ layout: article
 title: Der Familienhund  - Wie bereite ich den Hund auf das Baby vor?
 date: 2014-08-27 11:48:14.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Zusammen leben"
+- "Eltern werden"
 tags:
 - Familienhund
 - Hund und Baby

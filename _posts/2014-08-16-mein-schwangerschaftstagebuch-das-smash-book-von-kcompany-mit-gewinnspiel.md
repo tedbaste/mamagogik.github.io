@@ -4,9 +4,8 @@ title: "Mein Schwanger&shy;schafts&shy;tagebuch (mit Gewinn&shy;spiel)"
 subtitle: "Das SMASH-Book von K&Company"
 date: 2014-08-16 18:50:30.000000000 +02:00
 categories:
-- Empfehlungen
-- Kreatives
-- Schwangerschaft
+- "Fundstücke"
+- "Blogosphäre"
 tags:
 - Baby
 - Babybuch

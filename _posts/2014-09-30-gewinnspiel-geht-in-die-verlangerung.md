@@ -3,7 +3,7 @@ layout: article
 title: Gewinnspiel geht in die Verlängerung
 date: 2014-09-30 18:35:56.000000000 +02:00
 categories:
-- Blogosphare
+- "Blogosphäre"
 tags:
 - Baby
 - Gewinnspiel

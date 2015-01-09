@@ -3,7 +3,7 @@ layout: article
 title: Ran an den Speck - ein Selbstversuch
 date: 2014-11-26 20:06:05.000000000 +01:00
 categories:
-- Mama
+- "Wohl sein"
 tags:
 - abnehmen in der Stillzeit
 - bewusst leben

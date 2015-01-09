@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <div class="wrap">
+    <div class="{% if page.image.feature %}page-feature-header overlay{% else %}page-header{% endif %}">
+      {% if page.image.feature %}
+      <div class="page-image">
+        <img src="/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+        {% if page.image.credit %}{% include image-credit.html %}{% endif %}
+      </div><!-- /.page-image -->
+      {% endif %}
+      <div class="page-title">
+        {% include breadcrumbs.html %}
+        <h1><span>{{ page.title | capitalize | replace: 'einblicke', 'Einblicke'}}</span></h1>
+        {% for kategorie in site.data.kategorien %}
+        {% if page.url contains kategorie.url %}
+        <h2><span>{{ kategorie.excerpt }}</span></h2>
+        {% endif %}
+        {% endfor %}
+      </div><!-- /.page-title -->
+    </div><!-- /.page-header -->
+    <div class="archive-wrap">
+      <div class="page-content">
+        {% for post in page.posts %}
+          {% include post-grid.html %}
+        {% endfor %}
+      </div><!-- /.page-content -->
+    </div><!-- /.archive-wrap -->
+  </div><!-- /.wrap -->
+</div><!-- /#main -->

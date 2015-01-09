@@ -3,8 +3,7 @@ layout: article
 title: Krankengymnastik in der Schwangerschaft
 date: 2014-06-24 20:46:14.000000000 +02:00
 categories:
-- Infothek
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Übungen Krankengymnastik
 - gerade Haltung

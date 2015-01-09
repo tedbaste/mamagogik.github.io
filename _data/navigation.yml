@@ -11,13 +11,13 @@
   image: Mamagogik-default-teaser.png
 
 - title: Blogosphäre
-  url: /blogosphare/
-  excerpt: "Hier geht es um meinen Blog und den Kontakt zu anderen Bloggern"
+  url: /blogosph-re/
+  excerpt: "Gewinnspiele, Blogparaden und das virtuelle Leben"
   image: Mamagogik-default-teaser.png
 
-- title: Empfehlungen
-  url: /empfehlungen/
-  excerpt: "Dinge, die ich gut finde"
+- title: "Fundstücke"
+  url: /fundst-cke/
+  excerpt: "Tolle Blogs & Websites und schöne Dinge, die das Leben liebenswert machen"
   image: Mamagogik-default-teaser.png
 
 - title: Rechtliches

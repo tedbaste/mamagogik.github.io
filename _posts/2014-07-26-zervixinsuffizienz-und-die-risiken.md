@@ -1,10 +1,9 @@
 ---
 layout: article
-title: Zervixinsuffizienz und die Risiken
+title: "Zervixinsuffizienz und die Risiken"
 date: 2014-07-26 20:42:49.000000000 +02:00
 categories:
-- Infothek
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Cervixinsuffizienz
 - Schwangerschaft

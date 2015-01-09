@@ -3,8 +3,7 @@ layout: article
 title: Und es hagelt Auszeichungen...
 date: 2014-10-10 18:54:49.000000000 +02:00
 categories:
-- Blogosphare
-- Schwangerschaft
+- "Blogosphäre"
 tags:
 - Blog Award
 - Blogstöckchen

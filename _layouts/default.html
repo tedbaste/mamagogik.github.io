@@ -18,7 +18,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ site.url }}/sitemap.xml">
 
-    <link rel="alternate" type="application/atom+xml" href="atom.xml" title="Atom feed">
+    <link href="http://feeds.feedburner.com/Mamagogik" type="application/atom+xml" rel="alternate" title="{{ site.title }} alle Artikel">
 
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
@@ -56,10 +56,9 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', '{{ site.owner.google.analytics }}', 'auto');
-      ga('require', 'linkid', 'linkid.js');
-      ga('require', 'displayfeatures');
+      ga('create', 'UA-58117512-2', 'auto');
       ga('send', 'pageview');
+
     </script>
 
     {% if page.comments == true %}

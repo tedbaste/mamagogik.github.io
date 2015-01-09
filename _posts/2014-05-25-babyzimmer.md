@@ -3,7 +3,7 @@ layout: article
 title: Babyzimmer
 date: 2014-05-25 12:00:43.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Fundstücke"
 tags:
 - Baby
 - Babygirl

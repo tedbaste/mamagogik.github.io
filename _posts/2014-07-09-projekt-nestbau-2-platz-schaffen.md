@@ -3,7 +3,7 @@ layout: article
 title: 'Projekt Nestbau #2: Platz schaffen'
 date: 2014-07-09 21:25:12.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Baby
 - Chaos

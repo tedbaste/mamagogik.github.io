@@ -3,7 +3,7 @@ layout: article
 title: Die Panik vor der Geburt und was man dagegen tun kann
 date: 2014-09-24 19:34:09.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - 40.SSW
 - Angst Geburt

@@ -3,7 +3,7 @@ layout: article
 title: Ich wurde nominiert für den Liebster Blog Award
 date: 2014-09-01 18:51:09.000000000 +02:00
 categories:
-- Blogosphare
+- "Blogosphäre"
 tags:
 - Blog Award
 - Blogosphäre

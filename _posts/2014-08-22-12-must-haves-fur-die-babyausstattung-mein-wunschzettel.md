@@ -1,9 +1,9 @@
 ---
 layout: article
-title: 12 Must Haves für die Babyausstattung - Mein Wunschzettel
+title: "12 Must Haves für die Babyausstattung - Mein Wunschzettel"
 date: 2014-08-22 15:59:30.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Fundstücke"
 tags:
 - Ausstattung
 - Baby

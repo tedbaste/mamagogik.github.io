@@ -1,12 +1,13 @@
 # Site wide configuration
 
 title: Mamagogik
-description: "Pädagogenkind und Newbie-Eltern"
+description: "eine junge Mutter und Sozialpädagogin über liebevoll-verlässliche Erziehung und das Familienleben"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: Mamagogik-default-teaser.png # 400x250 px default teaser image used in image archive grid
 locale: de_DE
 #url: http://0.0.0.0:4000
-url: http://mamagogik.github.io
+url: http://mamagogik.de
+domain: mamagogik.de
 
 # Jekyll configuration
 
@@ -14,7 +15,7 @@ sass:
     sass_dir: _sass
     style: compressed
 permalink: /:title/
-# lsi: true
+lsi: true
 markdown: kramdown
 kramdown:
   toc_levels: 1..2
@@ -44,17 +45,39 @@ jekyll-archives:
   enabled:
     - tags
     - year
+    - categories
   layouts:
     year: year_index
     tag: tag_index
+    category: category_index
   permalinks:
     year: /:year/
     tag: /tag/:name/
 
+# Plugin: jekyll-ga
+
+jekyll_ga:
+  service_account_email: 221235096061-5jqpq2e9m6jpls1hd3doodetbkedck1b@developer.gserviceaccount.com
+  key_file: API Project-e5491fcf8cd8.p12
+  key_secret: notasecret    
+  profileID: ga:96018550    
+  start: 2015-01-07         # Beginning of report
+  end: now                  # End of report
+  metric: ga:pageviews      # Metric code
+  segment:                  # optional
+  filters:                  # optional
+  sort: false               # Sort posts by this metric
+
+jekyll_sort:
+  - src: posts
+    by: _ga
+    direction: down
+    dest: posts_popular
+
 # Site owner
 owner:
   name: Sarah
-  email:
+  email: mamagogik@gmail.com
   twitter: mamagogik
   facebook: mamagogik
   pinterest: mamagogik
@@ -68,4 +91,4 @@ owner:
 disqus-shortname: mamagogik
 
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json","API Project-e5491fcf8cd8.p12"]

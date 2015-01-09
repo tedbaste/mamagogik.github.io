@@ -3,7 +3,7 @@ layout: article
 title: Ran an den Speck - Der 10-Wochen-Mama-Plan von Feelgood
 date: 2014-12-02 21:03:35.000000000 +01:00
 categories:
-- Mama
+- "Wohl sein"
 tags:
 - Abnehmen nach Schwangerschaft
 - Ernährungsumstellung

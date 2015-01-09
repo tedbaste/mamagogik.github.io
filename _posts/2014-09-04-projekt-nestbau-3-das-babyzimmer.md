@@ -1,9 +1,9 @@
 ---
 layout: article
-title: 'Projekt Nestbau #3 Das Babyzimmer'
+title: "Projekt Nestbau #3 Das Babyzimmer"
 date: 2014-09-04 20:43:43.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Babybett
 - Babyzimmer

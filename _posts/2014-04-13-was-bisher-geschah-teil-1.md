@@ -3,7 +3,7 @@ layout: article
 title: Was bisher geschah... Teil 1 oder zurück in die Trotzphase
 date: 2014-04-13 21:05:08.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Private Einblicke"
 tags:
 - Kinderwunsch
 - Zukunftspläne

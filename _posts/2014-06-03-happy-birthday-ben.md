@@ -3,7 +3,7 @@ layout: article
 title: Happy Birthday, Ben!
 date: 2014-06-03 16:27:30.000000000 +02:00
 categories:
-- Familienleben
+- "Private Einblicke"
 tags:
 - Baby
 - Ben

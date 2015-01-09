@@ -2,8 +2,15 @@
 layout: article
 title: "Weihnachten 2014"
 subtitle: "...und die Sehnsucht nach der stillen Nacht"
-categories: [Familienleben]
-tags: [Familienbesuch, Festtage mit Familie, junge Familie, Traditionen, Weihnachten 2014, Weihnachten mit Baby]
+categories: 
+- "Private Einblicke"
+tags: 
+- "Familienbesuch"
+- "Festtage mit Familie"
+- "junge Familie"
+- "Traditionen"
+- "Weihnachten 2014"
+- "Weihnachten mit Baby"
 published: True
 ads: false
 comments: true

@@ -3,7 +3,7 @@ layout: article
 title: Mamipanik - Ist der Kinderwagen auch wirklich Keimfrei?
 date: 2014-04-25 13:30:48.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Öko
 - Ökotex

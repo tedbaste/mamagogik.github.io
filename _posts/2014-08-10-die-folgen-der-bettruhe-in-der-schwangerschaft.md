@@ -3,7 +3,7 @@ layout: article
 title: Die Folgen der Bettruhe in der Schwangerschaft
 date: 2014-08-10 18:08:03.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Bettruhe
 - Cervixinsuffizienz

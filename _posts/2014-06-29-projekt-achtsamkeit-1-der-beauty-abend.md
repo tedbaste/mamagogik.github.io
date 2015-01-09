@@ -3,7 +3,7 @@ layout: article
 title: 'Projekt Achtsamkeit #1: Der Beauty-Abend'
 date: 2014-06-29 22:44:44.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Achtsamkeit
 - Adler Olsen

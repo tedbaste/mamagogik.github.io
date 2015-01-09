@@ -3,7 +3,7 @@ layout: article
 title: Was bisher geschah... Teil 3 oder Ein bisschen schwanger geht nicht
 date: 2014-04-15 13:54:21.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Private Einblicke"
 tags: []
 status: publish
 type: post

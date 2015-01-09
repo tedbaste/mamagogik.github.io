@@ -3,7 +3,7 @@ layout: article
 title: Die Auswahl der Geburtsklinik
 date: 2014-05-28 11:44:12.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Entbindungsklinik
 - erste Schwangerschaft

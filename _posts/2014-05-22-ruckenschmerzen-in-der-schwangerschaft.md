@@ -3,8 +3,7 @@ layout: article
 title: Rückenschmerzen in der Schwangerschaft
 date: 2014-05-22 12:56:06.000000000 +02:00
 categories:
-- Infothek
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Bänder
 - Bewegung

@@ -1,10 +1,9 @@
 ---
 layout: article
-title: Pränatales Bonding - Wie stärke ich die Mutter-Kind-Beziehung in der Schwangerschaft?
+title: "Pränatales Bonding - Wie stärke ich die Mutter-Kind-Beziehung in der Schwangerschaft?"
 date: 2014-06-05 18:37:07.000000000 +02:00
 categories:
-- Infothek
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Ambivalenzen
 - Baby

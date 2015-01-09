@@ -3,7 +3,7 @@ layout: article
 title: 5 Schritte um dem Mami-Burn-Out zu entkommen
 date: 2014-11-12 21:41:24.000000000 +01:00
 categories:
-- Mama
+- "Wohl sein"
 tags:
 - 5 Schritte
 - Anforderungen

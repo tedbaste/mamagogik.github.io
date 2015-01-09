@@ -3,7 +3,7 @@ layout: article
 title: Dschakkeline vs. Nele - Den Babynamen richtig auswählen
 date: 2014-06-21 07:00:04.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Auswahl
 - Babynamen

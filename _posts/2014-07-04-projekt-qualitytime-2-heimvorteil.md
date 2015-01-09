@@ -3,7 +3,7 @@ layout: article
 title: 'Projekt Qualitytime #2: Heimvorteil'
 date: 2014-07-04 05:43:27.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - 3. Trimester
 - Baby

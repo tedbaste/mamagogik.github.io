@@ -3,7 +3,7 @@ layout: article
 title: Was bisher geschah... Teil 2 oder Chaos im Kopf
 date: 2014-04-14 20:05:26.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Private Einblicke"
 tags:
 - Ängste
 - Frauenarzt

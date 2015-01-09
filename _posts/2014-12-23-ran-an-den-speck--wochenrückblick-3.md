@@ -1,8 +1,13 @@
 ---
 layout: article
 title: "Ran an den Speck – Wochenrückblick #3"
-categories: [Mama]
-tags: [Abnehmen in der Stillzeit,Abnehmen nach Schwangerschaft,Ernährungsumstellung,feelgood]
+categories:
+- "Wohl sein"
+tags:
+- "Abnehmen in der Stillzeit"
+- "Abnehmen nach Schwangerschaft"
+- "Ernährungsumstellung"
+- "feelgood"
 published: True
 ads: false
 comments: true

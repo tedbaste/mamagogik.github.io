@@ -3,7 +3,7 @@ layout: article
 title: 'Projekt Nestbau #1: Die Küche'
 date: 2014-07-01 22:20:05.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - 3. Trimester
 - Baby

@@ -3,7 +3,7 @@ layout: article
 title: 'Getestet: Stokke FlexiBath und Newborn-Einsatz'
 date: 2014-11-14 14:41:23.000000000 +01:00
 categories:
-- Empfehlungen
+- "Fundstücke"
 tags:
 - Baby Badewanne
 - Babypflege

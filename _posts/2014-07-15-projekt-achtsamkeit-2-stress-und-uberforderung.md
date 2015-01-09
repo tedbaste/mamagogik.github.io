@@ -3,7 +3,7 @@ layout: article
 title: 'Projekt Achtsamkeit #2 Stress und Überforderung'
 date: 2014-07-15 10:33:05.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Achtsamkeit
 - Überforderung

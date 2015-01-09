@@ -3,7 +3,7 @@ layout: article
 title: Mein erstes Bauch-Foto
 date: 2014-04-24 10:26:35.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Private Einblicke"
 tags:
 - Babybauch
 - Foto

@@ -3,8 +3,7 @@ layout: article
 title: Mutterschaftskodex - Darf die Schwangerschaft eigentlich auch ätzend sein?
 date: 2014-09-01 12:37:24.000000000 +02:00
 categories:
-- Meckerkasten
-- Schwangerschaft
+- "Eltern werden"
 tags:
 - Baby
 - Babybauch

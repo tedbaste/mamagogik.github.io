@@ -3,7 +3,7 @@ layout: article
 title: 'Ran an den Speck - Wochenrückblick #2'
 date: 2014-12-14 20:21:11.000000000 +01:00
 categories:
-- Mama
+- "Wohl sein"
 tags:
 - Abnehmen in der Stillzeit
 - Abnehmen nach Schwangerschaft

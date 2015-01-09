@@ -3,7 +3,7 @@ layout: article
 title: 'Gewinnspiel Project Life: Auslosung'
 date: 2014-10-16 11:33:26.000000000 +02:00
 categories:
-- Blogosphare
+- "Blogosphäre"
 tags:
 - Baby
 - danipeuss

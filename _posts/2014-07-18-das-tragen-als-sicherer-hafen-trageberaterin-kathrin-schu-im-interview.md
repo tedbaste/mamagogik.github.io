@@ -3,8 +3,7 @@ layout: article
 title: 'Das Tragen als sicherer Hafen - Trageberaterin Kathrin Schu im Interview'
 date: 2014-07-18 11:30:38.000000000 +02:00
 categories:
-- Infothek
-- Schwangerschaft
+- "Sicher aufwachsen"
 tags:
 - Baby
 - Bauchtrage

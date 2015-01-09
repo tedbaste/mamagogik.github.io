@@ -3,7 +3,7 @@ layout: article
 title: Was ist mit meinem Baby los? Über Entwicklungsschübe, KISS-Syndrom und Clusterfeeding
 date: 2014-10-20 14:30:45.000000000 +02:00
 categories:
-- Entwicklung
+- "Sicher aufwachsen"
 tags:
 - Baby
 - Bauchgefühl

@@ -3,7 +3,7 @@ layout: article
 title: Unverblümt - der Geburtsbericht
 date: 2014-09-29 14:58:00.000000000 +02:00
 categories:
-- Schwangerschaft
+- "Private Einblicke"
 tags:
 - Baby
 - Blasensprung

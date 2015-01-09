@@ -3,7 +3,7 @@ layout: article
 title: '...und dann wird man Mutter!'
 date: 2014-10-28 15:48:53.000000000 +01:00
 categories:
-- Mama
+- "Private Einblicke"
 tags:
 - Bindung
 - Elternzeit
