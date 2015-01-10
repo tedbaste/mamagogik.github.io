@@ -27,6 +27,8 @@ image:
 {% endfor %}
 </div><!-- ./tiles -->
 
+---
+
 #### Beliebteste Artikel
 
 <div class="tiles">

@@ -5,8 +5,8 @@ description: "eine junge Mutter und Sozialpädagogin über liebevoll-verlässlic
 logo: # 120x120 px default image used for Twitter summary card
 teaser: Mamagogik-default-teaser.png # 400x250 px default teaser image used in image archive grid
 locale: de_DE
-#url: http://0.0.0.0:4000
-url: http://mamagogik.de
+url: http://0.0.0.0:4000
+#url: http://mamagogik.de
 domain: mamagogik.de
 
 # Jekyll configuration

@@ -27,6 +27,7 @@
   }
 }
 
+/*
 .site-logo {
   display: none;
   @include media($medium) {
@@ -36,6 +37,13 @@
     width: 60px;
     height: 60px;
   }
+}*/
+
+.site-logo {
+  display: block;
+  float: left;
+  margin-right: 10px;
+  height: $masthead-height;
 }
 
 .site-title {
