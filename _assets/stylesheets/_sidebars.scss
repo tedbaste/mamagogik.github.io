@@ -17,7 +17,7 @@
     @include font-size(33,no);
     margin-top: $gutter;
     padding-bottom: $gutter / 4;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $mint; //$border-color;
   }
   ul {
     list-style: none;

@@ -24,6 +24,13 @@ $border-radius                : 5px;
 
 $white                        : #fff;
 $black                        : #000;
+$lichtgelb                    : #fff378;
+$hellgrau                     : #d4d0d0;
+$mint                         : #93ffb1;
+$lila                         : #7655d6;
+$pink                         : #ff2b70;
+$orange                       : #ff8f53;
+$hellblau                     : #1ed8ff;
 
 $background-color             : #ebebeb;
 $body-color                   : $white;
@@ -47,26 +54,18 @@ $table-hover-color            : darken($table-background, 2);
 $table-stripe-color           : darken($table-background, 4);
 $table-stripe-color-hover     : darken($table-stripe-color, 5);
 
-$facebook-color               : #3b5998;
+$facebook-color               : $hellblau; //#3b5998;
 $flickr-color                 : #ff0084;
 $foursquare-color             : #0cbadf;
 $google-plus-color            : #dd4b39;
-$instagram-color              : #4e433c;
+$instagram-color              : $orange; //#4e433c;
 $linkedin-color               : #4875b4;
-$pinterest-color              : #cb2027;
-$rss-color                    : #fa9b39;
+$pinterest-color              : $lila; //#cb2027;
+$rss-color                    : $lichtgelb; //#fa9b39;
 $tumblr-color                 : #2c4762;
-$twitter-color                : #55acee;
+$twitter-color                : $mint; //#55acee;
 $vimeo-color                  : #1ab7ea;
 $youtube-color                : #ff3333;
-
-$lichtgelb                    : #fff378;
-$hellgrau                     : #d4d0d0;
-$mint                         : #93ffb1;
-$lila                         : #7655d6;
-$pink                         : #ff2b70;
-$orange                       : #ff8f53;
-$hellblau                     : #1ed8ff;
 
 
 /*
