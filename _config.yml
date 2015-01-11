@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: Mamagogik
-description: "eine junge Mutter und Sozialpädagogin über liebevoll-verlässliche Erziehung und das Familienleben"
+description: "ine junge Mutter und Sozialpädagogin über liebevoll-verlässliche Erziehung und das Familienleben"
 logo: # 120x120 px default image used for Twitter summary card
-teaser: Mamagogik-default-teaser.png # 400x250 px default teaser image used in image archive grid
+teaser: TeaserPink.png # 400x250 px default teaser image used in image archive grid
 locale: de_DE
 #url: http://0.0.0.0:4000
 url: http://mamagogik.de
