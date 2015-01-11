@@ -11,12 +11,12 @@
   image: NavigationArtikel.png
 
 - title: Blogosphäre
-  url: /blogosph-re/
+  url: /category/blogosph-re/
   excerpt: "Gewinnspiele, Blogparaden und das virtuelle Leben"
   image: Mamagogik-default-teaser.png
 
 - title: "Fundstücke"
-  url: /fundst-cke/
+  url: /category/fundst-cke/
   excerpt: "Tolle Blogs & Websites und schöne Dinge, die das Leben liebenswert machen"
   image: Mamagogik-default-teaser.png
 
