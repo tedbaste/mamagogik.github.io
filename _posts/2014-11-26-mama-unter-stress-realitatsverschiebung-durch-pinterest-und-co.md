@@ -23,6 +23,7 @@ toc: true
 <figure>
   <img src="{{ site.url }}/images/social-media-423857_1280.jpg" alt="socialmediachalkboard" />
 </figure>
+{% include toc.html %}
 Die sozialen Medien wie Instagram, Pinterest, Facebook, Twitter etc. sind aus dem heutigen Alltag eines Smartphone-Nutzers kaum mehr weg zu denken. Für viele gehört das Lesen von Timelines vor dem Aufstehen aus dem Bett morgens genauso zur Routine, wie der Kaffee oder Tee zum Frühstück. Und die Neuigkeiten aus dem Leben der Freunde oder Internet-Bekanntschaften werden heutzutage neugieriger verfolgt, als die Tagesnachrichten im Fernsehen oder der Tageszeitung.
 
 Dass das routinemäßige Nutzen von Facebook und Co. allerdings auch süchtig machen kann, wurde in den Medien bereits häufig thematisiert. Ebenso wurde bekannt, dass social Media zu depressiven Verstimmungen führen und Stress verursachen kann.
