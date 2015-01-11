@@ -16,21 +16,22 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Aller Anfang ist schwer und wenn es um einen neuen Lebenswandel geht, hat so ein neuer Anfang etwas einschlagendes."
 comments: true
+image:
+  teaser: TeaserBlau.png
 ---
 Aus Sicherheitsgründen möchte euch darauf aufmerksam machen, dass der folgende Blogpost Spuren von Werbung enthalten kann.
 {: .notice}
 
 Aller Anfang ist schwer und wenn es um einen neuen Lebenswandel geht, hat so ein neuer Anfang etwas einschlagendes.
 
-Wie ich euch hier und hier bereits wissen lassen habe, kämpfe ich mit meinen Schwangerschaftspfunden einen unerbittlichen Kampf.
+Wie ich euch hier auf dem Blog bereits wissen lassen habe, kämpfe ich mit meinen Schwangerschaftspfunden einen unerbittlichen Kampf.
 Ich will wieder in meine alten Hosen passen.
 Ich will mich wieder wohl fühlen!
 
 Heute ist Sonntag und somit steht der erste Wochenrückblick an.
-Meine erste Woche mit dem Online-Programm von [feelgood.de](http://www.feelgood.de).
+Meine erste Woche mit dem Online-Programm von <a href="http://www.feelgood.de" rel="nofollow">feelgood.de</a>.
 
 Die erste Woche ist also rum und ich muss euch sagen, so schwer wie ich dachte, ist es mir gar nicht gefallen.
 Und das zeigt mir, dass sich der aufgestellte Plan gut in meinen Alltag integrieren lässt.

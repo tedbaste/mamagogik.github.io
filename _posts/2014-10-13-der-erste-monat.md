@@ -23,11 +23,16 @@ ads: false
 excerpt: "Meine liebe Milchschnute,
 
 jetzt bist du schon einen Monat alt - genauer gesagt 1 Monat und 8 Tage und die Zeit bis hier hin verging wie im Flug."
-toc: true
+
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 ---
 <figure>
 	<img src="{{ site.url }}/images/image.jpg" alt="Milchschnute mit einem Monat" />
 </figure>
+
+{% include toc.html %}
 
 Meine liebe Milchschnute,
 

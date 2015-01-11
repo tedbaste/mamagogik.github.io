@@ -14,7 +14,9 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserPink.png
 excerpt: "Ich muss ganz ehrlich sagen, ich komme mit meiner derzeitigen Situation schlechter zurecht, als ich gedacht habe. Ich fühle mich eingesperrt, lethargisch und teilweise sogar nutzlos. Ich habe seit Tagen schlechte Laune und warte schon am Morgen darauf, dass der Tag zu Ende geht."
 ---
 <figure>
@@ -33,6 +35,8 @@ Wer diesen Blog ab und zu verfolgt, der weiß bereits, dass mein Gebärmutterhal
 Und jetzt fesselt er mich ans Bett bzw. an das Sofa, verbietet mir Auto zu fahren, geschweige denn den Haushalt zu erledigen oder mich aktiv um den Leela-Launebär zu kümmern.
 
 Kurz gesagt: Mein Gebärmutterhals und ich, wir haben Beef! Oder zumindest eine außerordentliche Diskrepanz aufgrund von Interessenskonflikten.
+
+{% include toc.html %}
 
 ## Die Krankenhaus-Review
 
@@ -65,5 +69,5 @@ Eines ist jedenfalls klar: Wenn ich nicht bald etwas gegen diese miese Stimmung 
 
 Eine neue Haltung muss also her. Nur wie kann ich mir dieses Gefängnis hier versüßen? Im Moment habe ich dazu noch nicht die glänzende Idee. Über Anregungen würde ich mich freuen...
 
-Bildquelle: [pixabay.com](http://www.pixabay.com)
+Bildquelle: <a href="http://www.pixabay.com" rel="nofollow">pixabay.com</a>
 

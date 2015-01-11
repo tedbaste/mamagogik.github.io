@@ -13,11 +13,15 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+image:
+  teaser: TeaserPink.png
+
 ---
 Vor zwei Wochen habe ich mit meinem Selbstversuch gestartet.
 Mein Ziel ist es, meine Schwangerschaftspfunde abzuschütteln, indem ich mich ausgewogen und regelmäßig ernähre.
 Außerdem möchte ich mich mehr Bewegen und den Sport zu meinem Ausgleich in meinen Mami-Alltag integrieren.
+
+{% include toc.html %}
 
 Nun ist die 2. Woche des 10-Wochenprogramms von [feelgood.de](http://www.feelgood.de) vorbei und wurde von der Milchschnute in der vergangenen Woche hart getestet.
 Das Frollein Baby hatte nämlich in der letzten Woche vermehrt schlechte Laune und es fiel mir täglich schwer, mich an das Programm zu halten.
@@ -25,11 +29,11 @@ Das Frollein Baby hatte nämlich in der letzten Woche vermehrt schlechte Laune u
 Bereits am Montag musste ich das Essen improvisieren, weil die Milchschnute launetechnisch nicht transportfähig war und ich erst am Dienstag für die Woche einkaufen gehen konnte.
 Auch den Sport musste ich an 2 Tagen leider ad Acta legen, weil sie sich den ganzen Tag an meiner Milchbar festgesaugt hatte.
 
-Aber ich habe die Punkte gut zusammen gesammelt, sodass ich von der Anfangsphase in der ich 10 Punkte sammeln sollte, nun in die zweite Phase wechseln konnte und somit ein anderes Work-Out zugewiesen bekommen habe.
+Aber ich habe die Punkte gut zusammen gesammelt, sodass ich von der Anfangsphase, in der ich 10 Punkte sammeln sollte, nun in die zweite Phase wechseln konnte und somit ein anderes Work-Out zugewiesen bekommen habe.
 Angefangen habe ich mit Bein-Work-Outs und diese Woche bekam ich ganzheitliche Trainingseinheiten eingeteilt, die etwas anstrengender waren.
 Habe ich die 30 Punkte aus der jetzigen Phase am kommenden Dienstag zusammen, komme ich in die Nächste.
 
-Zur Erinnerung: in meinem individuellen Wochenplan bekomme ich täglich Aufgaben zur Bewegung und Ernährung aufgetragen.
+**Zur Erinnerung:** in meinem individuellen Wochenplan bekomme ich täglich Aufgaben zur Bewegung und Ernährung aufgetragen.
 Für den Sport einen Punkt, für jede Mahlzeit einen und ebenfalls für erledigte Wellness-Aufgaben, wie z.B. einen Tee zur Entspannung trinken.
 Fällt eine Mahlzeit aus oder kann ich eine Sporteinheit nicht erledigen, bekomme ich logischerweise den Punkt hierfür nicht.
 Somit kann es länger dauern, bis ich die folgende Phase erreiche, kann das Ziel aber dennoch erreichen.

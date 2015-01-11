@@ -11,6 +11,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserPink.png
 ---
 <figure>
   <img src="{{ site.url }}/images/photo-album-235603_150.jpg" alt="fotoalbum"/>

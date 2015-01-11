@@ -12,6 +12,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserPink.png
 excerpt: "Da der Bauch so langsam wächst und ich nicht mehr das Gefühl habe, dass er mit einem 'Da-haben-wir-im-Winter-wohl-etwas-zu-oft-aus-der-Keksdose-genascht'-Bauch verwechselt wird, habe ich mich endlich dazu durchringen können ein Foto von mir machen zu lassen. Der Krümmel-Papa hat den Fotoapparat gezückt und dann ging es los..."
 ---
 <figure>

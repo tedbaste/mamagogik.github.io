@@ -19,6 +19,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserLila.png
 excerpt: "Heute war ich zum Abschied auf meinem alten Arbeitsplatz eingeladen. Die Kinder aus dem Kinderheim (heutzutage Wohngruppe genannt) sollten die Möglichkeit haben, sich von mir zu verabschieden, nachdem ich vor ca. 11 Wochen überstürzt in das Beschäftigungsverbot gehen musste."
 sidebar: sidebar-about
 ---
@@ -40,7 +43,7 @@ Ich freue mich auf mein eigenes Kind, aber ich habe auch die Kinder aus der Wohn
 Ich war also sehr gespannt auf diesen Nachmittag.
 Ich wollte für die Kinder eine Kleinigkeit mitbringen, um die Situation ein bisschen aufzulockern und nicht nur negativ zu behaften.
 Ich fuhr vorher also noch in ein Spielwarengeschäft und schaute mich nach Gruppenspielen um.
-Da es für den Gruppenprozess und die sozialen Kompetenzen empfehlenswert ist, kommunikative Spiel auszuwählen, habe ich mich für das Spiel: Greg's Tagebuch - Eiermatsch entschieden.
+Da es für den Gruppenprozess und die sozialen Kompetenzen empfehlenswert ist, kommunikative Spiele auszuwählen, habe ich mich für das Spiel: Greg's Tagebuch - Eiermatsch entschieden.
 
 <figure>
 <img src="{{ site.url }}/images/eiermatsch-spiel.jpg" alt="eiermatsch-spiel" />

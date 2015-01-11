@@ -17,6 +17,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 ---
 <figure>
   <img src="{{ site.url }}/images/bc3bccher.jpg" alt="bücher" />
@@ -61,7 +64,7 @@ Mein 'Rechenschieber' blickte von seinen Übungsaufgaben auf und sagte:
 
 > "Du sollst jetzt einen Schwangerschaftstest machen?"
 
-Scheinbar war ist doch Multitasking-Fähig und konnte somit aus dem Kontext meines vorangegangenen Telefonats berechnen, was nun Sache war.
+Scheinbar war er doch Multitasking-Fähig und konnte somit aus dem Kontext meines vorangegangenen Telefonats berechnen, was nun Sache war.
 Ich winkte ab und sagte:
 
 >"Ja, aber warum sollte ich schwanger sein?

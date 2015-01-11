@@ -7,6 +7,8 @@ published: True
 comments: True
 ads: false
 sidebar: sidebar-about
+image:
+  teaser: TeaserGelb.png
 ---
 Weihnachten ist vorbei und somit auch das große Schlemmen. Ich habe soviel gesündigt, dass es absolut unnötig wäre, darüber zu referieren.
 

@@ -21,8 +21,10 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
 excerpt: "Da schreibe ich vor ein paar Tagen noch über mein Anfänger-Baby und von einen über den anderen Tag: Zack - Wer hat mein Baby geklaut und gegen diese nimmersatte Raupe ersetzt, die nur noch quengelig ist und sich keinen Moment ablegen lässt?"
+sidebar: sidebar-about
+image: 
+  teaser: TeaserMint.png
 ---
 
 <figure>
@@ -34,6 +36,8 @@ Da schreibe ich vor ein paar Tagen noch über mein Anfänger-Baby und von einen 
 Seit ein paar Tagen erkenne ich die Milchschnute gar nicht mehr. War sie doch vorher so leicht zufrieden zu stellen, quengelt sie jetzt nur noch rum. Sie schläft nur noch an der Brust ein und dann auch allerhöchstens für 2 Stunden. Dann aber auch sehr unruhig. Ist sie wach, möchte sie entweder getragen werden oder direkt wieder an die Brust. Getragen? Bitte nur über die Schulter blickend, sodass man in der Weltgeschichte umherschauen kann. Es macht mir zwar Spaß ihr dabei zu zu schauen wie sie die Welt entdeckt, aber wenn wir sie dann doch mal in ihrer Position verändern, gibt es gleich Gemecker.
 
 Tragetuch? War bis vor ein paar Tagen total hip. Jetzt bitte nur noch, wenn in der Wickel-Kreuztrage das Köpfchen von der Mama gestützt wird, sodass die Milchschnute die Mama anschauen kann oder in der Weltgeschichte umher schauen kann. Das Köpfchen auf der Brust, eingeschlagen ins Tuch? Nicht mit uns. Somit ist das Tragetuch zur Zeit auch nur bedingt eine Hilfe, denn wenn ich mit einer Hand das Köpfchen Stützen muss, hab ich auch nur eine Hand frei. Und habt ihr euch mal mit einer Hand ein Brot geschmiert? Naja, Brot und Küche sehen hinterher sehr kreativ aus...
+
+{% include toc.html %}
 
 ## Was ist denn hier los?
 

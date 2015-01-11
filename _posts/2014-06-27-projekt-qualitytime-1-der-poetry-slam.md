@@ -26,6 +26,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserLila.png
 excerpt: "Als Kriterium für diese wertvolle Zeit stand, dass wir (mind.) einmal pro Woche gemeinsam etwas unternehmen, was uns beiden Spaß macht. Auf diese Weise wollen wir unsere Beziehung nochmal intensiver pflegen, bevor wir dann bald zu dritt sind und es mit Sicherheit Zeiten geben wird, bei denen die Beziehung etwas auf der Strecke bleibt. Wir tanken also nochmal Liebeskraft!"
 ---
 <figure>
@@ -41,7 +44,7 @@ Als Kriterium für diese wertvolle Zeit stand, dass wir (mind.) einmal pro Woche
 ## Die Dichter der Neuzeit
 
 Wir waren gestern also hier bei uns in Aachen zum Poetry Slam der Fachschaft für Kommunikationswissenschaften an der RWTH.
-Für die Leute, die so eine Veranstaltung nicht kennen: ein Poetry Slam ist ein Event bei dem verschiedene Lyriker, Dichter, Wortkünstler in einem Wettstreit gegeneinander antreten und dem Publikum in einer vorgegebenen Zeit eigene Texte vortragen. Das können Gedichte, Kurzgeschichten, Prosa, Rap oder Comedy-Texte sein. Nähere Infos gibt es bei [Wikipedia](http://de.wikipedia.org/wiki/Poetry_Slam) für euch zum nachlesen. Wer also glaubt Shakespeare wäre out, der liegt absolut falsch. Es gibt immer noch eine Menge Menschen, die eine Leidenschaft für die Sprache und die Lyrik haben. 
+Für die Leute, die so eine Veranstaltung nicht kennen: ein Poetry Slam ist ein Event bei dem verschiedene Lyriker, Dichter, Wortkünstler in einem Wettstreit gegeneinander antreten und dem Publikum in einer vorgegebenen Zeit eigene Texte vortragen. Das können Gedichte, Kurzgeschichten, Prosa, Rap oder Comedy-Texte sein. Nähere Infos gibt es bei <a href="http://de.wikipedia.org/wiki/Poetry_Slam" rel="nofollow">Wikipedia</a> für euch zum nachlesen. Wer also glaubt Shakespeare wäre out, der liegt absolut falsch. Es gibt immer noch eine Menge Menschen, die eine Leidenschaft für die Sprache und die Lyrik haben. 
 
 ## Worte verbinden...
 

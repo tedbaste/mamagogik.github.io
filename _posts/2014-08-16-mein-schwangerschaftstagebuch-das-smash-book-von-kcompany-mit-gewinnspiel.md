@@ -26,6 +26,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 ---
 Auch wenn meine Schwangerschaft nun schon so ziemlich das letzte Level erreicht hat, möchte ich euch heute mein Schwangerschaftstagebuch vorstellen. Ich freue mich außerdem, dass ich euch verkünden kann, dass ihr am Ende des Posts eine nette Kleinigkeit gewinnen könnt.
 

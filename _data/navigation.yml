@@ -3,12 +3,12 @@
 - title: About
   url: /about/
   excerpt: "Über mich und diesen Blog"
-  image: Mamagogik-default-teaser.png
+  image: NavigationAbout.png
 
 - title: Artikel
   url: /artikel/
   excerpt: "Meine Artikel"
-  image: Mamagogik-default-teaser.png
+  image: NavigationArtikel.png
 
 - title: Blogosphäre
   url: /blogosph-re/

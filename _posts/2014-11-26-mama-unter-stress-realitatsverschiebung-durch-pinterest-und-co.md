@@ -18,7 +18,9 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserLila.png
 ---
 <figure>
   <img src="{{ site.url }}/images/social-media-423857_1280.jpg" alt="socialmediachalkboard" />
@@ -88,4 +90,4 @@ Was können wir also tun, damit wir nicht weiterhin gefangen sind, in einer Real
   <img src="{{ site.url }}/images/social-media-488886_1280.jpg" alt="socialmediacubes" />
 </figure>
 
-Bildquelle: [pixabay.com](http://www.pixabay.com)
+Bildquelle: <a href="http://www.pixabay.com" rel="nofollow">pixabay.com</a>

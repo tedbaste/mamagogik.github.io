@@ -20,6 +20,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserGelb.png
 excerpt: Wir kommen gerade aus dem Hospital zurück und ich bin wirklich froh, dass alles wieder gut ist und ich beruhigt die Nacht angehen kann.
 ---
 <figure>
@@ -61,5 +64,4 @@ Das Wichtigste außerdem: der Krümelinchen-Papa war mir ein toller Begleiter. E
 
 Dafür danke ich ihm von Herzen. Er ist ein toller Partner und er wird ein ganz toller Papa <3
 
-<a href="http://www.bloglovin.com/blog/12328027/?claim=jx33jweysb7">Follow my blog with Bloglovin</a>
 

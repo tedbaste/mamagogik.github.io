@@ -14,10 +14,10 @@ status: publish
 type: post
 published: true
 ads: false
-excerpt: "Wenn ihr diesen Blog regelmäßig verfolgt, wisst ihr, dass die kleine Milchschnute es sehr eilig hatte uns kennen zu lernen. Da ist im Grunde auch nichts verwerfliches dran, allerdings kam die Trulla leider genau zwei Tage vor meiner geplanten Babyparty und brachte mich somit, um einen schönen Tag mit meinen Freundinnen und Verwandten und: um ein paar Geschenke (ich nehme es ihr nicht übel, allerdings erwarte ich am Muttertag eine große Entschädigung von ihr!)."
+excerpt: "Bevor es zu meiner Babyparty kommen sollte, hatte ich hier im Blog bereits meinen Wunschzettel veröffentlicht und über einige Dinge konnte ich mich dann als Geschenk zur Geburt freuen. Allerdings hatten wir uns, aufgrund der entfallenen Babyparty, leider nicht um eine Babybadewanne gekümmert."
 image:
   teaser: flexibathwzartikelbild.png
-toc: true
+sidebar: sidebar-about 
 ---
 {: .notice}
 sponsored Post
@@ -30,7 +30,7 @@ Bevor es zu meiner Babyparty kommen sollte, hatte ich [hier]({{ site.url }}/must
 	<img src="{{ site.url }}/images/flexibathwz.png" alt="FlexibathWZ" />
 </figure>
 
-Um so mehr habe ich mich vor einigen Wochen über eine Mail von der lieben Lara Keuthen aus der Presseabteilung von Stokke gefreut, in der sie mir das [Stokke FlexiBath mit Newborn-Einsatz](http://www.stokke.com/DEU/de-de/kinderzimmer/stokke-flexibath/3288.html) zum Testen anbot. Da ich mir die Badewanne ja bereits zur Babyparty gewünscht hatte, nahm ich das Angebot freudig an.
+Um so mehr habe ich mich vor einigen Wochen über eine Mail von der lieben Lara Keuthen aus der Presseabteilung von Stokke gefreut, in der sie mir das <a href="http://www.stokke.com/DEU/de-de/kinderzimmer/stokke-flexibath/3288.html" rel="nofollow">Stokke FlexiBath mit Newborn-Einsatz</a>zum Testen anbot. Da ich mir die Badewanne ja bereits zur Babyparty gewünscht hatte, nahm ich das Angebot freudig an.
 
 Nun sind ein paar Wochen vergangen und wir haben die Badewanne ausgiebig und mit viel Spaß getestet und wir finden sie genauso toll, wie wir es uns vorgestellt haben. Das möchte ich euch nicht vorenthalten:  
 

@@ -28,7 +28,9 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserPink.png
 ---
 Heute war es tatsächlich so weit: als ich aufwachte, war der Platz neben mir leer. Weder Kissen noch Mann waren anwesend und das, obwohl wir zusammen ins Bett gegangen waren und heute morgen auch keine Termine anstanden. Ich konnte mir denken, wo er war und warum er lieber woanders schlief...
 
@@ -43,6 +45,8 @@ Eigentlich gibt es daran ja auch nichts verwerfliches. Es gibt sie sicher, die p
 Allerdings geht es mir hier um die breite Masse, von der ich glaube, zu wenig gesprochen bzw. geschrieben wird. So wie Anna und Janina schon geschrieben haben: entweder können sich die Frauen nicht mehr daran erinnern, weil die Muttergefühle nach der Schwangerschaft einfach so überwältigend waren, oder sie nehmen Rücksicht auf ihre Umwelt, weil sie davon ausgehen, dass niemand gern eine schwangere Frau klagen hören möchte. Das passt nicht ins Bild, ihr versteht?!
 
 Jedenfalls habe ich mir nun gedacht, auch nach den jüngsten Ereignissen am heutigen morgen: ich berichte mal, wie die Schwangerschaft auch sein kann, so völlig real und ohne Glitzer und Konfetti.
+
+{% include toc.html %}
 
 ### 10 Dinge die das Rosa aus der Schwangerschaft nehmen
 

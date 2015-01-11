@@ -20,12 +20,17 @@ type: post
 published: true
 ads: false
 excerpt: "Als ich jünger war, hab ich meine Mutter oft gefragt, wie das mit der Geburt so ist. Wie sehr tut es weh in den Wehen zu liegen? Wie sehr schmerzt es, wenn das Köpfchen DA durchtritt?"
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserGelb.png
+
 ---
 Liebe Milchschnute,  
 solltest du diesen Artikel jemals lesen, möchte ich dir gern sagen:  
 **SPARE IMMER FLEIßIG FÜR MEIN MUTTERTAGS-GESCHENK!**
 {: .notice}
+
+{% include toc.html %}
 
 ## Noch so ein Mutterschaftskodex?
 

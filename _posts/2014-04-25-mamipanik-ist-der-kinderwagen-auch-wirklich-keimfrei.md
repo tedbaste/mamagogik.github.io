@@ -17,6 +17,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 excerpt: "So, da war ich also schwanger und hatte ab dem Moment jede Menge Zeit. Ich klickte mich aus lauter Langeweile bereits in den ersten Tagen durchs Internet, auf der Suche nach Kinderzimmereinrichtungstipps, Trends für Babykleidung und Kinderwagen... Ja, Kinderwagen! Hätte mir da schon jemand gesagt, dass es scheinbar schwieriger ist, den richtigen Kinderwagen zu finden, als einen PKW-Neuwagen, dann wäre ich wahrscheinlich entspannter an die Sache heran gegangen..."
 ---
 <figure>
@@ -40,9 +43,9 @@ Die Mamagogin ist aber ein Herzmensch und ihr Herz schlägt einfach bei schönen
 
 Ja, und so war das dann auch bei der Qual des Kinderwagens.
 Als der Krümmel-Papa sah, dass ich mir meine Langeweile damit vertrieb, Kinderwagen anzuschauen, nutzte er kurzerhand also seine selbstverordnete Lernpause um das Netz umzukrempeln.
-Während ich mir noch Retrokinderwagen mit Weißwandrädern ansah und völlig dahin schmolz, spukte die Suchmaschine einen Schreibtisch weiter den [Ökotest von 2009](http://www.test.de/Kinderwagen-10-von-14-sind-mangelhaft-1801766-0/) aus. Und damit konnte das Drama beginnen:
+Während ich mir noch Retrokinderwagen mit Weißwandrädern ansah und völlig dahin schmolz, spukte die Suchmaschine einen Schreibtisch weiter den <a href="http://www.test.de/Kinderwagen-10-von-14-sind-mangelhaft-1801766-0/" rel="nofollow">Ökotest von 2009</a> aus. Und damit konnte das Drama beginnen:
 
-Wir waren geschockt von den Testergebnissen, die ergaben dass viele, auch namhafte, Kinderwagen Hersteller Materialien für die Kinderwagen verwendete, die durch den Schadstofftest gefallen waren. Für uns stand fest, unser Kind nicht in eine Dunstglocke von krebserregenden Giftstoffen legen zu wollen. Wir klickten uns also durchs große Netz, lasen Rezensionen, weitere Testergebnisse und stießen auf den Hersteller [Naturkind](http://www.naturkind-kinderwagen.de). Dieser Kinderwagen besteht nur aus Naturmaterialien und ist vollkommen Schadstofffrei. Wir sahen uns gemeinsam die verschiedenen Modelle an und lasen uns die Informationen durch. Es klang alles sehr vernünftig und wir hätten uns verantwortungslos gefühlt, hätten wir eines dieser billigen Asien-Produkte gewählt, die es bereits für etwas über 200€ in einem bekannten Auktionshaus gibt. Denn Rezensionen zu Folge mussten diese Kinderwagen sogar bis zu 3 Wochen auslüften, um den giftigen Plastikgeruch auch nur ansatzweise zu verbannen.
+Wir waren geschockt von den Testergebnissen, die ergaben dass viele, auch namhafte, Kinderwagen Hersteller Materialien für die Kinderwagen verwendete, die durch den Schadstofftest gefallen waren. Für uns stand fest, unser Kind nicht in eine Dunstglocke von krebserregenden Giftstoffen legen zu wollen. Wir klickten uns also durchs große Netz, lasen Rezensionen, weitere Testergebnisse und stießen auf den Hersteller <a href="http://www.naturkind-kinderwagen.de" rel="nofollow">Naturkind</a>. Dieser Kinderwagen besteht nur aus Naturmaterialien und ist vollkommen Schadstofffrei. Wir sahen uns gemeinsam die verschiedenen Modelle an und lasen uns die Informationen durch. Es klang alles sehr vernünftig und wir hätten uns verantwortungslos gefühlt, hätten wir eines dieser billigen Asien-Produkte gewählt, die es bereits für etwas über 200€ in einem bekannten Auktionshaus gibt. Denn Rezensionen zu Folge mussten diese Kinderwagen sogar bis zu 3 Wochen auslüften, um den giftigen Plastikgeruch auch nur ansatzweise zu verbannen.
 
 <figure>
   <img src="{{ site.url }}/images/lotus-312768_150.png" alt="umweltfreundlich" />
@@ -51,7 +54,7 @@ Wir waren geschockt von den Testergebnissen, die ergaben dass viele, auch namhaf
 Ein paar Tage später wollten wir den Kinderwagen austesten und da wir sowieso in der Nähe waren, fuhren wir nach Essen in den Laden, der die Natukind-Kinderwagen ausstellte.
 Wir probierten beide Modelle aus und einigten uns gemeinsam, dass ein Wagen mit Schwenkrädern dann doch einfacher zu führen sei. Hiermit kommt man ganz leicht um jede Ecke und wenn sie sich feststellen lassen, kann man damit sogar über unebene Straßen bzw. Waldwege. Der Retrokinderwagen mit den großen Luftreifen war also gestorben :(
 
-Der einzige Nachteil an dem Öko-Kinderwagen, neben dem hohen Preis, war das Outfit mit dem die Modelle da aufkreuzten. Irgendwie sagte mir kein Muster und keine Farbgebung zu. Natürlich war es klar, dass die Farben nicht grell leuchteten, da es Naturfarben sind, die zum einfärben des Materials benutzt werden, aber ich wollte mich auch nicht zu schnell satt sehen und den Kinderwagen dann leid sein, wenn er doch täglich in Gebrauch sein würde.
+Der einzige Nachteil an dem Öko-Kinderwagen, neben dem hohen Preis, war das Outfit mit dem die Modelle da aufkreuzten. Irgendwie sagte mir kein Muster und keine Farbgebung zu. Natürlich war es klar, dass die Farben nicht grell leuchteten, da es Naturfarben sind, die zum Einfärben des Materials benutzt werden, aber ich wollte mich auch nicht zu schnell satt sehen und den Kinderwagen dann leid sein, wenn er doch täglich in Gebrauch sein würde.
 Der Krümmel-Papa konnte das Ganze nicht so recht verstehen, schließlich ist es doch nur ein Kinderwagen - der muss seinen Zweck erfüllen.
 Ich finde jedoch, wenn ich das Ding täglich vor mir her schiebe, sollte es doch auch nett aussehen. Ist doch irgendwie, wie eine Handtasche - mit der man das Baby transportiert, oder nicht?!
 
@@ -62,7 +65,7 @@ Ich begann darüber nachzudenken, ob das Öko-Siegel nicht doch nur das andere E
   <img src="{{ site.url }}/images/c3b6kotex.jpg" alt="ökotex" />
 </figure>
 
-Ich erkundigte mich also weiter und stieß auf das Siegel [Ökotex Standard 100](https://www.oeko-tex.com/de/manufacturers/concept/oeko_tex_standard_100/oeko_tex_standard_100.xhtml). Ein Zertifikat, das Produkte auf ihre Gesundheitunbedenklichkeit prüft. Und bei Babyartikeln besonders hohe Kriterien stellt.
+Ich erkundigte mich also weiter und stieß auf das Siegel <a href="https://www.oeko-tex.com/de/manufacturers/concept/oeko_tex_standard_100/oeko_tex_standard_100.xhtml" rel="nofollow">Ökotex Standard 100</a>. Ein Zertifikat, das Produkte auf ihre Gesundheitunbedenklichkeit prüft. Und bei Babyartikeln besonders hohe Kriterien stellt.
 Und siehe da, einige namhafte Kinderwagenhersteller und deren Modelle waren mit diesem Siegel versehen worden. So könnten wir uns letztendlich doch mit ruhigem Gewissen einige Kinderwagen anschauen, die auch etwas modischer aussahen, leicht zu Händeln waren und trotzdem nicht aus krebserregenden Stoffen hergestellt werden. Na und die Babykleidung wird ein paar Mal gewaschen, wenn sie neu sind oder eben gebraucht gekauft :wink:
 
 Das Wichtigste für mich war jedoch, dass ich dadurch irgendwie doch meiner Linie treu bleiben konnte und nicht jetzt schon zu irgendeiner panikverbreitenden Mama geworden bin, die es manchmal einfach ein bisschen zu eng sieht.

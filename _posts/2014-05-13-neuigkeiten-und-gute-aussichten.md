@@ -20,6 +20,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserLila.png
 excerpt: "Leider hatte ich in den vergangenen 2 Wochen kaum Zeit, um ein bisschen auf die Tastatur einzuhämmern. Meine Mutter kam für einige Tage zu Besuch, der Krümmelpapa und ich haben einen Wochenend-Trip nach Brüssel gemacht und ich habe ein bisschen was gebastelt, da mein kleiner Cousin bald zur Welt kommt und ich meiner Tante eine kleine Überraschung kredenzen wollte."
 ---
 <figure>

@@ -27,6 +27,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserMint.png
 excerpt: "In zahlreichen Eltern-Foren, Zeitschriften oder Spielplatz-Gesprächen taucht ein bestimmtes Thema seit einiger Zeit immer häufiger auf: Das Tragen."
 ---
 <figure>
@@ -124,8 +127,8 @@ Vor ein paar Wochen hat mir meine Trageberaterinnen-Tätigkeit eine Reise nach P
 Der größte Lohn und eine unheimliche Bestätigung ist es, wenn ich wieder einer Familie weiterhelfen konnte, wenn ein neuer Tragling seelig am Körper von Mama oder Papa einschlummert und ich später Rückmeldungen bekomme, wie sehr das Neugelernte den Alltag der jungen Familien erleichtert und bereichert.
 
 
-Wenn ihr euch näher über Kathrins Arbeit informieren möchtet, könnt ihr das hier auf ihrer [Homepage](http://www.wunderbar-geborgen.de) tun. Außerdem empfiehlt Kathrin für weitere Informationen folgende Seiten:
+Wenn ihr euch näher über Kathrins Arbeit informieren möchtet, könnt ihr das hier auf ihrer <a href="http://www.wunderbar-geborgen.de" rel="nofollow">Homepage</a> tun. Außerdem empfiehlt Kathrin für weitere Informationen folgende Seiten:
 
-* [Wunderbar geborgen auf Facebook](https://www.facebook.com/WunderbarGeborgen)
-* [Tragenetzwerk](http://www.tragenetzwerk.de)
-* [Stillen und Tragen Form](http://www.stillen-und-tragen.de/forum/)
+* <a href="https://www.facebook.com/WunderbarGeborgen" rel="nofollow">Wunderbar geborgen auf Facebook</a>
+* <a href="http://www.tragenetzwerk.de" rel="nofollow">Tragenetzwerk</a>
+* <a href="http://www.stillen-und-tragen.de/forum/" rel="nofollow">Stillen und Tragen Form</a>

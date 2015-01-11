@@ -24,7 +24,9 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 ---
 Vor neun Monaten arbeitete ich noch in Vollzeit als Sozialpädagogin in einer Wohngruppe für traumatisierte Kinder und Jugendliche. Ich arbeitete in 24-Std.-Schichten, machte häufig Überstunden und hatte oftmals das Gefühl, mehr Zeit auf der Arbeit als Zuhause zu verbringen.
 

@@ -4,11 +4,17 @@ title: Was bisher geschah... Teil 3 oder Ein bisschen schwanger geht nicht
 date: 2014-04-15 13:54:21.000000000 +02:00
 categories:
 - "Private Einblicke"
-tags: []
+tags: 
+- Familie
+- Gefühle
+- Schwangerschaft
 status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserGelb.png
 excerpt: "Nachdem ich nun wusste, wie das Ding funktionierte, legte ich die Packung des Schwangerschaftstests zur Seite und tat meinen Job :wink:"
 ---
 <figure>

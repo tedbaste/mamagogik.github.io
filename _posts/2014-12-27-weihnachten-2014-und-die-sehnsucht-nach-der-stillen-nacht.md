@@ -16,7 +16,7 @@ ads: false
 comments: true
 sidebar: sidebar-about
 image:
-  teaser: frohe-weihnachten.png
+  teaser: TeaserMint.png
 ---
 Und da ist Weihnachten auch schon wieder vorbei. Das erste Weihnachten der Milchschnute. Unser erstes Weihnachten zu dritt.
 

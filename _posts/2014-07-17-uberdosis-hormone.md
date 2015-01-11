@@ -19,6 +19,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserLila.png
 excerpt: Im Moment ist mein Nervenkleid so dünn wie ein Negligé. Ein überaus Reizbares!
 ---
 <figure>

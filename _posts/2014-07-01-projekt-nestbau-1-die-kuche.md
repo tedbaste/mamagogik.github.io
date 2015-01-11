@@ -18,6 +18,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserGelb.png
 excerpt: "Unser erstes Projekt zum Thema Nestbau stand also in der vergangenen Woche ganz im Zeichen der Verschönerung unserer Küche."
 ---
 <figure>
@@ -68,7 +71,7 @@ Da wir in der neuen Küche mehr Platz haben, fehlen uns für die Küche noch Üb
 	<figcaption>Die Bilder in den Bilderrahmen sind zum Teil selbst erstellt.</figcaption>
 </figure>
 
-Das Bild in der Mitte oben (siehe auch unten noch einmal) habe ich bei Dawanda in dem Shop [InkDrip](http://de.dawanda.com/product/60352799-In-unserem-zuhause-Hausordnung-A3-o-A4) bestellt. Ich fand den Spruch so schön und auch passend, dass ich es unbedingt bestellen musste. Beim Lesen kam direkt ein schönes Gefühl auf, mit dem ich mich identifziere und ich mir wünsche, dass unsere kleine Familie genau danach lebt.
+Das Bild in der Mitte oben (siehe auch unten noch einmal) habe ich bei Dawanda in dem Shop <a href="http://de.dawanda.com/product/60352799-In-unserem-zuhause-Hausordnung-A3-o-A4" rel="nofollow">InkDrip</a> bestellt. Ich fand den Spruch so schön und auch passend, dass ich es unbedingt bestellen musste. Beim Lesen kam direkt ein schönes Gefühl auf, mit dem ich mich identifziere und ich mir wünsche, dass unsere kleine Familie genau danach lebt.
 
 <figure>
 	<img src="{{ site.url }}/images/bildzuhause.jpg" alt="Bild Zuhause" />

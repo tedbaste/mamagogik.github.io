@@ -17,6 +17,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserGelb.png
 excerpt: "Ich befinde mich nun in der 32. SSW und hatte gestern Mittag einen Termin zur Vorsorge bei meiner Frauenärztin. Ich hatte zuvor wieder Unterleibschmerzen und erzählte der Arzthelferin davon."
 ---
 {% include toc.html %}

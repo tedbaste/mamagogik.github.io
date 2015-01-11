@@ -22,6 +22,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 excerpt: Das Thema Achtsamkeit kam mir damals das erste Mal entgegen, als ich begann mich mit meinem Burn-Out zu beschäftigen und mich fürs Yoga zu interessieren.
 ---
 
@@ -86,5 +89,5 @@ Bis dahin,
 
 eure Sarah
 
-Bildquelle: [pixabay.com](http://www.pixabay.com)
+Bildquelle: <a href="http://www.pixabay.com" rel="nofollow">pixabay.com</a>
 

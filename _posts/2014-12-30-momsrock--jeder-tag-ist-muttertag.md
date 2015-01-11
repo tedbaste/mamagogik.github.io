@@ -8,6 +8,8 @@ comments: true
 ads: false
 sidebar: sidebar-about
 excerpt: "Es ist also an der Zeit um einmal ein kollektives Schulterklopfen zu starten und ich reihe mich da gerne ein."
+image:
+  teaser: TeaserBlau.png
 ---
 
 <figure>

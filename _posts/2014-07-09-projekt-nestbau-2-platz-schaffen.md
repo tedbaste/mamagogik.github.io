@@ -17,7 +17,9 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserPink.png
 excerpt: "Wenn eine Vogelmutter ein Nest bauen möchte, sucht sie sich eine geeignete Stelle, die genügend Platz für das geplante Nest hergibt."
 ---
 <figure>

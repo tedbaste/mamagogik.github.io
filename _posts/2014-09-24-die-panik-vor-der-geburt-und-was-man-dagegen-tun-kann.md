@@ -18,13 +18,9 @@ status: publish
 type: post
 published: true
 ads: false
-author:
-  login: mamagogik
-  email: Sarah.Lojewski@googlemail.com
-  display_name: mamagogik
-  first_name: ''
-  last_name: ''
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserMint.png
 ---
 Bevor ich meinen Bericht über die Sturzgeburt zum Besten geben werde, möchte ich euch einen Artikel nicht vorenthalten, den ich eigentlich noch vor der Geburt der Milchschnute veröffentlichen wollte...
 

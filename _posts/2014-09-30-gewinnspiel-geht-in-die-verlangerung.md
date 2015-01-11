@@ -14,8 +14,11 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image: 
+  teaser: TeaserBlau.png
 ---
-Vor einigen Wochen habe ich euch mein [Schwangerschaftstagebuch]({{ site.url }}/mein-schwangerschaftstagebuch-das-smash-book-von-kcompany-mit-gewinnspiel) vorgestellt. Im Zuge dessen habe ich ein kleines Gewinnspiel geschaltet, in dem ihr ein [Stempelset der Firma Project Life](http://www.danipeuss.de/index.php?page=shop.product_details&amp;flypage=flypage.tpl&amp;product_id=40851&amp;category_id=583&amp;option=com_virtuemart&amp;Itemid=640) gewinnen könnt, welches mir der Internetshop [danipeuss.de](http://www.danipeuss.de/) netterweise zur Verfügung stellt.
+Vor einigen Wochen habe ich euch mein [Schwangerschaftstagebuch]({{ site.url }}/mein-schwangerschaftstagebuch-das-smash-book-von-kcompany-mit-gewinnspiel) vorgestellt. Im Zuge dessen habe ich ein kleines Gewinnspiel geschaltet, in dem ihr ein <a href="http://www.danipeuss.de/index.php?page=shop.product_details&amp;flypage=flypage.tpl&amp;product_id=40851&amp;category_id=583&amp;option=com_virtuemart&amp;Itemid=640" rel="nofollow">Stempelset der Firma Project Life</a>	gewinnen könnt, welches mir der Internetshop <a href="http://www.danipeuss.de/" rel="nofollow">danipeuss.de</a>netterweise zur Verfügung stellt.
 
 <figure>
   <img src="{{ site.url }}/images/klartext_stempel_53ad937dad4b2.jpg" alt="Stempelset Project Life" />

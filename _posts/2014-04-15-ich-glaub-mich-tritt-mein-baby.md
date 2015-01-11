@@ -14,6 +14,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserMint.png
 ---
 Ich werd verrückt, ich hab dich zum ersten mal gespürt!
 Ich lag soeben auf dem Sofa und da war es plötzlich...

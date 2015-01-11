@@ -13,6 +13,9 @@ type: post
 published: true
 ads: false
 excerpt: "Diese Zuckerschnute rockte mit mir in nur 4 Stunden den Kreißsaal und kam auf natürlichem Wege heute morgen um 06.28 Uhr zur Welt!!!"
+sidebar: sidebar-about
+image:
+   teaser: TeaserLila.png 
 ---
 <figure>
 	<img src="{{ site.url }}/images/img_4562.jpg" alt="Milchschnute" />

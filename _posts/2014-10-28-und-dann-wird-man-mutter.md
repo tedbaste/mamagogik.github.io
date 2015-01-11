@@ -17,6 +17,9 @@ type: post
 published: true
 ads: false
 excerpt: "Mit der Bindung ist das so: Man wird geboren und gewöhnt sich an seine Mutter und seinen Vater. Man liebt sie über alles und ist so abhängig von ihnen, dass man keine Sekunde ohne sie sein kann bzw. möchte."
+sidebar: sidebar-about
+image:
+  teaser: TeaserGelb.png
 ---
 <figure>
 	<img src="{{ site.url }}/images/nest-241910_1280.jpg" alt="vogelnest" />
@@ -83,5 +86,5 @@ Bis bald,
 eure Sarah
 
 
-Bildquellen: [pixabay.com](http://www.pixabay.com)
+Bildquellen: <a href="http://www.pixabay.com" rel="nofollow">pixabay.com</a>
 

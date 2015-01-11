@@ -22,6 +22,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserLila.png
 excerpt: "Es gibt Tage, da mache ich mir sehr viele Gedanken und Sorgen. Ich frage mich, ob das Baby gesund ist? Wie es wohl sein wird, wenn das Krümelinchen da ist? Ob ich vielleicht vergessen werde, die Ohren regelmäßig sauber zu halten? Und wie ich in Stresssituationen reagieren werde?"
 ---
 <figure>
@@ -52,7 +55,7 @@ Außerdem kann eine frühe glückliche Kindheit und eine sichere Bindung (Bondin
 
 ## Was bedeutet (pränatales) Bonding eigentlich genau? 
 
-Seit meinem Studium läuft mir die Bindungstheorie immer mal wieder über den Weg. Besonders in der Traumapädagogik ist sie ein großes Thema, wenn es darum geht, den Kindern stärkende Faktoren an die Hand zu geben. Auf dem Blog von Herzmutter.de könnt ihr einen sehr interessanten [Artikel](http://www.herzmutter.de/familie/120-mein-kind-soll-mutig-und-selbstbewusst-werden) über das Bonding nach der Schwangerschaft lesen. Da ich aber noch nicht so weit bin, wollte ich wissen, ob es Erkenntnisse über pränatales Bonding gibt und was das für mich und mein Baby bedeuten kann. 
+Seit meinem Studium läuft mir die Bindungstheorie immer mal wieder über den Weg. Besonders in der Traumapädagogik ist sie ein großes Thema, wenn es darum geht, den Kindern stärkende Faktoren an die Hand zu geben. Auf dem Blog von Herzmutter.de könnt ihr einen sehr interessanten <a href="http://www.herzmutter.de/familie/120-mein-kind-soll-mutig-und-selbstbewusst-werden" rel="nofollow">Artikel</a> über das Bonding nach der Schwangerschaft lesen. Da ich aber noch nicht so weit bin, wollte ich wissen, ob es Erkenntnisse über pränatales Bonding gibt und was das für mich und mein Baby bedeuten kann. 
 
 Rainhild Schäfers, Hebamme und Autorin, legt in ihrem Buch zugrunde, dass die Bindungsforschung in den 50er/60er Jahren bewiesen hat, dass Babys, wenn sie zur Welt kommen, bereits mit Bindungsmerkmalen ausgestattet sind. Beispielsweise beruhigt der Herzschlag, die Stimme und die Wärme der Mutter das Kind, direkt nach der Geburt. Das Kind ist also in der Lage, vorgeburtliche Erfahrungen mit einem 'Wohlgefühl' ab zu speichern und auch nach der Geburt danach zu suchen.
 
@@ -113,11 +116,11 @@ Bevor ich es vergesse: Ich würde unheimlich gern wissen, wie ihr das so mit den
 
 ## Weitere lesenswerte Artikel und Berichte zu diesem Thema
 
-[urbia.de](http://www.gesundheit.de/familie/schwangerschaft/gesund-in-der-schwangerschaft/stress-bereits-im-mutterleib)
+<a href="http://www.gesundheit.de/familie/schwangerschaft/gesund-in-der-schwangerschaft/stress-bereits-im-mutterleib" rel="nofollow">urbia.de</a>
 
-[eltern.de](http://www.baby-und-familie.de/Schwangerschaft/Was-bekommt-das-Ungeborene-alles-mit-59765.html)
+<a href="http://www.baby-und-familie.de/Schwangerschaft/Was-bekommt-das-Ungeborene-alles-mit-59765.html" rel="nofollow">eltern.de</a>
 
-[schwangerschaftskonfliktberatung.info](http://schwangerschaftskonfliktberatung.info/infos/ueber-verschiedene-themen/dein-kind-im-mutterleib/index.html)
+<a href="http://schwangerschaftskonfliktberatung.info/infos/ueber-verschiedene-themen/dein-kind-im-mutterleib/index.html" rel="nofollow">schwangerschaftskonfliktberatung.info</a>
 
 Brazelton, Berry; Cramer, Bertrand: Die frühe Bindung - Die erste Beziehung zwischen dem Baby und seinen Eltern; 1991; Stuttgart - Ernst Klett Verlag
 

@@ -14,6 +14,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserBlau.png
 excerpt: "In den zwei Tagen, in denen wir auf die Untersuchung durch den FA warteten, musste ich meine Eltern, Schwiegereltern, meinen Bruder und natürlich den Papa von meinem möglichen Bauchbewohner immer wieder zur Vernunft bringen, da ich fand, das so ein Schwangerschaftstest, so ein komisches Ding aus Plastik, noch gar nichts beweisen würde."
 ---
 <figure>
@@ -36,7 +39,7 @@ Die Ärztin war sehr freundlich, befragte mich nach meinem Befinden und ich erz�
 
 Dann ab in den Untersuchungsraum. Der Krümmelpapa setzte sich auf einen Stuhl, neben dem Untersuchungsstuhl und sah nur noch happy aus.
 
-Und als wir da die kleine Erdnuss, unser Krümmelchen, auf dem Bildschirm sahen, da waren wir glaub ich die glücklichsten Menschen auf diesem Erdball. Wir hatten beide 'Pipi' in den Augen, er nahm meine Hand und das Gefühl wär einfach unglaublich. Alle Sorgen und Ängste, all das Chaos der vergangenen Tage; es war alles bedeutungslos. Alles war vollkommen klar und ohne jeden Zweifel:  
+Und als wir da die kleine Erdnuss, unser Krümmelchen, auf dem Bildschirm sahen, da waren wir glaub ich die glücklichsten Menschen auf diesem Erdball. Wir hatten beide 'Pipi' in den Augen, er nahm meine Hand und das Gefühl war einfach unglaublich. Alle Sorgen und Ängste, all das Chaos der vergangenen Tage; es war alles bedeutungslos. Alles war vollkommen klar und ohne jeden Zweifel:  
 **Wir bekommen ein Baby!**
 
 Zum Laborraum schwebte ich glaub ich, meine Brust war so voller Stolz und mein Herz voller Liebe. Und das ist nicht nur so daher geschrieben. Nie hatte ich so deutliche Gefühle in mir. Den Mutterpass trug ich wie eine Siegerurkunde mit mir. Blutabnehmen, wiegen? Ich hätte die Welt umarmen können!

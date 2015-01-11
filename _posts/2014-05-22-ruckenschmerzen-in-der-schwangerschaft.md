@@ -23,6 +23,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserMint.png
 excerpt: "Seit einigen Wochen klagen mich nun schon Rückenschmerzen, besonders im Lendenwirbelbereich. Morgens nach dem Aufstehen brauche ich meist so zwei Minütchen, bis ich in gerader Haltung laufen kann. Ich fühl mich echt wie eine Omi. Wenn ich mich dann ein wenig bewegt habe, geht es auch wieder, aber bei längerer Belastung (Stehen oder Gehen) bekomme ich wieder massive Beschwerden."
 ---
 <figure>
@@ -49,7 +52,7 @@ Aus diesem Grund habe ich auch als erstes mit ihr über meine Beschwerden gespro
 ## Das hilft
 
 ###### Stillkissen zur Lagerung
-Ich habe mir vor einigen Wochen ein großes Stillkissen gekauft. Zwar nimmt das Ding soviel Platz im Bett ein, dass wir andauernd das gefühl haben, es liegt noch eine dritte Person im Bett, ABER so können wir uns wenigstens schon einmal daran gewöhnen, dass wir bald eine kleine Trulla in unserem Bett haben werden, die mindestens so viel Platz einnehmen wird :wink:
+Ich habe mir vor einigen Wochen ein großes Stillkissen gekauft. Zwar nimmt das Ding soviel Platz im Bett ein, dass wir andauernd das Gefühl haben, es liegt noch eine dritte Person im Bett, ABER so können wir uns wenigstens schon einmal daran gewöhnen, dass wir bald eine kleine Trulla in unserem Bett haben werden, die mindestens so viel Platz einnehmen wird :wink:
 Zurück zum Stillkissen! Ich lege das übergroße Hörnchen entweder vor mich und lege das Bein, das oben liegt, angewinkelt auf das Kissen oder ich lege es hinter mich sodass ich mich halb gekippt dagegen lehnen kann, ohne im Schlaf plötzlich doch auf dem Rücken zu landen. Denn die Rückenlage im Schlaf hatte letztens zur Folge, dass ich einen ganz schlimmen Alptraum hatte, in dem ich merkte dass mein Herz schneller schlug und davon aufgewacht bin. Wahrscheinlich hat das Team Baby-Plazenta schön auf meine Pfortader gedrückt. Hierdurch bekommen wir Schwangeren dann nämlich einen erhöhten Blutdruck und Schwindelanfälle.
 
 ###### Massage

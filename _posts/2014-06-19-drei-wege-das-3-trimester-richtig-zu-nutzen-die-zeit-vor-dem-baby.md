@@ -28,6 +28,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserBlau.png
 excerpt: "Seit Montag bin ich offiziell in der 27. Schwangerschaftswoche und ich habe das Gefühl die Wochen verstreichen wie mit einem Wimpernschlag. Noch ca. 13 Wochen und wir haben unsere kleine Knutschkugel endlich bei uns."
 ---
 <figure>
@@ -57,5 +60,5 @@ Bis dahin,
 
 eure Sarah
 
-Fotoquelle: [pixabay.com](http://www.pixabay.com)
+Fotoquelle: <a href="http://www.pixabay.com" rel="nofollow">pixabay.com</a>
 

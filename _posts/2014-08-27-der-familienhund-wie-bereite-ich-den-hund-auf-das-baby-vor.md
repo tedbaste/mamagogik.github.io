@@ -15,7 +15,9 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserMint.png
 excerpt: "Im November 2013 zog bei uns ein kleines Labradormädchen ein: Leela. Da war an Familienplanung noch gar nicht zu denken."
 ---
 <figure>
@@ -37,6 +39,8 @@ Letztendlich haben nur zwei Dinge geholfen: Konsequenz und Geduld. Mittlerweile 
 </figure>
 
 Nichtsdestotrotz wird unser Zusammenleben bald auf den Kopf gestellt, sodass ich mich bereits vor einigen Monaten darauf vorbereitet habe, wie wir aus dem Leela-Launebär einen Familienhund machen können, sodass sie fit fürs Baby ist und wir wissen, worauf wir achten müssen.
+
+{% include toc.html %}
 
 <figure>
 	<img src="{{ site.url }}/images/image14.jpg" alt="Mindmap Schwangerschaft Hund" />

@@ -12,6 +12,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserBlau.png
 ---
 Die liebe Nadja vom Blog [kindundkoffer](http://www.kindundkoffer.com) hat mich nominiert und ich freue mich immer noch wie Bolle. Ich finde diesen Blog-Award schön, weil man dadurch die Gelegenheit bekommt sich selbst ein wenig vorzustellen und auch die Möglichkeit hat, andere kleine Blogs vorzustellen.
 
@@ -20,6 +23,8 @@ Die liebe Nadja vom Blog [kindundkoffer](http://www.kindundkoffer.com) hat mich 
 </figure>
 
 Aus diesem Grund beantworte ich gern die Fragen, die Nadja sich u.a. für den bloggenden Papa Sebastian vom Blog  [I am your father](http://www.iamyourfather.de), Lena vom Reise-Blog [Out and Indoor](http://www.outandindoor.wordpress.com) und natürlich für mich ausgedacht hat.
+
+{% include toc.html %}
 
 **1. Worum geht es in deinem Blog?**
 

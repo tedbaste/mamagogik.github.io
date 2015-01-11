@@ -21,6 +21,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserMint.png
 excerpt: "Soziale Bindungen sind für den Menschen unerlässlich. Wir streben danach uns Gruppen anzuschließen, die die gleichen Interessen haben und mit denen wir uns identifizieren können. Wir möchten uns austauschen und verstanden werden."
 ---
 <figure>
@@ -31,7 +34,7 @@ excerpt: "Soziale Bindungen sind für den Menschen unerlässlich. Wir streben da
 
 Soziale Bindungen sind für den Menschen unerlässlich. Wir streben danach uns Gruppen anzuschließen, die die gleichen Interessen haben und mit denen wir uns identifizieren können. Wir möchten uns austauschen und verstanden werden.
 
-Seitdem ich schwanger bin, sind meine Antennen zwangsläufig auf andere Jungmamis und schwangere Frauen im allgemeinen ausgerichtet. Das hat zum Einen sicherlich mit der [selektiven Wahrnehmung](http://de.wikipedia.org/wiki/Selektive_Wahrnehmung) zu tun, zum Anderen aber auch damit, dass ich nun einer neuen Gruppe angehöre: die Gruppe der schwangeren Frauen.
+Seitdem ich schwanger bin, sind meine Antennen zwangsläufig auf andere Jungmamis und schwangere Frauen im allgemeinen ausgerichtet. Das hat zum Einen sicherlich mit der <a href="http://de.wikipedia.org/wiki/Selektive_Wahrnehmung" rel="nofollow">selektiven Wahrnehmung</a> zu tun, zum Anderen aber auch damit, dass ich nun einer neuen Gruppe angehöre: die Gruppe der schwangeren Frauen.
 
 Natürlich möchte ich die Freund- und Bekanntschaften zu den noch "kinderlosen" und "unschwangeren" Leuten in meinem Umfeld weiterhin pflegen. Sie bringen mich auf andere Gedanken und bringen nicht nur die Rolle der Schwangeren in mir zum Vorschein, sondern lassen mich auch einfach nur 'Sarah' sein.
 
@@ -95,5 +98,5 @@ Ich werde euch jedenfalls gern auf dem Laufenden halten, wie es so um meine Dati
 
 Vielleicht könnt ihr mir ja auch etwas über das Kennenlernen von anderen Mamis berichten. Welche Strategie habt ihr? Verbindet euch nur das Eine: Mami sein, oder habt ihr auch andere Gemeinsamkeiten bei den Gleichgesinnten gefunden?
 
-Quelle der verwendeten Fotos [pixabay.com](http://www.pixabay.com)
+Quelle der verwendeten Fotos <a href="http://www.pixabay.com" rel="nofollow">pixabay.com</a>
 

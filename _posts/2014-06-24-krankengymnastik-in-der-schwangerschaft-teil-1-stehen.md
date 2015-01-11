@@ -16,6 +16,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 excerpt: "Der Physiotherapeut erklärte mir als erstes, dass meine Statik durch die Schwangerschaft verändert wird. Die Wirbelsäule wird logischerweise immer mehr belastet und der Schwerpunkt verlagert sich nach vorn. Dadurch fallen wir Schwangeren häufig in ein Hohlkreuz und machen den Rücken rund, um eine vermeintliche Entlastung zu schaffen."
 ---
 Zu Beginn möchte ich ausdrücklich darauf hinweisen, dass die Übungen, die im Text enthalten sind, nur Anregungen sein sollen und natürlich eine professionelle Betreuung nicht ersetzen können. Ich bin keine Physiotherapeutin, Ärztin oder habe sonst irgendeine medizinische Ausbildung. Ich möchte mit diesem Artikel lediglich mögliche Inhalte der Krankengymnastik während der Schwangerschaft vorstellen.

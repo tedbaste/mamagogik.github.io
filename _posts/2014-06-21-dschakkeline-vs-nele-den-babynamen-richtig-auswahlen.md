@@ -16,6 +16,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserPink.png
 excerpt: "Ich bin mit meinem Vornamen zufrieden. Ich finde er passt gut zu mir. Er ist kurz, klingt sanft und er bietet keine Möglichkeit zu blöden Verniedlichungen."
 ---
 <figure>
@@ -36,7 +39,7 @@ Wäre es also nach meinem Vater gegangen, wäre mir wohl eine Karriere als Softp
 
 > <cite>Andreas Hofer (1767-1810), Tiroler Freiheitskämpfer</cite>
 
-Wie Die Zeit vor einigen Monaten schon [berichtete](http://www.zeit.de/2014/01/namen-sympathie), haben Vornamen eine bestimmte Wirkung auf die Menschen. Jeder verknüpft eigene Erfahrungen und spezielle Attribute mit den jeweiligen Vornamen und das kann mitunter schon Einfluss darauf haben, ob wir jemanden sympathisch finden oder nicht.
+Wie Die Zeit vor einigen Monaten schon <a href="http://www.zeit.de/2014/01/namen-sympathie" rel="nofollow">berichtete</a>, haben Vornamen eine bestimmte Wirkung auf die Menschen. Jeder verknüpft eigene Erfahrungen und spezielle Attribute mit den jeweiligen Vornamen und das kann mitunter schon Einfluss darauf haben, ob wir jemanden sympathisch finden oder nicht.
 
 Ich gebe zu: Ich bin Jugendhilfe-geschädigt. Durch meinen Job als Sozialpädagogin zucke ich leider schon häufig zusammen, kommen mir Namen entgegen wie: Kevin, Justin, Cindy oder Jaqueline ( in meiner Heimat gern "Dschakkeline" gerufen, besonders vonne Omma ). Natürlich sind wir Pädagogen immer total vorurteilsfrei, objektiv und tragen ausschließlich Cord-Hosen.
 

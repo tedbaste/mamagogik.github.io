@@ -12,7 +12,9 @@ published: True
 ads: false
 comments: true
 sidebar: sidebar-about
-excerpt: "An meine liebe Freundin Ambition, ich schreibe dir, weil ich dich in der vergangenen Woche sehr stark vermisst habe. Als ich mein Projekt vor 3 Wochen gestartet habe, sagtest du, ich könne mich auf dich verlassen. Nur aus diesem Grund habe ich den Kampf mit meinem Erzfeind, den Schwangerschaftspfunden, aufgenommen."
+excerpt: "An meine liebe Freundin Ambition, ich schreibe dir, weil ich dich in der vergangenen Woche sehr stark vermisst habe. Als ich mein Projekt vor 3 Wochen gestartet habe, sagtest du, ich könne mich auf dich verlassen."
+image:
+  teaser: TeaserLila.png
 ---
 
 An meine liebe Freundin Ambition,

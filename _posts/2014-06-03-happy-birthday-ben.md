@@ -19,6 +19,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserOrange.png
 excerpt: "Das ist Ben, mein Baby-Cousin. Er wurde am 28. Mai um 19:46 Uhr geboren (3690g, 54 cm) und ist ein richtiger Schatz. Er scheint rundum zufrieden zu sein, schläft ruhig und lässt seine Mami sogar in der Nacht relativ viel schlafen. Ich hoffe nur, dass Ben keine unrealistischen Vorstellungen in mir weckt :wink:"
 ---
 Endlich komme ich dazu unser neues Familienmitglied vorzustellen:

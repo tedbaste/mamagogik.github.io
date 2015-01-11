@@ -13,11 +13,15 @@ status: publish
 type: post
 published: true
 ads: false
-toc: true
+sidebar: sidebar-about
+image:
+  teaser: TeaserPink.png
 ---
 In den vergangenen Tagen wurde ich gleich drei mal ausgezeichnet. Darüber freue ich mich wahnsinnig. Und zwischen Windeln wechseln, Milchbar öffnen und ins Traumland schuckeln komme ich nun endlich dazu die Fragen meiner werten Kolleginnen [tafjora](http://www.tafjora.blogspot.de), [Sarah Jane von zwergenzimmer](http://www.zwergenzimmer.wordpress.com) und die liebe [kaluepso](http://www.kaluepso.wordpress.com) zu beantworten.
 
 Ich fasse die Auszeichnungen von kaluepso und zwergenzimmer über den Liebster Award mal zusammennd bedanke mich bei den beiden für die Fragen, die ich gern nach besten Wissen und Gewissen beantworten werde:
+
+{% include toc.html %}
 
 ## Liebster Award von kaluepso
 

@@ -12,6 +12,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserBlau.png
 excerpt: "Nachdem ich gestern zur Vorsorgeuntersuchung musste, um den Gebärmutterhals kontrollieren zu lassen, wurden wir auf direktem Wege ins Uniklinikum geschickt."
 ---
 {% include toc.html %}
@@ -120,4 +123,4 @@ Bis dahin halte ich euch auf dem Laufenden.
 
 Eure Sarah
 
-Bildquelle Uterus: http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gray1167_de.svg/1000px-Gray1167_de.svg.png
+Bildquelle Uterus: <a href="http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gray1167_de.svg/1000px-Gray1167_de.svg.png" rel="nofollow">wikimedia.org</a>

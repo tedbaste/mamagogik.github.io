@@ -12,8 +12,11 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserBlau.png
 ---
-Nach langer Planung, nächtelangen Wachliegens bis zum Kopfzerbrechen, Stundenlangen recherchierens und plattgesessenem Po darf ich das Artikelbuffet endlich eröffnen!
+Nach langer Planung, nächtelangen Wachliegens bis zum Kopfzerbrechen, stundenlangen Recherchierens und plattgesessenem Po darf ich das Artikelbuffet endlich eröffnen!
 
 <figure>
 <img src="{{ site.url }}/images/20140414-114815.jpg" alt="Bild eines Notizblocks und dem Wort Start" />

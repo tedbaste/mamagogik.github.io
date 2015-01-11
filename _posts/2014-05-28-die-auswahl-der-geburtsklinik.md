@@ -19,6 +19,9 @@ status: publish
 type: post
 published: true
 ads: false
+sidebar: sidebar-about
+image:
+  teaser: TeaserBlau.png
 excerpt: "Da ich mich ja nun nur noch ca 16 Wochen vom errechneten Geburtstermin entfernt befinde, dachten wir, wäre es so langsam an der Zeit, die verschiedenen Krankenhäuser mal genauer unter die Lupe zu nehmen."
 ---
 <figure>
@@ -44,7 +47,7 @@ Zunächst habe ich mich mal gefragt, was mir denn wichtig an **dem**  Krankenhau
 
 ## Fragenkatalog
 
-Die Homepage 9monate.de hat eine Liste von Fragen entworfen, die man während des Infoabends in den Geburtskliniken stellen kann. Ich habe mir diese Liste ausgedruckt, da ich sie sehr hilfreich finde. Ihr könnt sie [hier](http://www.9monate.de/schwangerschaft-geburt/geburtsvorbereitung/wahl-der-entbindungsklinik-id94463.html) bekommen.
+Die Homepage 9monate.de hat eine Liste von Fragen entworfen, die man während des Infoabends in den Geburtskliniken stellen kann. Ich habe mir diese Liste ausgedruckt, da ich sie sehr hilfreich finde. Ihr könnt sie <a href="http://www.9monate.de/schwangerschaft-geburt/geburtsvorbereitung/wahl-der-entbindungsklinik-id94463.html" rel="nofollow">hier</a> bekommen.
 
 ## Besichtigung die Erste
 
