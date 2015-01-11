@@ -1,0 +1,4 @@
+# Allow crawling of all content
+User-agent: *
+Disallow:
+Sitemap: http://www.mamagogik.de/sitemap.xml
